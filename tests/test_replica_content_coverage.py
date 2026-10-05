@@ -14,12 +14,14 @@ import json
 import pathlib
 import re
 import unittest
+from datetime import date
 from urllib.parse import urlsplit
 
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "replica-manifest.json"
 SNAPSHOTS = ROOT / "replica-snapshots"
+SITE_INDEX = ROOT / "site-index.json"
 
 
 def normalized_path(url: str) -> str:
@@ -99,8 +101,16 @@ class ReplicaContentCoverageTests(unittest.TestCase):
             },
         )
         self.assertGreater(progressive["after"]["visible_text_characters"], progressive["before"]["visible_text_characters"])
-        self.assertIn("September 30", self.visible_text_for("/calendar"))
-        self.assertIn("October 26", self.visible_text_for("/calendar"))
+        calendar_page = next(
+            page for page in json.loads(SITE_INDEX.read_text(encoding="utf-8"))["pages"]
+            if normalized_path(page["url"]) == "/calendar"
+        )
+        events = calendar_page.get("calendar_events", [])
+        self.assertGreater(len(events), 0)
+        visible_calendar = self.visible_text_for("/calendar")
+        for event in (events[0], events[-1]):
+            event_date = date.fromisoformat(event["date"])
+            self.assertIn(f"{event_date:%B} {event_date.day}", visible_calendar)
         self.assertNotIn("daily-agenda-load-more-button", html)
 
     def test_progressive_tech_fair_galleries_keep_their_public_media(self):

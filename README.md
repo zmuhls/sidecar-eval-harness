@@ -1,6 +1,6 @@
 # Digital Equity page-aware Website Guide
 
-This repository publishes a visual mirror of the public Digital Equity site together with the sources used by its Website Guide. The September 28 inventory contains 154 public HTML routes drawn from the Wix sitemaps, blog feed, pagination links, and public member links. Each route is rebuilt from a reviewed rendered capture so the public layout, imagery, navigation, FAQs, calendar, and page text remain faithful to the current Wix site while trackers and authenticated services remain excluded.
+This repository publishes a visual mirror of the public Digital Equity site together with the sources used by its Website Guide. The October 5, 2026 capture contains 154 public HTML routes from the Wix sitemaps, blog feed, pagination links, and public member links, all at published Wix revision 2101. Each route is rebuilt from a reviewed rendered capture so the public layout, imagery, navigation, FAQs, calendar, and page text remain faithful to the current Wix site while trackers and authenticated services remain excluded.
 
 The source text remains readable when the model service is unavailable. The published Pages configuration calls the canonical Railway backend at `https://guide-api-production-a1a1.up.railway.app`. That service holds credentials, accepts the `https://zmuhls.github.io` browser origin, and applies per-conversation and shared daily limits. With `CAIL_API_KEY` configured, each accepted message reaches GLM-5.3-Flash through the CAIL gateway. A valid model clarification may prompt one more generation with wider approved site evidence. A provider failure never starts a silent retry or switches providers. There are no automatic repair generations, canned answers, or classifier responses. Warm-up refreshes calendar evidence without generating a chat answer.
 
@@ -8,8 +8,8 @@ The source text remains readable when the model service is unavailable. The publ
 
 The index is a public-site inventory, not a claim that every URL can support an answer. The current crawl contains:
 
-- 111 current operational pages that may support answers.
-- 9 excluded pages, including inactive, member, upload, and administrative pages.
+- 117 current operational pages that may support answers.
+- 7 excluded pages, including inactive, member, upload, and administrative pages.
 - 21 archived pages retained for provenance and historical navigation.
 - 9 navigation records that can lead to another page but cannot establish current service facts.
 
