@@ -636,7 +636,18 @@ def fetch_live_calendar_source(base_source: dict, timeout: float = 8.0) -> dict:
                 "label": " · ".join(value for value in details if value),
             })
         source["calendar_schedule"] = schedule
-        source["calendar_events"] = calendar_events
+        source["calendar_pdf_events"] = calendar_events
+        agenda_events = base_source.get("calendar_events")
+        if isinstance(agenda_events, list) and agenda_events:
+            # The rendered agenda is the current booking surface. The linked
+            # PDF may describe a shorter or older monthly schedule, so retain
+            # its hours/location above without replacing the page's upcoming
+            # sessions in the Guide's date-specific evidence.
+            source["calendar_events"] = list(agenda_events)
+            source["calendar_agenda_source"] = "rendered_site_agenda"
+        else:
+            source["calendar_events"] = calendar_events
+            source["calendar_agenda_source"] = "downloadable_calendar_pdf"
     return source
 
 

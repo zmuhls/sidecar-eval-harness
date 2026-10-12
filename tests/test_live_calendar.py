@@ -231,6 +231,54 @@ Visit the Digital Equity site
         self.assertIs(pdf_call["allowed_final_url"], live_calendar._allowed_calendar_pdf_result_url)
         self.assertGreater(source["calendar_extracted_characters"], 40)
 
+    def test_current_rendered_agenda_stays_authoritative_over_shorter_pdf_schedule(self):
+        agenda_events = [
+            {
+                "date": "2027-03-05",
+                "label": "Friday, March 5, 2027: Tech Time: Foundations · 1:00 pm",
+            }
+        ]
+        base = {
+            "id": "calendar",
+            "blocks": ["Class Locations"],
+            "calendar_events": agenda_events,
+        }
+        responses = [
+            (
+                b'<a href="/_files/ugd/current.pdf">Class schedule</a>',
+                live_calendar.CALENDAR_URL,
+                "text/html",
+            ),
+            (
+                b"%PDF-1.7 fixture",
+                "https://03d919e5-5c1e-4845-ab5a-446f1da5e87a.filesusr.com/ugd/current.pdf",
+                "application/pdf",
+            ),
+        ]
+        pdf_schedule = """DIGITAL EQUITY PROGRAM LIC Training Schedule
+October 2026
+LIC: MAIN SERVICE CENTER
+29-76 NORTHERN BLVD, ROOM 133
+TIME: 2:00 PM - 3:30 PM
+TUE | OCT 13 Digital Safety: Recognizing Online Threats
+For more info or to register:
+Visit the Digital Equity site
+"""
+        with mock.patch.object(
+            live_calendar, "fetch_public_bytes", side_effect=responses
+        ), mock.patch.object(
+            live_calendar,
+            "extract_pdf_readings",
+            return_value=[{"kind": "linear", "text": pdf_schedule}],
+        ):
+            source = live_calendar.fetch_live_calendar_source(base)
+
+        self.assertEqual(source["calendar_events"], agenda_events)
+        self.assertEqual(source["calendar_agenda_source"], "rendered_site_agenda")
+        self.assertEqual(len(source["calendar_pdf_events"]), 1)
+        self.assertEqual(source["calendar_pdf_events"][0]["date"], "2026-10-13")
+        self.assertEqual(source["calendar_schedule"]["month"], "October 2026")
+
     def test_live_source_rejects_non_pdf_content_before_extraction(self):
         responses = [
             (
