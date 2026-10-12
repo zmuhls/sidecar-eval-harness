@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-05T13:15:34.778Z",
+  "captured_at": "2026-10-12T13:12:10.227Z",
   "source_origin": "https://www.fortunedigitalequity.org",
   "route_count": 154,
   "capture": {
@@ -23,7 +23,7 @@
       "status": 200,
       "title": "The Fortune Society | Digital Equity Program",
       "site_revision": 2101,
-      "etag": "W/\"834b8c16b75b2f1a4765b131df17c999\"",
+      "etag": "W/\"1327c3cce6187ab44b56768dfc18b2fa\"",
       "embed_previews": 2,
       "static_content": {
         "wix_accordions": 8,
@@ -50,10 +50,10 @@
           }
         }
       },
-      "source_bytes": 903872,
-      "snapshot_bytes": 242264,
-      "source_sha256": "4cbacac1b7b7d8a602bc80ee2f9343c84a28f55b99b2186d8152fbeebf271d6b",
-      "snapshot_sha256": "fde632caa71d560a1d8d1e04f38eb616f88e1e1b887efcfd01eb6b03fc989f86"
+      "source_bytes": 904762,
+      "snapshot_bytes": 242294,
+      "source_sha256": "2888e8575c7ce1acae8dbbed1b8378e5df9ec934a1a0100116567824f35f8671",
+      "snapshot_sha256": "83a8427aaa2c0b16153d1441b3c4b8552914ff411d8a686b24c211bc2a21139a"
     },
     {
       "id": "page-about-59ff9683",
@@ -64,7 +64,7 @@
       "status": 200,
       "title": "About | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"a5311414820bc8035f808a046aef02e3\"",
+      "etag": "W/\"a334af74ffdeec53f18e34822aae3d1f\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -91,10 +91,10 @@
           }
         }
       },
-      "source_bytes": 285312,
-      "snapshot_bytes": 45238,
-      "source_sha256": "b8f26440f24c4b79d40dcf8d568ba31386e8966bbfd244be7c1611f801cd816f",
-      "snapshot_sha256": "4d6089680b01898484467ecfda6f4ba521b3ac20697a63b8c4c9a1972838b058"
+      "source_bytes": 284844,
+      "snapshot_bytes": 45247,
+      "source_sha256": "a10f83d591df624f96406313182838beec3196f80f4aafcf6d28415f0f99dee0",
+      "snapshot_sha256": "66fe462e873e33abaaea41b9566f70480e6f3f8a8a4020d6db61ec52df658ab4"
     },
     {
       "id": "page-about-impact-4bd24a44",
@@ -105,7 +105,7 @@
       "status": 200,
       "title": "Impact | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"2958e13c7c9b3ce24470b3d02af10dcb\"",
+      "etag": "W/\"46c2c4407cd44386a5b3b5adb1f8c3b3\"",
       "embed_previews": 1,
       "static_content": {
         "wix_accordions": 0,
@@ -132,10 +132,10 @@
           }
         }
       },
-      "source_bytes": 604903,
-      "snapshot_bytes": 305180,
-      "source_sha256": "bf8edb17379bba405eff81b9b349db8c1c978e355309cb0a746d8d1b789f84b6",
-      "snapshot_sha256": "8f766ebebddaf117db09532f731bc89be5a0ed9c48e3a84a0cb985c2c5986329"
+      "source_bytes": 605391,
+      "snapshot_bytes": 305643,
+      "source_sha256": "dd4b430234f73c4bc2e6dad6987fdc6051ae6ae18921adcafd99071ef9c1483c",
+      "snapshot_sha256": "6af5a0151f3862f34fb115652a112e480434a7864766940e27f8b3fda2b9ba5f"
     },
     {
       "id": "page-calendar-86824f99",
@@ -146,7 +146,7 @@
       "status": 200,
       "title": "Calendar | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"20c9c17bb0503bce5201e7279fc6cc10\"",
+      "etag": "W/\"04f37a7a9fb86ddab32549ee26cd208b\"",
       "embed_previews": 1,
       "static_content": {
         "wix_accordions": 0,
@@ -165,23 +165,23 @@
           },
           "calendar_popup_dismissals": 0,
           "before": {
-            "visible_text_characters": 1386,
+            "visible_text_characters": 1381,
             "links": 8,
             "service_page_links": 0,
-            "images": 13
+            "images": 12
           },
           "after": {
-            "visible_text_characters": 6679,
+            "visible_text_characters": 6640,
             "links": 9,
             "service_page_links": 0,
             "images": 101
           }
         }
       },
-      "source_bytes": 740327,
-      "snapshot_bytes": 83373,
-      "source_sha256": "3e60cb9d2408cf000e89905e1f45446d0e1c92bf76267b6fe026b811e1e3b9f5",
-      "snapshot_sha256": "f2b8677cb902e8a2940d833fa56adfcc1adae75014df2572f5640847f65cbddf"
+      "source_bytes": 744987,
+      "snapshot_bytes": 83316,
+      "source_sha256": "fc53a132aa972cb817faae314bacf9eb33934079c18ed620c0ebe1d31f9cee26",
+      "snapshot_sha256": "54de38e79022bdcdad496bf963e8adc749cf8e0f6ee6c1492f9b53693b4addc4"
     },
     {
       "id": "page-catalog-4360792f",
@@ -192,7 +192,7 @@
       "status": 200,
       "title": "Class Catalog | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"68e834859909ecbe991e421b07151c54\"",
+      "etag": "W/\"4f490faf07d7916b761bcef6eb4d3de4\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -219,10 +219,10 @@
           }
         }
       },
-      "source_bytes": 634296,
-      "snapshot_bytes": 71676,
-      "source_sha256": "9252348ce7d7956490f71777afc89f0d721b6b87dee91155152b6363c94a9ebc",
-      "snapshot_sha256": "b4af3784e23ae2378c5c1cde0eceb0d14709b27ea502524c82e191f33e64fdb2"
+      "source_bytes": 634187,
+      "snapshot_bytes": 71661,
+      "source_sha256": "65ca8813e47a2c368692b3c1c87d9c3ab454940831eb5a247ba4bc50b182fdec",
+      "snapshot_sha256": "dcfa773cb7511c60db90d524e1e56ee02aa69b3968590aed2c00c69bd3975f4d"
     },
     {
       "id": "page-certifications-df2337b0",
@@ -233,7 +233,7 @@
       "status": 200,
       "title": "Microsoft Certifications | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"69e8b8382b587e206df72b0ebcb31927\"",
+      "etag": "W/\"891a059efc9722e0a16fb937909a53e7\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -260,10 +260,10 @@
           }
         }
       },
-      "source_bytes": 239522,
-      "snapshot_bytes": 37814,
-      "source_sha256": "3ad852b5b2ff0f665a2a0d1b527643369294c72923d793a913a584b95b8fbc8a",
-      "snapshot_sha256": "61d1fb7797736ac0cdc0f05621aa524985bec61d622b63639b7a60136a56ddf7"
+      "source_bytes": 239333,
+      "snapshot_bytes": 37815,
+      "source_sha256": "0920b179b6fa5c0e22daafccb5b2e899677ed612f7d6699b81841b7481d26387",
+      "snapshot_sha256": "376f70c7f58eeea2122bb4dda28e31c8bfe7fc5d8a66862145bf970b9e0e7afb"
     },
     {
       "id": "page-contact-7c8ae02b",
@@ -274,7 +274,7 @@
       "status": 200,
       "title": "Contact | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"fabbd1b7b7fec27dcc9f4e4fb44fc6e3\"",
+      "etag": "W/\"56ef1e7f8f9fe953d4045da4faf97d81\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 4,
@@ -302,9 +302,9 @@
         }
       },
       "source_bytes": 685869,
-      "snapshot_bytes": 103839,
-      "source_sha256": "f11387143a649cb7249c323a660c7506ed4cdf940b207f13101f8acd82705f32",
-      "snapshot_sha256": "582e99e4030565353f74ac99aab2e90008ec08884827d7b235b5048a1fdd3488"
+      "snapshot_bytes": 103851,
+      "source_sha256": "9896afa1fe1001745517563e1bb7f4d7d25706688141a1d5715cfa05593dec42",
+      "snapshot_sha256": "82bd6281472b0abec9b4b28660f31b5aedd17b2fbad3c7ad77e5dd740ea4961f"
     },
     {
       "id": "page-deiqa-dbf22eb5",
@@ -315,7 +315,7 @@
       "status": 200,
       "title": "DEI Q&A | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"ea7567008c58af4fe836d70a2132ee80\"",
+      "etag": "W/\"f9525690f0a5e585d3574bfcdcf0aef6\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -343,9 +343,9 @@
         }
       },
       "source_bytes": 220783,
-      "snapshot_bytes": 36967,
-      "source_sha256": "411c3d8256b5fa5eda15a898b9dfdc263f267cc85a0ecf269915427f3fa2f0cf",
-      "snapshot_sha256": "24984dc223c47756d8ae63d226a788be74d8b761f1d61eb4df8cf6c45f6fd2c4"
+      "snapshot_bytes": 36971,
+      "source_sha256": "681a6979f6b4aa15915d192d6ae9b31e994f191f53ce84b97ff09fcf023c37be",
+      "snapshot_sha256": "d6e634c4e1a53e25e71f36fa4f1c98372c42dd05438f29763f549ae7d59d9081"
     },
     {
       "id": "page-devices-4f203f1b",
@@ -356,7 +356,7 @@
       "status": 200,
       "title": "Devices | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"e4f744754106d19b1a9ab747a6084726\"",
+      "etag": "W/\"1dc1927b1d38a6756d1c21cd38293d0b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -384,9 +384,9 @@
         }
       },
       "source_bytes": 218773,
-      "snapshot_bytes": 36615,
-      "source_sha256": "723873beb687e0582c08165f7cbaf0fa1587bfba1fc3cd2b8160ab247cd8f198",
-      "snapshot_sha256": "7e45362e057426f440ab8a803b7fd9121e4ff2bc89d856291353ec8c52261779"
+      "snapshot_bytes": 36618,
+      "source_sha256": "a378a940b1673cb25e5e6e31936fe9fb480fa047b4572c5360817317189cb609",
+      "snapshot_sha256": "06a008ca30b90b789e6cefeee52fb6e3851f119e8dcc9e40b2753c191994e382"
     },
     {
       "id": "page-events-7b460f87",
@@ -397,7 +397,7 @@
       "status": 200,
       "title": "Special Events & Sessions | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"dceb0eb7cd59467cdcc44179f932f145\"",
+      "etag": "W/\"898ad394a5620de324b6546caa304b99\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -425,9 +425,9 @@
         }
       },
       "source_bytes": 284088,
-      "snapshot_bytes": 48554,
-      "source_sha256": "8580cd09751e44f23f0f5e519514aa72a190525b18a02f9c0f968e149bcdabc5",
-      "snapshot_sha256": "a2ab547f4325084d08b7d58829c797fe88e44496f5d7748db374a63c6f60ed32"
+      "snapshot_bytes": 48553,
+      "source_sha256": "3ee493dbd4e8a1db56e12e48d3410de7fdf84274bf16d0ed9e6eb22878705a5e",
+      "snapshot_sha256": "de770de155e9d7dcb06a922ef5727071213e16ff14aad19be26f8de0875f59d8"
     },
     {
       "id": "page-events-ai-qa-d8e77da8",
@@ -438,7 +438,7 @@
       "status": 200,
       "title": "AI Month Q&A | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"0e191941680b69b3cdf1e7150813d4b5\"",
+      "etag": "W/\"5c69709a5910baa093a3ece7b33d3a44\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -465,10 +465,10 @@
           }
         }
       },
-      "source_bytes": 220979,
-      "snapshot_bytes": 36977,
-      "source_sha256": "3eab5ae93172adea7a4eec1127d1fa6ebbc80c141962ef7164fc07a0d2fc0aaa",
-      "snapshot_sha256": "937018d1ddf81974c6de65f130bf2edee462c906406caa11c9d97d57bb828619"
+      "source_bytes": 220930,
+      "snapshot_bytes": 36958,
+      "source_sha256": "2af34d4b7040044d88817fb3f2e775a16d3bb88437ec0f1b5be4c62b7c9717e6",
+      "snapshot_sha256": "97a18f1167faac362870c8034be36c5dd6e4b4c9631d53a9a0afeed8fac3829e"
     },
     {
       "id": "page-mediakit-c07624f0",
@@ -479,7 +479,7 @@
       "status": 200,
       "title": "Media Kit | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"a08e748aea79799c38048617a5a99dba\"",
+      "etag": "W/\"3dfeab7a9d2196a7e7e07debc74a9cab\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -507,9 +507,9 @@
         }
       },
       "source_bytes": 220285,
-      "snapshot_bytes": 35804,
-      "source_sha256": "2fd55022dca2b45626e5392815cffafa3d6b3ceb7f296d6e7d01e27c3a60c019",
-      "snapshot_sha256": "25e01301f75617ce87e96513243a541dd04d5735e6db79d6116ec5d1c314b045"
+      "snapshot_bytes": 35809,
+      "source_sha256": "4cc055384b3834516977f5e62ef632f2c5d675767b5b578bf6d152855c77f241",
+      "snapshot_sha256": "9b26b765ec4417e2b4f081388ba37a8ca82dc06eebf8c580b792ac5956ce5953"
     },
     {
       "id": "page-members-4d8b4853",
@@ -520,7 +520,7 @@
       "status": 200,
       "title": "Members | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"77d2991b6df2e663dfa3235acd01f564\"",
+      "etag": "W/\"83a0b617ed2b6b550441b0ee2cfabc6e\"",
       "embed_previews": 1,
       "static_content": {
         "wix_accordions": 0,
@@ -548,9 +548,9 @@
         }
       },
       "source_bytes": 213655,
-      "snapshot_bytes": 50472,
-      "source_sha256": "3e01de10c6a0468864f90434110c8465a0e558a433d3437a363049f6d61b991c",
-      "snapshot_sha256": "dd2ba1807861bedd17832379db07cbeb54e15ad5d92a06e05434cd5c28b5e47f"
+      "snapshot_bytes": 50475,
+      "source_sha256": "e48d6016c82ddcf0da80b650b8fac7f2aeb1d40bbfae01de23dd2b025bee4a64",
+      "snapshot_sha256": "c6798f15017c3c2202bdd4fa9cc9b8ba5313cf79c6ed7e2f756e9844381ab165"
     },
     {
       "id": "page-news-f22886e6",
@@ -561,7 +561,7 @@
       "status": 200,
       "title": "News | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"8ab8d5e27f94765bebaef7c2e8f25f18\"",
+      "etag": "W/\"cfdec4769e33b0723ac1d46ae74badb5\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -588,10 +588,10 @@
           }
         }
       },
-      "source_bytes": 576954,
-      "snapshot_bytes": 78119,
-      "source_sha256": "eddec33cf171739e8700dd4b226dd384d1d7040f0713813fc101ae17b9e2d0a5",
-      "snapshot_sha256": "e7b1a8ae9bf716338226ed30f093d9f10c03ebc4ebac17133de6fcd0846cd9be"
+      "source_bytes": 574379,
+      "snapshot_bytes": 77519,
+      "source_sha256": "c99964774bd7b9e3b903ed1cc2cb3c3596bb9dc4802c34f1222e12967a6cf65c",
+      "snapshot_sha256": "1ee47e2b1ea3cf985e8054b760b8b8e9e8370c84d05637e0aac2ece634257705"
     },
     {
       "id": "category-news-categories-classes-2f5877df",
@@ -602,7 +602,7 @@
       "status": 200,
       "title": "Classes",
       "site_revision": 2101,
-      "etag": "W/\"7b5890e3214aede6cd22e77ebdabe9b5\"",
+      "etag": "W/\"b3fe7a95f85dd8bc44bdb9fdc76289f5\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -629,10 +629,10 @@
           }
         }
       },
-      "source_bytes": 488378,
-      "snapshot_bytes": 71499,
-      "source_sha256": "171e30467288631a304c30f0b1d9eddb9c74599585d88aa0153411ac7704bc72",
-      "snapshot_sha256": "a5df56fff3cffbdb0c439fdaad0698416fce23af0be71bc6db24acd0e25c43da"
+      "source_bytes": 485803,
+      "snapshot_bytes": 70908,
+      "source_sha256": "ce7758f354227d4f6909f6c694bc4b043d76765f5ffe4aa6ffcad40e507d0d19",
+      "snapshot_sha256": "29f1b9b2328322d57f6e0c1f0cbbc99e547ad959ce53d4dfa9fbab166ac9110d"
     },
     {
       "id": "category-news-categories-events-74c0d014",
@@ -643,7 +643,7 @@
       "status": 200,
       "title": "Events",
       "site_revision": 2101,
-      "etag": "W/\"3bdaec44e4f647fd16380829873f5afc\"",
+      "etag": "W/\"102859c215bc5ccdf9999ad7f27ede19\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -670,10 +670,10 @@
           }
         }
       },
-      "source_bytes": 494155,
-      "snapshot_bytes": 72216,
-      "source_sha256": "760b69e7d9091ff67fdbd0c76c57bdcc7222d73ea370ff4e008ce47c01674b47",
-      "snapshot_sha256": "ab95ae2f74d5e3ceb2c6d36aaca1be3ded52587e2275d4ed44ae5e7d5315f58b"
+      "source_bytes": 491580,
+      "snapshot_bytes": 71626,
+      "source_sha256": "98076b3e3e0c7fcae8eca23a1d86cd2d07a7410ea43441c2d3b93f809dca0f7b",
+      "snapshot_sha256": "1def007a9194509a3fbd3d02edd6717940b4f3299ee4b1921c3016bd5a77dee5"
     },
     {
       "id": "category-news-categories-fortune-bloggers-b05e092d",
@@ -684,7 +684,7 @@
       "status": 200,
       "title": "Fortune Bloggers",
       "site_revision": 2101,
-      "etag": "W/\"b7f0987abcc6e46d03ba5dedde2f4064\"",
+      "etag": "W/\"87410155bd7b9beeeead6c4173124d85\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -711,10 +711,10 @@
           }
         }
       },
-      "source_bytes": 483013,
-      "snapshot_bytes": 71061,
-      "source_sha256": "8e4a5d55f4cd69188893a7a40b0da3bd268a2ca59e11c3a9496a4b5eb7764130",
-      "snapshot_sha256": "c0176fb85d93bfc02b5d575c22c2ec4988fd52b458faa28a34a83d4d0c75301f"
+      "source_bytes": 480438,
+      "snapshot_bytes": 70470,
+      "source_sha256": "34c226eb6bd128352a278acb8a24000f19250882b17f2c99ee617a579b8b635b",
+      "snapshot_sha256": "1d7cf49472c38115c1b9a1c481b7e5460fbc0c390bb67eb01e25834c7fe32db7"
     },
     {
       "id": "category-news-categories-general-eecc9054",
@@ -725,7 +725,7 @@
       "status": 200,
       "title": "General",
       "site_revision": 2101,
-      "etag": "W/\"a2de53c5facca7f90c464a52bb9c469a\"",
+      "etag": "W/\"afecb48dc68aeae4a80e478695f12904\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -752,10 +752,10 @@
           }
         }
       },
-      "source_bytes": 478095,
-      "snapshot_bytes": 70736,
-      "source_sha256": "3ba63b07591522f183ce6ac17925cb7fd0c7aa6848af51768b96d2d42b8ffada",
-      "snapshot_sha256": "96665e17698d3ee0f4c8dba0296814de8b703e0800416098500250768725d3fe"
+      "source_bytes": 475520,
+      "snapshot_bytes": 70151,
+      "source_sha256": "d59e46343b45d3e4758b3b67a7f9c078241c7e96d0a2c4aba9c50e40045f369c",
+      "snapshot_sha256": "591235f1a56c126adb3094fdc94687529c851c66b7788a42fab55bd5831828c3"
     },
     {
       "id": "category-news-categories-press-d19e6630",
@@ -766,7 +766,7 @@
       "status": 200,
       "title": "Press",
       "site_revision": 2101,
-      "etag": "W/\"11266c4a608b38f9101b9bc4c59546c3\"",
+      "etag": "W/\"262ee7c429e07f47806547ce07e0b25b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -793,10 +793,10 @@
           }
         }
       },
-      "source_bytes": 489726,
-      "snapshot_bytes": 71959,
-      "source_sha256": "eaa0c1edb0f8d7fe24c8f634882a811ed76575b57cd1955488a9cabaf0bdb465",
-      "snapshot_sha256": "22fb8c138b53cfd92e154720d735c18131ed7fa7a7eee69bb8d26514312d68ef"
+      "source_bytes": 487151,
+      "snapshot_bytes": 71371,
+      "source_sha256": "16ba3461dddf46693084401a342458790ff4c23245dd72a6c6244ffe48cd2bef",
+      "snapshot_sha256": "5527f94d68822185dee6803bc6c36686a2d4d53977f6c9bd6831f6dcd3845b3c"
     },
     {
       "id": "category-news-categories-student-8c206e2c",
@@ -807,7 +807,7 @@
       "status": 200,
       "title": "Student",
       "site_revision": 2101,
-      "etag": "W/\"591bfd2c972b0644e9b6bd081c5c8c8d\"",
+      "etag": "W/\"719b9fd887562de58e06556956df3975\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -834,10 +834,10 @@
           }
         }
       },
-      "source_bytes": 482968,
-      "snapshot_bytes": 71044,
-      "source_sha256": "0a1f86d56c694020531ad896d0b216b98754a4f0902384a1ec9ec10ae4a1b3c1",
-      "snapshot_sha256": "38d4658f996b1c42264cf3d8d6dab600216908e7fd5fb893b1e2938c7db39ab3"
+      "source_bytes": 480393,
+      "snapshot_bytes": 70464,
+      "source_sha256": "b3aaf72e8dd0ee205d2dbc0ca8742ff43f991175694f129d50f85be1065cee79",
+      "snapshot_sha256": "301ec250fb4adfe109ad29e5d2904e159751daaf37ac3a3156d2e664ceb772b6"
     },
     {
       "id": "category-news-categories-updates-9ee8373f",
@@ -848,7 +848,7 @@
       "status": 200,
       "title": "Updates",
       "site_revision": 2101,
-      "etag": "W/\"2b505c569d83fea4c11f540380a65c74\"",
+      "etag": "W/\"3a57fa2c0d1480d5da1735653f1f14d0\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -875,10 +875,10 @@
           }
         }
       },
-      "source_bytes": 504989,
-      "snapshot_bytes": 72746,
-      "source_sha256": "556b8ef0801ccec4a52b11cf8181a9f7004d5e9caf372771d50817b787d2ee60",
-      "snapshot_sha256": "9f3c4e1ba9b1301b4cb21046a3de9656187cb77d592bb197807d9d54178332db"
+      "source_bytes": 502414,
+      "snapshot_bytes": 72156,
+      "source_sha256": "83a4d5f6a83ded27f92558790bb79a0205fb697fd4413ca3fe1cbd71a98e7838",
+      "snapshot_sha256": "790f1cd7c73b3b78eaa242678778e609d9d8ec5017012d9b6844b22b397c6dfc"
     },
     {
       "id": "category-news-page-2-32287912",
@@ -889,7 +889,7 @@
       "status": 200,
       "title": "News | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"510b7f4a6c3e7929c8f693b0c7fe7649\"",
+      "etag": "W/\"c64ead5fdc27a1d8ede657354d6dda76\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -916,10 +916,10 @@
           }
         }
       },
-      "source_bytes": 528299,
-      "snapshot_bytes": 74923,
-      "source_sha256": "5f99d7ca808d7c08250e8e80829e08664339021c146fd821f304b958660b3817",
-      "snapshot_sha256": "bdd21e0a20c31d9e7d7b38b18b92251ed8e56b6f4ec92c1932eb96a7cf9fb030"
+      "source_bytes": 525724,
+      "snapshot_bytes": 74344,
+      "source_sha256": "e68d861a7dca94cd689307686fe07c4d900c51322439ed9822a7715cd6aabe4c",
+      "snapshot_sha256": "b9b4c1fb90432a14c7d9e336d71336a4d2cbf06e7216fc9d8e3615eec67cd110"
     },
     {
       "id": "category-news-page-3-1cd3d02b",
@@ -930,7 +930,7 @@
       "status": 200,
       "title": "News | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"40d3fadcf7c1557c0cb1fcd42b37649f\"",
+      "etag": "W/\"0964c96b8a6cc54450c399e8b802aafa\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -957,10 +957,10 @@
           }
         }
       },
-      "source_bytes": 478681,
-      "snapshot_bytes": 70838,
-      "source_sha256": "d124153de8ca50077cf5b9dbbdb5532ff62a779822c94223f0f24d998540f4b2",
-      "snapshot_sha256": "e5441e20e7eee05b0b09866699a159d813c43d931e3f7d87b169c8f65ad727c7"
+      "source_bytes": 476106,
+      "snapshot_bytes": 70254,
+      "source_sha256": "a3a57492962ae4459583115a6b3f63d3f6a70084609aa21fe024a5acf51fde76",
+      "snapshot_sha256": "a62e5ca4f9141cf28b837071b097b8759e82bd6d09c06c8a29ff96b4d70b278b"
     },
     {
       "id": "page-opportunities-34b5847f",
@@ -971,7 +971,7 @@
       "status": 200,
       "title": "Opportunities | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"b2e819103db727df0802c2a57cbfd658\"",
+      "etag": "W/\"07b862713980f998cf8f927dbff5fad6\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -998,10 +998,10 @@
           }
         }
       },
-      "source_bytes": 232872,
-      "snapshot_bytes": 37856,
-      "source_sha256": "458d863d76f03273ffad7e200cab86769a3c78cd2bad08fbd705ce183c02ed8a",
-      "snapshot_sha256": "813166f9a81d35414fb5ae912d3f707eddc4594edbe17ce3977a80b278279ec0"
+      "source_bytes": 233019,
+      "snapshot_bytes": 37867,
+      "source_sha256": "1ea110592dd62c52fc3491cfefe69874e44a27aafb63abe3acd4e47dced0c89a",
+      "snapshot_sha256": "e337d78f4b8644a9d84d5a3a71de196b526349136277cb518049eb90ba41dfb6"
     },
     {
       "id": "page-other-8ecc2214",
@@ -1012,7 +1012,7 @@
       "status": 200,
       "title": "Other Digital Resources | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"c909b9672637fde80856a66ae43f40ba\"",
+      "etag": "W/\"0e9032dd0f8641f4560511dd6bc7da78\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1040,9 +1040,9 @@
         }
       },
       "source_bytes": 251799,
-      "snapshot_bytes": 39775,
-      "source_sha256": "091e50d5065e418d6168cac3a3c5b887c250df5c19a2f0e7a1c40f89b8d6e5f0",
-      "snapshot_sha256": "1287bdd3e51f720ba9bbef00a1ecce7bbb8764b03590894bae180487961e1557"
+      "snapshot_bytes": 39779,
+      "source_sha256": "46e80c77d25e9e8a145ab2a15997763b2572e89c4d8b1e28107d6d465d97bb77",
+      "snapshot_sha256": "26a5e554b6df4c64cc73f656760f86f1a02aa5f53922d8c8510bf9d578e89f46"
     },
     {
       "id": "page-pdf-a771070b",
@@ -1053,7 +1053,7 @@
       "status": 200,
       "title": "Professional Digital Foundations | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"820a10875289560f2f8cbc1e9269ec4a\"",
+      "etag": "W/\"7ca622693181d71a6cdaa6229d4e2385\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1080,10 +1080,10 @@
           }
         }
       },
-      "source_bytes": 238011,
-      "snapshot_bytes": 37969,
-      "source_sha256": "aec0460347bbe6a6bc98868a3c9c7514d0a15c9fc8659bed662dca2f0c816a5c",
-      "snapshot_sha256": "449f2ea9e6c4399d99dbe4ca1cc384278c7f538bc3538441257f5f7085200893"
+      "source_bytes": 237822,
+      "snapshot_bytes": 37971,
+      "source_sha256": "1224576abfd36737f78f55f9eca90e742de7cea5d2d13288c3972b7ec6252bdb",
+      "snapshot_sha256": "a9c6d1e4208e80e2353081b2d735e594a6eb295fcb3e1f7912ff5097855605a8"
     },
     {
       "id": "page-pdf-upload-practice-90540d2e",
@@ -1094,7 +1094,7 @@
       "status": 200,
       "title": "Upload Practice | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"880cd8ab53ec5e9e483f8cec81ae3160\"",
+      "etag": "W/\"29caca43cc846d8e062af5469e048a41\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1122,9 +1122,9 @@
         }
       },
       "source_bytes": 255391,
-      "snapshot_bytes": 42624,
-      "source_sha256": "6533f71623bb96ed3767717081de99105217a6741b658915fa09a0ec35482aaa",
-      "snapshot_sha256": "9324b9da5f21c540b1c776429f21313d432f5c91a96ffd7a15055155553c2310"
+      "snapshot_bytes": 42629,
+      "source_sha256": "845394008424294a2baf0aee6f6555b65df52c2e3e109e07d53aa363a495cb0e",
+      "snapshot_sha256": "4fdf63f0a120f572fc622b131843fad68e6423738539529e868844bdfd32daf3"
     },
     {
       "id": "post-post-2023-technology-fair-e4fd3211",
@@ -1135,7 +1135,7 @@
       "status": 200,
       "title": "2023 Technology Fair",
       "site_revision": 2101,
-      "etag": "W/\"c9589ef7422eef175755011652f475d5\"",
+      "etag": "W/\"7952232bc1b115758e60eb4a08443365\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1162,10 +1162,10 @@
           }
         }
       },
-      "source_bytes": 428129,
-      "snapshot_bytes": 79471,
-      "source_sha256": "ccd15904da3ace9906ae51a11537a4b3c5538b132e812e0e52d4e86c1108db97",
-      "snapshot_sha256": "5ead6529a5b60a61e1c57e9273473e4e13bf24835431d60f1513aaf9efe09e2d"
+      "source_bytes": 424838,
+      "snapshot_bytes": 78826,
+      "source_sha256": "2eb4671496d72ec3786832dacd0fb374b4539e739393fb9673a6162c2484bcbe",
+      "snapshot_sha256": "27a1c993ecf74680a7a42badb4e8355b8f8fa5e38ebb56c386ffddcaf1bddfbf"
     },
     {
       "id": "post-post-2024-tech-fair-registration-open-23c2a426",
@@ -1176,7 +1176,7 @@
       "status": 200,
       "title": "2024 Tech Fair Registration Open!",
       "site_revision": 2101,
-      "etag": "W/\"a3df6edc3b4ae6256febd9a2e03e68af\"",
+      "etag": "W/\"9e3b8e3ff9072db8578aff66f0e9a99c\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1203,10 +1203,10 @@
           }
         }
       },
-      "source_bytes": 434556,
-      "snapshot_bytes": 80417,
-      "source_sha256": "381bba69d6a9cc5f871e145d9e907e6e74e4dfee2e2771f2f4e4469b8b0877bc",
-      "snapshot_sha256": "d1056120936f57de86695772eb3ecee5797e78478891ae2d2bb2a1fd5b428029"
+      "source_bytes": 431253,
+      "snapshot_bytes": 79768,
+      "source_sha256": "5541fd0201daba8f3cb3a4190456b3b51d6535450b506cab7e34de15c2d21377",
+      "snapshot_sha256": "74e1984d103fb36e4200fe744e4d48e5d6bff41401ab0faa2e94eb2375d1a3b9"
     },
     {
       "id": "post-post-brand-new-workshop-called-microsoft-word-styles-02c19704",
@@ -1217,7 +1217,7 @@
       "status": 200,
       "title": "Brand New Workshop: Microsoft Word - Styles!",
       "site_revision": 2101,
-      "etag": "W/\"0cde18ab7f7486b876434e7a47152861\"",
+      "etag": "W/\"621a13db1cc31f60dcf1b08c2bf6120b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1244,10 +1244,10 @@
           }
         }
       },
-      "source_bytes": 434132,
-      "snapshot_bytes": 80726,
-      "source_sha256": "03888e8f780481f50b651a4f979503e9ef617c1e5db62fca50c50f6e0ef03fbc",
-      "snapshot_sha256": "b5b230d8a64cdcfa6eb91eb0e26d0b4a40816f4749e7789fc6963253a0a5b634"
+      "source_bytes": 430841,
+      "snapshot_bytes": 80034,
+      "source_sha256": "b5f61e0865691acbc9c8be2fda6c98cdf81d1490a5340e82577cb7c35dbf5384",
+      "snapshot_sha256": "399b446c34d1a0ac0a543634873a78219afd652be231f1dc23cc6aefbaad1692"
     },
     {
       "id": "post-post-bridging-the-digital-divide-behind-the-bars-beyond-release-a9ef32c8",
@@ -1258,7 +1258,7 @@
       "status": 200,
       "title": "Bridging the Digital Divide: Behind the Bars, Beyond Release",
       "site_revision": 2101,
-      "etag": "W/\"7d320aba2c6faf7f03cf18f3518f731e\"",
+      "etag": "W/\"ab24d6ca112c067576102cccafd6c5d5\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1285,10 +1285,10 @@
           }
         }
       },
-      "source_bytes": 441611,
-      "snapshot_bytes": 82525,
-      "source_sha256": "fd5703bd6e67fc22215e95c67f72d8ce3dec0072dcd92860703192c7452da8bc",
-      "snapshot_sha256": "5fee64b3db6c7df0a04750120e6dfdde6784faa61d0c37594e959d939fddc7cf"
+      "source_bytes": 438309,
+      "snapshot_bytes": 81864,
+      "source_sha256": "d8ca2b528ee888d20bd6a159012b09560a72ca45068bd39dedc3c829f8a6313b",
+      "snapshot_sha256": "f37986de97a3a86fa2e558c917f9b447303ee2be62df678bb35782d1c5208dc3"
     },
     {
       "id": "post-post-certification-for-success-870f90cb",
@@ -1299,7 +1299,7 @@
       "status": 200,
       "title": "Certification for Success",
       "site_revision": 2101,
-      "etag": "W/\"c6371a5005a03eafd545d37ef0c89582\"",
+      "etag": "W/\"6cc437cbb469af6ea4b39ae26a1a9157\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1326,10 +1326,10 @@
           }
         }
       },
-      "source_bytes": 441018,
-      "snapshot_bytes": 82005,
-      "source_sha256": "89da31bcd30cea026a49914299daac9010ca5a681fc73895274b6cd5bb7933d4",
-      "snapshot_sha256": "109e32ec841aaaeda2e11d638ab4d3ee452bffa03b6a5d782d6f578a806a32f0"
+      "source_bytes": 437719,
+      "snapshot_bytes": 81357,
+      "source_sha256": "c3dcf5034616b0faa5b7954089dca132096771753cfa14d4f34ed818b4da03df",
+      "snapshot_sha256": "25f26ab283de5996615b92f77c44d49338c5431ef39990383d33d3e5772ccce7"
     },
     {
       "id": "post-post-check-out-our-digital-resources-ba1f0e5b",
@@ -1340,7 +1340,7 @@
       "status": 200,
       "title": "Check Out Our Digital Resources!",
       "site_revision": 2101,
-      "etag": "W/\"6d2f2b0df8b46e056cddee3caaecf08a\"",
+      "etag": "W/\"0d8a77833c3296c2256f592c7ea6f738\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1367,10 +1367,10 @@
           }
         }
       },
-      "source_bytes": 443143,
-      "snapshot_bytes": 80743,
-      "source_sha256": "842149099d351334c4bb3e47ee0cbb793c4c969dd9456b45e44df84e5699f23b",
-      "snapshot_sha256": "1a92d36890bb297942745f9c6d0c53e3d13fff8b906f0aabac6be8f09c485b57"
+      "source_bytes": 439852,
+      "snapshot_bytes": 80051,
+      "source_sha256": "c7342c595c1a3ada858eab7c27a7cf5ea53899f5b9fe3e973eec5ea1a07e0104",
+      "snapshot_sha256": "6ef385099f2bd20df358e8941a3215edad8c2dbf5d26bcc433af63ca8b049db8"
     },
     {
       "id": "post-post-closing-the-digital-skill-divide-dcfad8d3",
@@ -1381,7 +1381,7 @@
       "status": 200,
       "title": "Closing the Digital Skill Divide",
       "site_revision": 2101,
-      "etag": "W/\"504232d1bdb76eb3c124daca59eef52b\"",
+      "etag": "W/\"de112fa1daf6d0c9ca4cba394167cbd4\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1408,10 +1408,10 @@
           }
         }
       },
-      "source_bytes": 437968,
-      "snapshot_bytes": 80643,
-      "source_sha256": "f986ee95866e9eca35d94899289ff3bdad94b385913e279546710b987e7f1143",
-      "snapshot_sha256": "a3dfe3917862df92c50078a1c8accf6bc077bbbf1a394845067b1d4ec3d55e85"
+      "source_bytes": 434595,
+      "snapshot_bytes": 79958,
+      "source_sha256": "1fd6e80745ecd112ced92053828a7fce8080412f71e3de2ab07df8cd1d117425",
+      "snapshot_sha256": "3f8a5618951c53ac197da953339566886783d4898a480b1ca71c0d2ef3ce7e5e"
     },
     {
       "id": "post-post-digital-divide-new-initiative-allows-formerly-incarcerated-who-miss-0c64b099",
@@ -1422,7 +1422,7 @@
       "status": 200,
       "title": "Digital Divide: New initiative allows formerly incarcerated who missed out on tech boom to catch up",
       "site_revision": 2101,
-      "etag": "W/\"1dfbaaf3fae7e59bd6b05ab5964ffeb0\"",
+      "etag": "W/\"ff8787e9bcff12a26f9a07c6fac3036a\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1449,10 +1449,10 @@
           }
         }
       },
-      "source_bytes": 439639,
-      "snapshot_bytes": 81052,
-      "source_sha256": "84ac1f97f7e8838751da8f7072795c4243a72c39a3b3c380c8abb759310c817b",
-      "snapshot_sha256": "91d00226f615cad93674ad80c4ebb06a28b17204a0dc3fa3e9cdcb4e820eb488"
+      "source_bytes": 436333,
+      "snapshot_bytes": 80381,
+      "source_sha256": "6d99e16a064c1561c4dddaf8edf27efb99e6dc65e2872009b2cfe01e4cbc7021",
+      "snapshot_sha256": "96753f71eabce4634461c18afb71b5cdeaa5ba6fab1cbac10168a754ff8bcdf0"
     },
     {
       "id": "post-post-digital-equity-coming-to-the-bronx-efebc290",
@@ -1463,7 +1463,7 @@
       "status": 200,
       "title": "Digital Equity Coming to the Bronx!",
       "site_revision": 2101,
-      "etag": "W/\"2a93b8ea6c3d08d172d16f5dae7d06d1\"",
+      "etag": "W/\"c81ab3aa7e0305a0eddf0e970b474686\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1490,10 +1490,10 @@
           }
         }
       },
-      "source_bytes": 439821,
-      "snapshot_bytes": 80287,
-      "source_sha256": "7ace38ee86ac084d4fbe1aacf07d98db9b51963779b29fd0b422c815e54ec89f",
-      "snapshot_sha256": "138ae09f5f35e3cfdcf467ab58f9f52f10a4aec84fb63830ef4de7383dbdbf06"
+      "source_bytes": 436525,
+      "snapshot_bytes": 79625,
+      "source_sha256": "2249d13f1c5b77953ebe7bfd4a71f1fa3e0453463cbf285f4b9d8f284ebcf4c8",
+      "snapshot_sha256": "ef1e802370e4aa4cfe162d7a51f8f5377c829ff65499abd74bb286a32d1f64ef"
     },
     {
       "id": "post-post-digital-equity-training-program-at-the-fortune-society-1efa78e1",
@@ -1504,7 +1504,7 @@
       "status": 200,
       "title": "Digital Empowerment",
       "site_revision": 2101,
-      "etag": "W/\"2640d808a0b64467d6546810f5b2ad0f\"",
+      "etag": "W/\"8f40d60f13852f99be0e41747513980e\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1531,10 +1531,10 @@
           }
         }
       },
-      "source_bytes": 433222,
-      "snapshot_bytes": 80493,
-      "source_sha256": "1f65640d63fce7bfa22ca3b705ed69ea16c09c99742d597d579f243b1b9ea531",
-      "snapshot_sha256": "e4cca1718e97a3be75dc54a2bcb13d7a436c05e6167f0c6e4ec636de9fa4fe0a"
+      "source_bytes": 429931,
+      "snapshot_bytes": 79805,
+      "source_sha256": "f98baf042205f0961a9c7c352dbd209a390cd3ccb3746a967fb435c4addfd7b5",
+      "snapshot_sha256": "a000f0d166736ae74a4267e174c4a2f8ad4c1190d3035b26f354dd09f664e9a1"
     },
     {
       "id": "post-post-fcc-taskforce-to-prevent-digital-discrimination-e5e0d2a5",
@@ -1545,7 +1545,7 @@
       "status": 200,
       "title": "FCC Taskforce to Prevent Digital Discrimination",
       "site_revision": 2101,
-      "etag": "W/\"b55240bb8832d201b0f30664c60d760f\"",
+      "etag": "W/\"7697cb08d18f2ddff022fbfe9d99352e\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1572,10 +1572,10 @@
           }
         }
       },
-      "source_bytes": 424208,
-      "snapshot_bytes": 78586,
-      "source_sha256": "439a33d35677c572eee5be6d945326392078836026f4e55c3097479b0eca0f41",
-      "snapshot_sha256": "536b7b0ced3fb51c53556734e619a9d14cb4e84b5a42d7cc7ee42ae5b813d184"
+      "source_bytes": 420917,
+      "snapshot_bytes": 77884,
+      "source_sha256": "4885676059229e5bcf5e6acedba4d06727ff2ec2079a3182bee1eeaac2deae3e",
+      "snapshot_sha256": "90b0792e3fc4e87be745c9c74f62160c4e1845544141c351d4cc4d54fab1472e"
     },
     {
       "id": "post-post-fortune-society-offers-lessons-in-technology-for-new-yorkers-who-we-aef9e2d5",
@@ -1586,7 +1586,7 @@
       "status": 200,
       "title": "Fortune Society offers lessons in technology for New Yorkers who were incarcerated during tech boom",
       "site_revision": 2101,
-      "etag": "W/\"efff23f96f07512a50d07a79f8077c7e\"",
+      "etag": "W/\"4cd0b9fa8fc221536a5dfb2eb2810df3\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1613,10 +1613,10 @@
           }
         }
       },
-      "source_bytes": 440449,
-      "snapshot_bytes": 80740,
-      "source_sha256": "eadded70786e9bd7ce86e5cf8ae77886b866e9b4dd47a701e02483fdf368ed5e",
-      "snapshot_sha256": "907277047319419768741a19a0211156c62caefdbee7ce17cf49f277f6d4a19b"
+      "source_bytes": 437144,
+      "snapshot_bytes": 80070,
+      "source_sha256": "c1534e52aabfa5d5605eda2ca4d9bfbb8734b4f05412a88c6e2476711cb6843a",
+      "snapshot_sha256": "80c015a2a96d6adccf8ed47dc0050771be8504eef1c134e997ef1a1cd066f295"
     },
     {
       "id": "post-post-intro-to-robotics-7607367b",
@@ -1627,7 +1627,7 @@
       "status": 200,
       "title": "Intro to Robotics!",
       "site_revision": 2101,
-      "etag": "W/\"30c1240be672ce6876c3e5e47ec3605d\"",
+      "etag": "W/\"73b735b4918a6d61e59c694b23ddd0d7\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1654,10 +1654,10 @@
           }
         }
       },
-      "source_bytes": 460252,
-      "snapshot_bytes": 82760,
-      "source_sha256": "4ae9ebd76adc9ec2e89cdd8755598ab66fd103c6758aa72637e3a3e45b43f8de",
-      "snapshot_sha256": "32702210c671552417703e54c749abbed933d7a40e40a1a2ca1b11c3c0621e02"
+      "source_bytes": 456918,
+      "snapshot_bytes": 82122,
+      "source_sha256": "f7d7b7c214a6ae24d64f9bf7d1aa8438541e6b86770a0dc37ce608395578abd7",
+      "snapshot_sha256": "0af7376cb312e3b03c2717a5f628f50acdf4fcc4ce53b9c9221b2d8ca94891f0"
     },
     {
       "id": "post-post-lic-based-fortune-society-hosts-third-annual-tech-fair-for-justice--3152da88",
@@ -1668,7 +1668,7 @@
       "status": 200,
       "title": "LIC-based Fortune Society hosts third-annual Tech Fair for justice-involved New Yorkers",
       "site_revision": 2101,
-      "etag": "W/\"ad4dae60b008d6b07b6242124ecb72ec\"",
+      "etag": "W/\"8c9bd686308709b610a87f7670f50533\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1695,10 +1695,10 @@
           }
         }
       },
-      "source_bytes": 444954,
-      "snapshot_bytes": 82222,
-      "source_sha256": "50730c2952c71bae03c8ad0501d0f7ab1b76c5fce74471457697cf6fd14f82a3",
-      "snapshot_sha256": "16c0c3a5e495cb4805c0e8ba03e91f75929d5944235d42f2cc4f4e8344676458"
+      "source_bytes": 441663,
+      "snapshot_bytes": 81525,
+      "source_sha256": "097ee00f221fe177fab8a968cce427f4d4710e6b67e31242e4ccf7a6093446a2",
+      "snapshot_sha256": "79b376fb638b2cc77694517a4bc578b1d8a7f8f5274baa366844d4a06b3a8594"
     },
     {
       "id": "post-post-my-experience-with-the-digital-equity-program-5c57ae3d",
@@ -1709,7 +1709,7 @@
       "status": 200,
       "title": "My Experience with the Digital Equity Program",
       "site_revision": 2101,
-      "etag": "W/\"aa2b444164170451aeca297fe484d533\"",
+      "etag": "W/\"077011066fa11fedb0a12063fada3bd5\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1736,10 +1736,10 @@
           }
         }
       },
-      "source_bytes": 437296,
-      "snapshot_bytes": 81377,
-      "source_sha256": "52f4d8204af3e7f2a24a02ce9af4f520eb78732088588d31d41427b508cd0786",
-      "snapshot_sha256": "f6278f63b4d8759d1373ab6bff678860f3b7c273cc0daf7f1e4b3cea36e000ae"
+      "source_bytes": 433997,
+      "snapshot_bytes": 80720,
+      "source_sha256": "8e0df351ec3dc5f1020cd8a19515659b7e5d776979ef471047ba579718dc943f",
+      "snapshot_sha256": "cac7dd5f86c27ee05dbf548545dd84ffcf5d01f2184599475caaec98b4046921"
     },
     {
       "id": "post-post-new-workshops-intro-to-keyboarding-mousing-browsing-and-more-a8d001bd",
@@ -1750,7 +1750,7 @@
       "status": 200,
       "title": "New Workshops: Intro to Keyboarding, Mousing, Browsing, and more!",
       "site_revision": 2101,
-      "etag": "W/\"ed2aba76952816001df1f63a279b6770\"",
+      "etag": "W/\"d4e12b1d9ef9466ca0b4c1540eb0c9c4\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1777,10 +1777,10 @@
           }
         }
       },
-      "source_bytes": 440446,
-      "snapshot_bytes": 80470,
-      "source_sha256": "a5090508ca7f34e2f5b9219b000c7352de81e9caff5add088413815172fa2bda",
-      "snapshot_sha256": "fa8386e222f97c81a721aae0f855891ae234979cbff1f2c2c25e36c0d3f9421f"
+      "source_bytes": 437150,
+      "snapshot_bytes": 79799,
+      "source_sha256": "89bac8be2e61b40d83d7ea3a1fb3354443d3397fdd6a89bfe9e6d175f213f5f4",
+      "snapshot_sha256": "c2da876545b1d3c1711eed0cb3e6341c8304cc92d997615acc7a5485c1d52b34"
     },
     {
       "id": "post-post-nonprofit-helps-bridge-prison-digital-divide-eaac1716",
@@ -1791,7 +1791,7 @@
       "status": 200,
       "title": "Nonprofit Helps Bridge Prison Digital Divide",
       "site_revision": 2101,
-      "etag": "W/\"efc06a2c1d7303c08ca746a229a484e2\"",
+      "etag": "W/\"22b2df27e78c939c1a5b9398d7aee814\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1818,10 +1818,10 @@
           }
         }
       },
-      "source_bytes": 432396,
-      "snapshot_bytes": 80156,
-      "source_sha256": "0dd81df5a8d9c7c51c87bd1eb93d48236b570b360136cfcb4ca38df7caa43213",
-      "snapshot_sha256": "347fda3184b0b94c95296ba55ad013b052897b0daa5789b72bcfee5a192aa3fd"
+      "source_bytes": 429105,
+      "snapshot_bytes": 79464,
+      "source_sha256": "b2498cf7504b685dcb7e7ac0c7533b8439c4b0d25d01178613f9a7a183e531c0",
+      "snapshot_sha256": "5afc8587ce6240b194025fd7da117063461f65810f90b2b7c51900245da0bba5"
     },
     {
       "id": "post-post-reintroducting-the-fortune-society-lobby-reel-48a4e7d6",
@@ -1832,7 +1832,7 @@
       "status": 200,
       "title": "Reintroducing: the Fortune Society Lobby Reel",
       "site_revision": 2101,
-      "etag": "W/\"12c34b3ccd72e5162ad09d474cfd1c12\"",
+      "etag": "W/\"2bc533466197e64cc81bc092ba750ce7\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1859,10 +1859,10 @@
           }
         }
       },
-      "source_bytes": 432840,
-      "snapshot_bytes": 80306,
-      "source_sha256": "09e645bc0e7a5b92e3100e71a2ca89938031906f2984f89cd7ffeb0918d587fe",
-      "snapshot_sha256": "49fd448ad17c6d35e9c4db1491c034f2324cddede04381ee80d99e500bee9e2f"
+      "source_bytes": 429541,
+      "snapshot_bytes": 79646,
+      "source_sha256": "caec211f5c1610ca7ff539fcbeb9f3ecdb0d0a8a88abda9e788a53efde63c42f",
+      "snapshot_sha256": "13799afdd566a46c3e1e0cb79cb9b387e3d484167d3b06a003d2b9fa2eead32c"
     },
     {
       "id": "post-post-the-digital-equity-initiative-at-fortune-and-its-impact-38bbf223",
@@ -1873,7 +1873,7 @@
       "status": 200,
       "title": "The Digital Equity Initiative At Fortune And Its Impact",
       "site_revision": 2101,
-      "etag": "W/\"e92d2787d8739f52c74c7376dbec539b\"",
+      "etag": "W/\"303868ea0212f43ae9667196ba0eb6c3\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1900,10 +1900,10 @@
           }
         }
       },
-      "source_bytes": 456970,
-      "snapshot_bytes": 85606,
-      "source_sha256": "d83a720f10ed907582d1a953be20563122741661da05289240ffff506227f201",
-      "snapshot_sha256": "27a0bbecc276c2414a60af8df54367812c9c6700f98ba25b89c3f1872f732819"
+      "source_bytes": 453607,
+      "snapshot_bytes": 84871,
+      "source_sha256": "f3e79e9f1064812c460f8790867696be58bc4e60895a7b179e55c638867ba5f2",
+      "snapshot_sha256": "3b9e2d7d63b515b30c68a9accaf3f32aa254771badebabc916815c8fdfe51ce0"
     },
     {
       "id": "post-post-the-fortune-society-s-technology-fair-787f7e5a",
@@ -1942,9 +1942,9 @@
         }
       },
       "source_bytes": 427718,
-      "snapshot_bytes": 79261,
-      "source_sha256": "3d124cb16b197f3839601c27115ec2e3da52a09e14a9a568b7e5d7f747078cfc",
-      "snapshot_sha256": "6b9e1361505a34d7f259614e619978e00e25d02b098d0b6e3270c8abab935ad2"
+      "snapshot_bytes": 79266,
+      "source_sha256": "4b49707d4d623343ded370cea93759e91d4a2bce0b19d145f54636a6591084d1",
+      "snapshot_sha256": "74c3bd7a1ad76182a26620ad57ae0ef2b88ac139b5396ebb3c8add3c69acf29a"
     },
     {
       "id": "page-practice-e0d2da64",
@@ -1955,7 +1955,7 @@
       "status": 200,
       "title": "Practice Your Skills | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"3466c9d7813f668338fdb7c3d2397287\"",
+      "etag": "W/\"c509b8c5eeedf03b582e8700614401f4\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -1983,9 +1983,9 @@
         }
       },
       "source_bytes": 247821,
-      "snapshot_bytes": 38240,
-      "source_sha256": "c2bce378f3e8ae9af114c6abb2d02d0c3e55835dd1b146cb0d38832e10bde738",
-      "snapshot_sha256": "aaf00d4a1da75e5e2881339c04f1b6c2ca7f93947fd545c374378826a0091fee"
+      "snapshot_bytes": 38242,
+      "source_sha256": "0108e3ff5a26ce77f9a459981adf5d9ac2ec0ba0db572e9c6e2863d64882c657",
+      "snapshot_sha256": "0f60299e1f215ce44c5ae5a685b13df41b29b0b263a1866882a0306c2391cbfe"
     },
     {
       "id": "page-projects-324ebb4f",
@@ -1996,7 +1996,7 @@
       "status": 200,
       "title": "Projects | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"951105cd3609176e71e3e7753bdc913a\"",
+      "etag": "W/\"c991c583ac5b59e6a6928602aca9700b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2023,10 +2023,10 @@
           }
         }
       },
-      "source_bytes": 209660,
-      "snapshot_bytes": 35156,
-      "source_sha256": "6753d43164b085de4b56bdb34a0215f409fcf345b83f0e75ba5dfc85fc88db0b",
-      "snapshot_sha256": "1e62a42502435a2cbe57f84dc4048a454a194ad6280b7a10023c3d7edae008bc"
+      "source_bytes": 209471,
+      "snapshot_bytes": 35159,
+      "source_sha256": "3b544da6617552ca227317273b4aab8125746bdae65b63fb404bae8fb70bf9a4",
+      "snapshot_sha256": "e613ca1f18d80079cdd3d5e2322d20961095d821dfbc2c8d89f7c09479cc13df"
     },
     {
       "id": "service-service-page-ai-awareness-month-kickoff-1daf8ba4",
@@ -2037,7 +2037,7 @@
       "status": 200,
       "title": "AI Awareness Month Kickoff | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"00a02cd56b2ad4e9939ad3e8ee9a2ffe\"",
+      "etag": "W/\"5082a3c389674a74aaf3b2f5c22dc167\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2064,10 +2064,10 @@
           }
         }
       },
-      "source_bytes": 541623,
-      "snapshot_bytes": 69736,
-      "source_sha256": "58fb7b0f2b25621364155358e556758a3b7e5b4f74e5b0cbe941bdc41f26bb68",
-      "snapshot_sha256": "3f797bf2ac405e0d4471f83adea9edad963172fac21133c34a77a5cbdb1b9010"
+      "source_bytes": 541630,
+      "snapshot_bytes": 69717,
+      "source_sha256": "49e59d7521a37e2786cabde8078a192fd6c9bb5ab81607508175e43f85b17384",
+      "snapshot_sha256": "3228cf41d1b346c6acbb7dd2764eff81f9961cae8d19aa8faceac4769c924305"
     },
     {
       "id": "service-service-page-ai-effects-tradeoffs-21a8a5ab",
@@ -2078,7 +2078,7 @@
       "status": 200,
       "title": "AI Effects & Tradeoffs | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"a6962b5663031bb929ef9d83b6de3b62\"",
+      "etag": "W/\"4577f587701cf9202bfbd82ddfc76cd6\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2105,10 +2105,10 @@
           }
         }
       },
-      "source_bytes": 538196,
-      "snapshot_bytes": 68708,
-      "source_sha256": "45f781b72f50b204ddc60fe9feaf85b2628dc55f7365c4759be53986ad780510",
-      "snapshot_sha256": "3f11b2bceb64a5a227ef8304771510e242fe761300fbcf1c717f9b71cbb39459"
+      "source_bytes": 538131,
+      "snapshot_bytes": 68646,
+      "source_sha256": "185d6a0d063006a337829713e165cd6e497ccf9e7f7b11173a63491fb3d39a27",
+      "snapshot_sha256": "b2a9ff81106e022d03073533969a5bcec664bd24c41e594afd85f609528e89ef"
     },
     {
       "id": "service-service-page-ai-in-everyday-systems-d73a6cf4",
@@ -2119,7 +2119,7 @@
       "status": 200,
       "title": "AI In Everyday Systems | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"70c611d8ff2e3b9a534aa5dce20f90a0\"",
+      "etag": "W/\"6ae413e7a3971068f1990115c0a6e872\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2146,10 +2146,10 @@
           }
         }
       },
-      "source_bytes": 537705,
-      "snapshot_bytes": 68517,
-      "source_sha256": "8774fa3185aca3e3d289ec435772fc23d306f6a84acae1bfd634eb4b0bba93a8",
-      "snapshot_sha256": "0767e106202086cab5faacf9d73f73dbc707d7807d2fe094ed97f9fd2082af5d"
+      "source_bytes": 537712,
+      "snapshot_bytes": 68502,
+      "source_sha256": "0946e372a446cf6f898a232d10bb2a9681c29e99f8298e4f078d57b0c6cba039",
+      "snapshot_sha256": "d7e31d170825c1eb5f590d8852d9c42db53453e494cdec4bb5dc147cd2a8d07f"
     },
     {
       "id": "service-service-page-ai-safety-in-2026-94d528fe",
@@ -2160,7 +2160,7 @@
       "status": 200,
       "title": "AI Safety In 2026 | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"5294af832576afbe9a2326960ae3c396\"",
+      "etag": "W/\"519b3862578ababfee680037ed07cb1c\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2187,10 +2187,10 @@
           }
         }
       },
-      "source_bytes": 537576,
-      "snapshot_bytes": 68489,
-      "source_sha256": "159e4acd47cb912dfe1a44226f76d90a93cea9ede40cbc9c8b8b55da7927336a",
-      "snapshot_sha256": "12979412f08b01a8ef9c8667a0b734a29704c557450a85aa5402f27579106706"
+      "source_bytes": 537583,
+      "snapshot_bytes": 68469,
+      "source_sha256": "bfd21a5478ef516b7cf69c4de7a7e89f4ce57d05579906dec15b914119c301f0",
+      "snapshot_sha256": "ecd0535356de2abd9322053699406b40b733a1b49a209f115f092ac66540cf2c"
     },
     {
       "id": "service-service-page-alfabetizaci-n-digital-b-sica-en-espa-ol-c9f72881",
@@ -2201,7 +2201,7 @@
       "status": 200,
       "title": "Alfabetización Digital Básica en Español | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"d4be52965fd40ec74eb68da8e0fec183\"",
+      "etag": "W/\"867143e916791d309a2193ebfabbe2bd\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2228,10 +2228,10 @@
           }
         }
       },
-      "source_bytes": 418597,
-      "snapshot_bytes": 59041,
-      "source_sha256": "b20f119b630c8ffe8e2094240823f91f120328fa516c9121f563995f27aceece",
-      "snapshot_sha256": "3d69ea1c007c4ec119a60f19e0162379f273484f1db7483b4c5eb186b491f796"
+      "source_bytes": 418606,
+      "snapshot_bytes": 59016,
+      "source_sha256": "dd7b5ea682c6d42e6d569ab28e18f7193824cbd86945b67fcb86993b32d93523",
+      "snapshot_sha256": "7d50160ab0cbe71322c065020efbe94aa326fd44cf8434cf4cdfdb2adebbc78d"
     },
     {
       "id": "service-service-page-alternative-open-local-ai-tools-144f774e",
@@ -2242,7 +2242,7 @@
       "status": 200,
       "title": "Alternative, Open & Local AI Tools | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"ff3c917e91b746ebe0fe778b77069749\"",
+      "etag": "W/\"273f72cce7b18c947d3879c7c1e726c8\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2269,10 +2269,10 @@
           }
         }
       },
-      "source_bytes": 537809,
-      "snapshot_bytes": 68589,
-      "source_sha256": "a76bc802bcba73cdfd894de04399e3c4409b35a1bc1df990919c73c533550b78",
-      "snapshot_sha256": "f2df45e8066b342e0b5efcc06edb045190646e42ef7b00084f42d933ad70c088"
+      "source_bytes": 537816,
+      "snapshot_bytes": 68569,
+      "source_sha256": "08ea22fc97aa5b475d949afe92b7386bee5ea0c4058112b7b417cec9ec640b39",
+      "snapshot_sha256": "80ceeb0d40002237c5397f6870c4485ebd884de8547aa0d63e0c6c50e8d6386d"
     },
     {
       "id": "service-service-page-app-essentials-contacts-communication-203c4751",
@@ -2283,7 +2283,7 @@
       "status": 200,
       "title": "App Essentials: Contacts & Communication | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"800cb44b0b86f414a18f1341f16896ea\"",
+      "etag": "W/\"e0c117d4e87c6b2e287c1fba2119c16b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2310,10 +2310,10 @@
           }
         }
       },
-      "source_bytes": 536450,
-      "snapshot_bytes": 68074,
-      "source_sha256": "4bda56f8502e2019ff90741b09d2e33278de59bd04fa04955ecc2f0a90d093cc",
-      "snapshot_sha256": "0e9ae7a897df1d1312fe275cff26d394028d7465c592ffce85ece3c8e495b2a1"
+      "source_bytes": 536457,
+      "snapshot_bytes": 68051,
+      "source_sha256": "7bc193d60325ad3eac847d3f61da3f02057d4a97eebf68606bd30e4b5c973773",
+      "snapshot_sha256": "03b64d0b2b0c9ce7f4e5473a813265629c367369f2554b0cb805cb0f2001b07d"
     },
     {
       "id": "service-service-page-app-essentials-managing-your-time-c244b76f",
@@ -2324,7 +2324,7 @@
       "status": 200,
       "title": "App Essentials: Managing Your Time | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"44f7a1707cffb1efc7b732d47493582d\"",
+      "etag": "W/\"f62e4248ca17142e5ce08213f4cbad7d\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2351,10 +2351,10 @@
           }
         }
       },
-      "source_bytes": 536338,
+      "source_bytes": 536345,
       "snapshot_bytes": 68049,
-      "source_sha256": "22999637a636ac1f8be70eeeb6e6b7b66cdfbb2c88761a2e7578e9780cd57d34",
-      "snapshot_sha256": "0b5dc863857795d40f2b89e1e0004974ba33158a6d87faa55e2582cf0093ead0"
+      "source_sha256": "3dcb5d31f68a6d195cd6e8460c0764d9919eef8fad8e6e5562451403c4e551f0",
+      "snapshot_sha256": "048be4857b221e5b9c331e10c2acce2f6937e18a00931d36b40ef449ed20edb6"
     },
     {
       "id": "service-service-page-app-essentials-navigating-safely-7c4d5662",
@@ -2365,7 +2365,7 @@
       "status": 200,
       "title": "App Essentials: Navigating Safely | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"f6cdd0f57ee9824b4c37b930a10af49d\"",
+      "etag": "W/\"4e0942621b387d4d178bb20c75ea7605\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2392,10 +2392,10 @@
           }
         }
       },
-      "source_bytes": 536374,
-      "snapshot_bytes": 68061,
-      "source_sha256": "620067f477dcf3881039f471d3df0973e437b43b8ecde789e0423cd498f50b15",
-      "snapshot_sha256": "1362655ba50faad1d28b8b5095685a9e3e9c5614f70080f27c1e44c622d8e2c2"
+      "source_bytes": 536381,
+      "snapshot_bytes": 68052,
+      "source_sha256": "2cc395b6a31efbd14da03de5540d66739c4d3bde3bb4d2a9c4751cf94c044e56",
+      "snapshot_sha256": "356ef080b01200b75714afc0fb82611ed1104b8e108535f10b3c351663a444ae"
     },
     {
       "id": "service-service-page-app-essentials-smart-features-8b1cc263",
@@ -2406,7 +2406,7 @@
       "status": 200,
       "title": "App Essentials: Smart Features | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"98cc32687a31efe2affaf3aed15ede75\"",
+      "etag": "W/\"c200e95c540e3b4a50be3d5d321622a9\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2433,10 +2433,10 @@
           }
         }
       },
-      "source_bytes": 536350,
-      "snapshot_bytes": 68071,
-      "source_sha256": "1b347762377a29168f18f7564edcadc5ac839fb30d81d667dab83b9d1a6e53bc",
-      "snapshot_sha256": "89820238345ed2c8d8564b80088ad2e0f71f5a14ded38089944ef2ca9e52d8fc"
+      "source_bytes": 536359,
+      "snapshot_bytes": 68059,
+      "source_sha256": "5b50ca20a8ba71dede909974696bc459f7fbe1c2f297907a5c49e3a283d8c9a3",
+      "snapshot_sha256": "8125a2ac332520347c8ad683f4abb556d83b1ce59d514a9d5184a16442aeb67e"
     },
     {
       "id": "service-service-page-app-essentials-transactions-access-01e4e077",
@@ -2447,7 +2447,7 @@
       "status": 200,
       "title": "App Essentials: Transactions & Access | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"d85dc3bf61b94a2e45f01fd852bf2480\"",
+      "etag": "W/\"ba8f2d124e58bb5f27c0947487038750\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2474,10 +2474,10 @@
           }
         }
       },
-      "source_bytes": 536428,
-      "snapshot_bytes": 68071,
-      "source_sha256": "cb207a168235abb506319b764a68b331ef4a8680b0d7a19989d619ebd4d93f99",
-      "snapshot_sha256": "70856d6f77729e206b610a5d6173176f5eb0afb20eb948b763c139eb43dcdfa8"
+      "source_bytes": 536435,
+      "snapshot_bytes": 68052,
+      "source_sha256": "e7d0220b46a513952f9563a1c0b495e344ff5f462cb1ccd31a346db576170ba2",
+      "snapshot_sha256": "647bc661f25bb43063d691d81e5b779620e78ba37a1f64273164d9abd87cbd4c"
     },
     {
       "id": "service-service-page-canva-content-workflows-850ddc38",
@@ -2488,7 +2488,7 @@
       "status": 200,
       "title": "Canva Content Workflows | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"66638dbec1f316a17c5a1f3e8b1d77fe\"",
+      "etag": "W/\"d29877a44362a717f5337b3562f338d2\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2515,10 +2515,10 @@
           }
         }
       },
-      "source_bytes": 538343,
-      "snapshot_bytes": 68731,
-      "source_sha256": "4be2b870a6543524f4996ef09d0ddbab70482ed7ffd4cbc734103953f21aa099",
-      "snapshot_sha256": "07aa3b653f5ccd10fe48d928364ae22fb66a87a853347b8d9feaccfa1521ac16"
+      "source_bytes": 538352,
+      "snapshot_bytes": 68706,
+      "source_sha256": "b21b54e8f52396a6ad97c744ec39036d2a12c06317f8294daf505c4db115d131",
+      "snapshot_sha256": "087b46289cbcf8122d4b1e45b307cbe8384946c771c4ece4518955ee399d4099"
     },
     {
       "id": "service-service-page-canva-design-tools-61911b2b",
@@ -2529,7 +2529,7 @@
       "status": 200,
       "title": "Canva Design Tools | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"62dc6fd6584b9ab5e28f5d34bbc302cf\"",
+      "etag": "W/\"da6a1f39039013797f745abaca4f7e18\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2556,10 +2556,10 @@
           }
         }
       },
-      "source_bytes": 538253,
-      "snapshot_bytes": 68699,
-      "source_sha256": "38e10ebc32f94616fbd1e2a6fb80225f79e1d61aa2b49f921fa8a9f1350aa0d8",
-      "snapshot_sha256": "a6701e1a844629b0df0736cf4514298681d2c94f6ca377664c73347339d1cf2f"
+      "source_bytes": 538260,
+      "snapshot_bytes": 68682,
+      "source_sha256": "911b9214ec0c0143f5243e55e0caa774fb68e1f83295375985a303b74ff3581b",
+      "snapshot_sha256": "7a721f72ca04dd18251dec53a512ea09896c920f8411f756978fbcfcf5fa5c69"
     },
     {
       "id": "service-service-page-capstone-activity-using-ai-5e98eaca",
@@ -2570,7 +2570,7 @@
       "status": 200,
       "title": "Capstone Activity Using AI | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"bb19c04147230a862ce6d4abe537bc42\"",
+      "etag": "W/\"e186e2b5aa4174bc7f9475d8fc67f428\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2597,10 +2597,10 @@
           }
         }
       },
-      "source_bytes": 537315,
-      "snapshot_bytes": 68442,
-      "source_sha256": "561663f83e14a78b4aba6885a724e609e1fa6163f5731af4efe8572f0dc90aa9",
-      "snapshot_sha256": "d246df504fdd42847ae2cb6da09a003c5120a497cddefd9815974dd4d1cd01d4"
+      "source_bytes": 537324,
+      "snapshot_bytes": 68418,
+      "source_sha256": "cea2bc9e92ca3b93b0d6e1a21c7c243680fc6e6d6736e5a7d2fd1aac0a18b079",
+      "snapshot_sha256": "cd2462ada76172935c1449988e9387122612e3c15f58f901b3db42d00076f9fb"
     },
     {
       "id": "service-service-page-capstone-activity-using-no-ai-d58e5bbf",
@@ -2611,7 +2611,7 @@
       "status": 200,
       "title": "Capstone Activity Using NO AI | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"867e9beb0a76e4dbd7277f62dad13aea\"",
+      "etag": "W/\"aba3c65c295aa633a8e83575c168c01e\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2638,10 +2638,10 @@
           }
         }
       },
-      "source_bytes": 537339,
-      "snapshot_bytes": 68378,
-      "source_sha256": "38120e481ac6a57283f823c3ee6ec258386b42157155d11f5ad895f005430cf2",
-      "snapshot_sha256": "12da7d602c0e9db86cc9e62edf1f65c1d8af83f00837201d9809a8be7c5e0412"
+      "source_bytes": 537344,
+      "snapshot_bytes": 68355,
+      "source_sha256": "8264924325f55a3b2e0d290506fa079ce203a3e8cd6cfa0a017dffd8e224e740",
+      "snapshot_sha256": "796c44bae7b56ee4a32883dc7343fcd6ed3bd14dec94cb7b1749831c571aa077"
     },
     {
       "id": "service-service-page-choosing-the-right-ai-tool-for-the-job-c3fe323e",
@@ -2652,7 +2652,7 @@
       "status": 200,
       "title": "Choosing The Right Tool AI For The Job | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"cc6da2256bb3a1bdfa15f59196406461\"",
+      "etag": "W/\"64b51a2e5038c0f21ad0f335de00bc74\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2679,10 +2679,10 @@
           }
         }
       },
-      "source_bytes": 537780,
-      "snapshot_bytes": 68527,
-      "source_sha256": "b136377e627b7a2fe94ca125e03381d053a96d186fb239607b4cce33b7f61220",
-      "snapshot_sha256": "676280a7c65ed564baf6e2d77cadd9e21cd58e688322fd115d181e2a0f5ffdc4"
+      "source_bytes": 537789,
+      "snapshot_bytes": 68506,
+      "source_sha256": "25baac6b268caf301202d76163d145236c7e4ad8907e3da7bf1e001338c52d89",
+      "snapshot_sha256": "8d1382889865b69d29ea6893d9522511b0ccb00754c069ed87d8a367ee11edc8"
     },
     {
       "id": "service-service-page-communicating-with-ai-c95f3312",
@@ -2693,7 +2693,7 @@
       "status": 200,
       "title": "Communicating With AI | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"a0d99b03eb1fd6dbb713a234bde176b8\"",
+      "etag": "W/\"c291c7e58c51c093c868a18c3a2fe636\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2720,10 +2720,10 @@
           }
         }
       },
-      "source_bytes": 537747,
-      "snapshot_bytes": 68481,
-      "source_sha256": "211a04984b432a5446adaed82e62200676570acabfd54f2a0035b2205eb8c084",
-      "snapshot_sha256": "4ace0193ce8048d4b165c7d08a924cbbf76d6a5eb28b90e4dea3103235ae61d8"
+      "source_bytes": 537756,
+      "snapshot_bytes": 68458,
+      "source_sha256": "3fe35edcee0c0d91bca09956e3c2ed9784d3389508685aae634e5a2da9f77f02",
+      "snapshot_sha256": "a4525dc2fbe96bba2f18dd9dd42032164f2790f475343a38257a007fc199f612"
     },
     {
       "id": "service-service-page-customizing-your-smartphone-dd1578ae",
@@ -2734,7 +2734,7 @@
       "status": 200,
       "title": "Customizing Your Smartphone | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"20aa80cf3f93025cdacf9d992f89c994\"",
+      "etag": "W/\"40c42d3201e8377aad68ab73ff721dd4\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2761,10 +2761,10 @@
           }
         }
       },
-      "source_bytes": 536308,
-      "snapshot_bytes": 68044,
-      "source_sha256": "7cfd2d6e7eb0d1375fdce8792dba6153819874d5323de18e035148ace81e30aa",
-      "snapshot_sha256": "982eadd1b5de434039e275c9aabb112c60e0917336d3507ca99afcea485e6e0d"
+      "source_bytes": 536315,
+      "snapshot_bytes": 68043,
+      "source_sha256": "c2318d500de60fef1008991f082f854168673ff8e655ba54004495396dfe89e8",
+      "snapshot_sha256": "1ae71bd1a63c46ed624e4cd5e3c4c8741c83fc03c5e1efbb900fb52dfa530f3d"
     },
     {
       "id": "service-service-page-digital-branding-capstone-day-54957b19",
@@ -2775,7 +2775,7 @@
       "status": 200,
       "title": "Digital Branding Capstone Day | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"91f244b05ca753d6d8f7ac4ceeddf46d\"",
+      "etag": "W/\"b480c4c8e55ce17e001bb334c6f6adf4\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2802,10 +2802,10 @@
           }
         }
       },
-      "source_bytes": 536761,
-      "snapshot_bytes": 68143,
-      "source_sha256": "905c43c5639341601a689b693b355c995f9d10ec0bc07357d9b7de8c8bc2150f",
-      "snapshot_sha256": "dd072e82f2f3594c14e7dc7a75d7e39c68575d3ea7890454141b19dc8b90331a"
+      "source_bytes": 536768,
+      "snapshot_bytes": 68121,
+      "source_sha256": "c3e8ee90a226ae018315df07e903781e18470caa6174f686bc3a96892e4afd0f",
+      "snapshot_sha256": "ba94886294a8fe45446e3852ab92535aa729c047dca50b3818b07cae2347b81c"
     },
     {
       "id": "service-service-page-digital-color-concepts-codes-a409860d",
@@ -2816,7 +2816,7 @@
       "status": 200,
       "title": "Digital Color Concepts & Codes | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"b4530f995a00d67cbbd4eda9bad05083\"",
+      "etag": "W/\"8a0f5b117982169f5e70087387d90bb7\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2843,10 +2843,10 @@
           }
         }
       },
-      "source_bytes": 538807,
-      "snapshot_bytes": 68853,
-      "source_sha256": "e76082c05c8d18380b02327286e96c163d249ac60fa69c3d846191bba9020df2",
-      "snapshot_sha256": "4e0d7d2301da5f382af491042965e0e9904027241763084cc442ba86ec4425a8"
+      "source_bytes": 538742,
+      "snapshot_bytes": 68787,
+      "source_sha256": "c8606ce361eea99fe6e9a7e0e34a8517002eb961620a1d1b0efa0570f3a7d8b3",
+      "snapshot_sha256": "d3ba7d27aca5076b1eef7c36bee13b52e075a8f01f017126acec3615836c2e66"
     },
     {
       "id": "service-service-page-digital-discussion-group-19f94f41",
@@ -2857,7 +2857,7 @@
       "status": 200,
       "title": "Digital Discussion Group | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"87d65ab5ba486c66d7815e71bb8bc809\"",
+      "etag": "W/\"232627744f1f49a4853a857eb41c60bb\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2884,10 +2884,10 @@
           }
         }
       },
-      "source_bytes": 537393,
-      "snapshot_bytes": 68389,
-      "source_sha256": "84d9447f9e868cbe8064c1e90f2f0b0e93a4cf01aeb1882346c8724225aee732",
-      "snapshot_sha256": "13163b9b88b726476ff1e38f5604ba9266cb0c067ed074afc4c32b526fd333ab"
+      "source_bytes": 537400,
+      "snapshot_bytes": 68378,
+      "source_sha256": "f37bc42f36b55afadbc280d933dc4b8004f481f1d35eb2c78de7b5437f293115",
+      "snapshot_sha256": "d8f2fae7dde2ecb395f2e97fe4394a27e6bf4681342c9f34362d5e289d91270d"
     },
     {
       "id": "service-service-page-digital-safety-computers-2-c4818a9a",
@@ -2898,7 +2898,7 @@
       "status": 200,
       "title": "Digital Safety - Computers | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"1ad8773f8d15bfa4aec4d51b93181712\"",
+      "etag": "W/\"3badf9dcc09e8bd7dcd2ef1787d9f15b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2925,10 +2925,10 @@
           }
         }
       },
-      "source_bytes": 536271,
-      "snapshot_bytes": 68043,
-      "source_sha256": "7956f297580d5a4e87b3b1201f67a6025cfa71578820773393a917d90f716577",
-      "snapshot_sha256": "71620eae1a82b436f1b897714f6a541c1b83413653ec76256a0cee8261e03471"
+      "source_bytes": 536278,
+      "snapshot_bytes": 68031,
+      "source_sha256": "f4f4155e361786ac0dfccf3f0c0e9728fe3575cd5994e75b22c9f723a6c43a85",
+      "snapshot_sha256": "5f4f2d460e85612876e8f19703259bf92d2010f149867d7826babcd56d7da149"
     },
     {
       "id": "service-service-page-digital-safety-email-6939b571",
@@ -2939,7 +2939,7 @@
       "status": 200,
       "title": "Digital Safety - Email | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"0db13564c88b7c7bb3f963fe083b7b81\"",
+      "etag": "W/\"1b24c2d85541d798b6040c4187302291\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -2966,10 +2966,10 @@
           }
         }
       },
-      "source_bytes": 536237,
-      "snapshot_bytes": 68039,
-      "source_sha256": "b154b9bd1e7d01c2f505137d14a5dfae70b46bb96d66586e83a2ef23dd6cce8f",
-      "snapshot_sha256": "b8bd26ec2952c6b1b1a3fb31415f09e82863fa5f1d6d99f77619bc15b3ddf2ee"
+      "source_bytes": 536242,
+      "snapshot_bytes": 68015,
+      "source_sha256": "60a5d5f42d5bb795c4361523cebd39817bb0faecf0ea42afb39ac60150022ac9",
+      "snapshot_sha256": "48bcc752aa7601631c39da28a26812ef2835f0034e25e5bcd945b5580d0ba9ec"
     },
     {
       "id": "service-service-page-digital-safety-mobile-devices-1-df6d41a4",
@@ -2980,7 +2980,7 @@
       "status": 200,
       "title": "Digital Safety - Mobile Devices | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"1414df891d47f92d93b97faeb12e801f\"",
+      "etag": "W/\"53c1bbdefddd6881bf9d4ca856d91f25\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3007,10 +3007,10 @@
           }
         }
       },
-      "source_bytes": 536311,
-      "snapshot_bytes": 68046,
-      "source_sha256": "2e2f6d5aaf907bbffa342f166640a4bccf9fd440f78e693edf4004154e7738fa",
-      "snapshot_sha256": "15782716a4ffe10992d4ff7c5750087f287c525416860167d8d18249e9287179"
+      "source_bytes": 536318,
+      "snapshot_bytes": 68031,
+      "source_sha256": "bf7178b2c0f4429bb7c45ad94686a374deb3c416ca263a938ea5465c94ccbc92",
+      "snapshot_sha256": "e96fe5b1ed0fd158cea77e14da615f3ac9f93d6cfbf91ef29d961a859622fcf1"
     },
     {
       "id": "service-service-page-digital-safety-online-7eff2f59",
@@ -3021,7 +3021,7 @@
       "status": 200,
       "title": "Digital Safety - Online | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"cec1d6f91642012755a729f50f3cb089\"",
+      "etag": "W/\"f1603a182ce4cb1f03c6dfb1e4174287\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3048,10 +3048,10 @@
           }
         }
       },
-      "source_bytes": 536243,
-      "snapshot_bytes": 68042,
-      "source_sha256": "5fa0fb045b1d118ff60ecefe0b0f4aa1ceafe0189f5d85d01da0771fa111b331",
-      "snapshot_sha256": "75d50ab204b378d8094b1874b1b7336876aff52925e3deebe717c6825e1b4511"
+      "source_bytes": 536252,
+      "snapshot_bytes": 68017,
+      "source_sha256": "0df21722f2d6b94b9684e552cc58823d98fa02d7cc204b398c5cfe8e9473f5b0",
+      "snapshot_sha256": "97d4f3161f23923a3e668e949b112dadaae04d74d2f20644b02ed13a9970300f"
     },
     {
       "id": "service-service-page-digital-safety-protecting-personal-privacy-1-96308977",
@@ -3062,7 +3062,7 @@
       "status": 200,
       "title": "Digital Safety: Protecting Personal Privacy | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"7d0d314e7d042792dd0c1c8d624c2f78\"",
+      "etag": "W/\"cef4afe9e584d1bb38702b8d237ce152\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3089,10 +3089,10 @@
           }
         }
       },
-      "source_bytes": 538683,
-      "snapshot_bytes": 68635,
-      "source_sha256": "bd298b3ff30e207d8f2df3704185de383d44f5e6300e1fa49c4d6d0c741997fc",
-      "snapshot_sha256": "5c5876e6210a80b7cec1a8cb8836e0f044e6f7927a8764953249652ac3f0a19e"
+      "source_bytes": 538690,
+      "snapshot_bytes": 68614,
+      "source_sha256": "85fd4d8fb3c5f1caa471d4617822045253a0c9975f3a9786ce572fc1950b9488",
+      "snapshot_sha256": "2da0ee3b5c14cfb245e24046623c6f2c29d64e55c30ab71232577d74da5f8a9f"
     },
     {
       "id": "service-service-page-digital-safety-recognizing-online-threats-fff79ef3",
@@ -3103,7 +3103,7 @@
       "status": 200,
       "title": "Digital Safety: Recognizing Online Threats | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"bece19b251bd9dcb9c03022034e38f48\"",
+      "etag": "W/\"e60e61d440ebb0a1b0e1057ceada8fb2\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3130,10 +3130,10 @@
           }
         }
       },
-      "source_bytes": 538665,
-      "snapshot_bytes": 68625,
-      "source_sha256": "85f8917d8d03a248d289c6c767d902d4c141b8d00203f1be1f77d748256f4206",
-      "snapshot_sha256": "2d6b1eb54bceaee53827b45897e83417e127edc03d69056a7eaea3ddd2d89883"
+      "source_bytes": 538672,
+      "snapshot_bytes": 68606,
+      "source_sha256": "d4cd1b1262a454cf5c4406fb4ee808ce7aef90b5f31a535e3190495030e70fae",
+      "snapshot_sha256": "4b247ef2502e0a771f0aba872e266904244bf92e18f6d21c487215ea4a134cea"
     },
     {
       "id": "service-service-page-digital-safety-securing-your-devices-1-fdd2c461",
@@ -3144,7 +3144,7 @@
       "status": 200,
       "title": "Digital Safety: Securing Your Devices | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"0531c2f86ecd6ffa1d5de1d91de170af\"",
+      "etag": "W/\"ab4fb83a9e3e6923fa51b630abd0f8b9\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3171,10 +3171,10 @@
           }
         }
       },
-      "source_bytes": 538624,
-      "snapshot_bytes": 68622,
-      "source_sha256": "a0f66f5fd168a58ae822f85e8c09ddbd4ceb869c751ee1711c8a46a3e3e9dc4f",
-      "snapshot_sha256": "b180618c4276e8b23ba98688795be908574a82867e440bf72e6316ca9f8b1ed4"
+      "source_bytes": 538631,
+      "snapshot_bytes": 68605,
+      "source_sha256": "e33b86833c0b2d8f9e96f75c57004163be8f8fa37acea377199a0ec8a3bfdc0c",
+      "snapshot_sha256": "dc6d0b13bff98a180880de93e0cdb9d7afad9690adbff1ce62a368741c640e64"
     },
     {
       "id": "service-service-page-excel-capstone-day-9acf929e",
@@ -3185,7 +3185,7 @@
       "status": 200,
       "title": "Excel Capstone Day | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"44a58b5a420d9b8375fbfd985cc9d133\"",
+      "etag": "W/\"63623592bb574ee803fd51d794593ce9\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3212,10 +3212,10 @@
           }
         }
       },
-      "source_bytes": 536323,
-      "snapshot_bytes": 68041,
-      "source_sha256": "304f2b73705045a4ee98662d9814a8621ef8625324ff0a73bdf9c993904a34dc",
-      "snapshot_sha256": "114599d6ddd2005990f7d6cbe10bafb91456aa05684f89c8e760ea167edc7900"
+      "source_bytes": 536332,
+      "snapshot_bytes": 68025,
+      "source_sha256": "03df1a12961cfeabe3f41069592d5c8943ab37334dc6bc59550180df340e0367",
+      "snapshot_sha256": "cc84a780d8f78a7874c35a73e6bdfae37912b0938116fc820c8f3f174397ac2e"
     },
     {
       "id": "service-service-page-excel-formatting-data-6b619834",
@@ -3226,7 +3226,7 @@
       "status": 200,
       "title": "Excel - Formatting Data | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"1e0767b35c2cb1acc9c1f7a4a8915c69\"",
+      "etag": "W/\"bf7c0ae81a31aee9a80c5634bc5c2975\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3253,10 +3253,10 @@
           }
         }
       },
-      "source_bytes": 538787,
-      "snapshot_bytes": 68856,
-      "source_sha256": "cdfb6164c5a3fd29593c5a1701f66171153f5d6fefc7c036442bc9a8002ca108",
-      "snapshot_sha256": "01c61723947864140f5b945de1873e60daadf040d1d4002287f81e9373ae6573"
+      "source_bytes": 538796,
+      "snapshot_bytes": 68841,
+      "source_sha256": "5222e882add01fdac77f65c09899cd3e60d7e6339db482dc4a535e891200e73e",
+      "snapshot_sha256": "bcf34e4f84a4564a957f51d54a8b56c00f02326685bf1e6d2311f634be788349"
     },
     {
       "id": "service-service-page-excel-formulas-functions-ef3359ca",
@@ -3267,7 +3267,7 @@
       "status": 200,
       "title": "Excel - Formulas & Functions | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"55e709141de24c79b55a5f6738b77111\"",
+      "etag": "W/\"591ff7c594455c570b69083f58c39850\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3294,10 +3294,10 @@
           }
         }
       },
-      "source_bytes": 538939,
-      "snapshot_bytes": 68892,
-      "source_sha256": "cd87c36794445f507105bef7ba09c9cce2eb5dab2d8843b63b87c0cf8c68af21",
-      "snapshot_sha256": "f9b6c5c4477e6849900364318fe7984ad47b2aa1f46bc98435f20db37a57938c"
+      "source_bytes": 538946,
+      "snapshot_bytes": 68519,
+      "source_sha256": "f9060d46abeb484d02f55aa02daa9883a08f0216b7d11340ebc8f63cf5e09e7c",
+      "snapshot_sha256": "2a88453f60029dd097d7e9828b049ce52c88d733521b511f407e07545325a24b"
     },
     {
       "id": "service-service-page-excel-organizing-data-29daccf5",
@@ -3308,7 +3308,7 @@
       "status": 200,
       "title": "Excel - Organizing Data | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"50e79cbb4873407a6db56079b6339b8e\"",
+      "etag": "W/\"4a92580777ace1b0bcbc435d76268135\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3335,10 +3335,10 @@
           }
         }
       },
-      "source_bytes": 538723,
-      "snapshot_bytes": 68833,
-      "source_sha256": "c13b1266ca57241fba5c457762815c0d6edc21ef2bdf379af3b49de581155b6d",
-      "snapshot_sha256": "a01753cf58418ade6d9778420681b8ab991f482c1a016ebe813f9490110eb24c"
+      "source_bytes": 538732,
+      "snapshot_bytes": 68818,
+      "source_sha256": "e5495fa694b090752eb8a8522a6a6a04726f5ece585db00337eb9ac60d475b68",
+      "snapshot_sha256": "bc5de28ff0bf0499414ed69ab0a7c21bc7b361657266b78e793fc330742033a6"
     },
     {
       "id": "service-service-page-excel-presenting-data-7159ecaf",
@@ -3349,7 +3349,7 @@
       "status": 200,
       "title": "Excel - Presenting Data | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"deed6b5ddff9366bfa28eeaa9582358e\"",
+      "etag": "W/\"5fc372ee583cb7b96dd525fe87a07efc\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3376,10 +3376,10 @@
           }
         }
       },
-      "source_bytes": 538839,
-      "snapshot_bytes": 68873,
-      "source_sha256": "76ee71bc16444bcce8632e92aa4672a5b122e65964a6fb9e558eea4b3828552e",
-      "snapshot_sha256": "d7b629a70244388808f617c43b050a9a23d0e9e7dc99232a98f748316c8747d5"
+      "source_bytes": 538846,
+      "snapshot_bytes": 68842,
+      "source_sha256": "2b48f684cdf94d6f8d92d09a1370e9df9445723268b2d62b6ce586236cf8134a",
+      "snapshot_sha256": "8dc29d7fa5d64b13251678db9da1e886b11d8f3175babdd5b02c1f341867f998"
     },
     {
       "id": "service-service-page-exploring-events-in-sched-7cb159c9",
@@ -3390,7 +3390,7 @@
       "status": 200,
       "title": "Exploring Events in Sched | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"0f6b98af02a2f20397224551ae483030\"",
+      "etag": "W/\"b6af8eabcb303f219430ee710a4c6946\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3417,10 +3417,10 @@
           }
         }
       },
-      "source_bytes": 538203,
-      "snapshot_bytes": 68611,
-      "source_sha256": "d720ceed770e9c9c9844c707f3aed305a52102c930df6e3948414b9653041cb0",
-      "snapshot_sha256": "1f681a748387de07759960e0847a9e53ba8a473923c0d84886bd35b557069de7"
+      "source_bytes": 538208,
+      "snapshot_bytes": 68585,
+      "source_sha256": "6ff050e5bcf7a7efcdbd9e0374cf0404bdf60a3377703e49ad09f705dc427a20",
+      "snapshot_sha256": "24695c6b9592a6aa4345daabbf67f37693a81f09825e3f4909616df09165cbc2"
     },
     {
       "id": "service-service-page-google-docs-collaborating-d535386e",
@@ -3431,7 +3431,7 @@
       "status": 200,
       "title": "Google Docs - Collaborating | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"1f71fce5a0be25a53ce34952fb48358b\"",
+      "etag": "W/\"693135b693d283901a484ac189779bba\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3458,10 +3458,10 @@
           }
         }
       },
-      "source_bytes": 536269,
-      "snapshot_bytes": 68049,
-      "source_sha256": "dbcfb6e063ac2dab61499cebb5bf71a20b4606e761328d41f5b04082167caef4",
-      "snapshot_sha256": "8f19b2a6af61b86aa50df4d84a1be89fe5f86e17d5f704f17fe8b3afd85c54d7"
+      "source_bytes": 536276,
+      "snapshot_bytes": 68031,
+      "source_sha256": "b7e6eede7a3a57c4c1a80ad7fd934f1cbb76d79a0401a822dd37df79555a8817",
+      "snapshot_sha256": "f179b7f45ee52a460091ac8386eee75b7ee57327f4ef6bc45f346cfa90da691e"
     },
     {
       "id": "service-service-page-google-sheets-collaborating-56ac1209",
@@ -3472,7 +3472,7 @@
       "status": 200,
       "title": "Google Sheets - Collaborating | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"b755ced62691ae9afed17a57e9c8b34d\"",
+      "etag": "W/\"f3fe6c78e12198c43cede7bbfba51530\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3499,10 +3499,10 @@
           }
         }
       },
-      "source_bytes": 536282,
-      "snapshot_bytes": 68052,
-      "source_sha256": "524f0a720912e40ad113ed3f1d74c86c12b4fcf9bba441f934425d9ca544faec",
-      "snapshot_sha256": "315b89b2033cdaf28aa56eb548a1b70ec6a68e8a1b4bbbfc5b13b04733835569"
+      "source_bytes": 536291,
+      "snapshot_bytes": 68036,
+      "source_sha256": "7e1ee5eff12d128a09a05cbaeea73adde03721f4a8198e32a760838804ef1ed5",
+      "snapshot_sha256": "a815fd10f709001f55d17bfde79012ca0fa3f42138713a05dad5a9aee587563a"
     },
     {
       "id": "service-service-page-how-does-ai-think-f591e3b1",
@@ -3513,7 +3513,7 @@
       "status": 200,
       "title": "How Does AI Think? | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"9e51afa3cb1e306406af4db562ce7baa\"",
+      "etag": "W/\"574304a723a9f3613c023a42b6f635e0\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3540,10 +3540,10 @@
           }
         }
       },
-      "source_bytes": 537685,
-      "snapshot_bytes": 68513,
-      "source_sha256": "3b02422a24074dcbc963df9e84230517dc9e85d5be4ed6d86e296b4e22cb891f",
-      "snapshot_sha256": "83db42bd622c17ff73c481f14fa0cd79e39c1a5a3bdebeb234146f85907f62af"
+      "source_bytes": 537694,
+      "snapshot_bytes": 68486,
+      "source_sha256": "025a3cb4805af2e82a3090cb29f5683e5b5b5d68daf236772dbf58be715455ba",
+      "snapshot_sha256": "7cc7066b04019595b3f0a96f10a13fdd2ad806669bb5161ec0a6a9b826d9b01e"
     },
     {
       "id": "service-service-page-intro-to-ai-art-605fc624",
@@ -3554,7 +3554,7 @@
       "status": 200,
       "title": "Intro to AI Art | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"5366a48bdb8bc547b50802b19afcf38b\"",
+      "etag": "W/\"d1d029bd4c9c90085e08987ff2776f30\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3581,10 +3581,10 @@
           }
         }
       },
-      "source_bytes": 536135,
-      "snapshot_bytes": 68017,
-      "source_sha256": "8ae70feba0ea1eac82d08960e8d41e2f928a410e41466c5fb79092eb834100cf",
-      "snapshot_sha256": "4429a1017458c0a59672e01164f2f7901d2b57809a2b033876550fbfc0ac0c1b"
+      "source_bytes": 536144,
+      "snapshot_bytes": 67996,
+      "source_sha256": "947cd7f189d2ef8d8bbc98886e891afdff0019b05fa5e1980ed3e4ea6d7a5cfb",
+      "snapshot_sha256": "0117bb896fe06e170ea1ce26c9cfba2baff6d10f162b83b96871b21dfb73f968"
     },
     {
       "id": "service-service-page-intro-to-ai-art-pt-2-5b540085",
@@ -3595,7 +3595,7 @@
       "status": 200,
       "title": "Intro to AI Art Pt. 2 | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"5404065c8ab5e6d4376e8ce7d01f6fd4\"",
+      "etag": "W/\"2703bd6f60ef9b600943aa001d12711e\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3622,10 +3622,10 @@
           }
         }
       },
-      "source_bytes": 536181,
-      "snapshot_bytes": 68032,
-      "source_sha256": "4efa259f2cee4196aac8012aac000e1f17031b9e811a4b479f5c84bb1c12e3f3",
-      "snapshot_sha256": "ed38389f3ca58292bac7d47e49d09eafb7126c9644331d0abcb014f6c79e6a85"
+      "source_bytes": 536188,
+      "snapshot_bytes": 68028,
+      "source_sha256": "bafdb37bfe23ee3c7140e39f541af588751c0c2d76e23e9ae940caa9c883b491",
+      "snapshot_sha256": "4c42dc9cb59f6324a1ea7a7b7634a59ffed4275f876a73055448ac8e25eae6fe"
     },
     {
       "id": "service-service-page-intro-to-ai-pt-1-0358341b",
@@ -3636,7 +3636,7 @@
       "status": 200,
       "title": "Intro to AI Pt. 1 | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"6951718d795e34adfb6f61e3bd80df22\"",
+      "etag": "W/\"fbce757cb1ea2037aff5f0b0121857dc\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3663,10 +3663,10 @@
           }
         }
       },
-      "source_bytes": 536151,
-      "snapshot_bytes": 68018,
-      "source_sha256": "e89e70b3ca99ec4f91f2bd8914d98a6e2c53f782bc2683b18fd0c4137dc45e10",
-      "snapshot_sha256": "12246f37b64a7b37a603a733f58fa305d91abc456636a3d49c2a2bd63a203a73"
+      "source_bytes": 536158,
+      "snapshot_bytes": 68004,
+      "source_sha256": "62896d0c8562dc8e05d1a300ea06b08cfda270fc6ac119b5cc4458b4e8e88a20",
+      "snapshot_sha256": "3586486ceda08da131bfbf211fb59b358bc691c82908233c9337a58acc272631"
     },
     {
       "id": "service-service-page-intro-to-ai-pt-2-3b086c13",
@@ -3677,7 +3677,7 @@
       "status": 200,
       "title": "Intro to AI Pt. 2 | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"863ccbaafac90e73bc020fe73538bb78\"",
+      "etag": "W/\"ae418400b6a01bb6d305c919446b6e47\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3704,10 +3704,10 @@
           }
         }
       },
-      "source_bytes": 536151,
-      "snapshot_bytes": 68019,
-      "source_sha256": "b77f0dadc5941c6fe82d087e0af90ddb1ec46d9eeac6f104688e0c57c2c4e3bc",
-      "snapshot_sha256": "b0e85b31291e4a5de1848180ef6dbe3b262883d71da489052ab7f8c86a6570a8"
+      "source_bytes": 536158,
+      "snapshot_bytes": 67998,
+      "source_sha256": "1073e77f8d45f6c5aff22d3300ef18a80d522f14e5856b240da1bb32194dac9a",
+      "snapshot_sha256": "b034295d5c12753b3afd2430a64a1c98009537ac062235d4c4cd7d088420670c"
     },
     {
       "id": "service-service-page-intro-to-coursera-0499eeaf",
@@ -3718,7 +3718,7 @@
       "status": 200,
       "title": "Intro to Coursera | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"7de5c748aebde43cdbc5dd70927cf8a3\"",
+      "etag": "W/\"fb077936f84a71f9c7b766817781edf9\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3745,10 +3745,10 @@
           }
         }
       },
-      "source_bytes": 537459,
-      "snapshot_bytes": 68409,
-      "source_sha256": "6fedc3da77f8e87e45020787c41d8f8976ee3a928b2d76bb16e6ff6450ee5466",
-      "snapshot_sha256": "e5fbed51caacc4273d3378bea226c7c2315a5664e5abac77deca8f06841413b3"
+      "source_bytes": 537468,
+      "snapshot_bytes": 68388,
+      "source_sha256": "e2004db29f3bccd46cf00a9882cee81ab7a88ba27307c382d7eff64c2f3cdfff",
+      "snapshot_sha256": "805f84df17029000933611471d75140032c36c1a8df080b38c53dc23a129438f"
     },
     {
       "id": "service-service-page-intro-to-drones-987bdf4d",
@@ -3759,7 +3759,7 @@
       "status": 200,
       "title": "Intro to Drones | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"7ee02dcbe500eb2628b736a90c05ad23\"",
+      "etag": "W/\"5f6fbc9a2a95082d7927b9472fc7322d\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3786,10 +3786,10 @@
           }
         }
       },
-      "source_bytes": 418063,
-      "snapshot_bytes": 58928,
-      "source_sha256": "8ef7c16268d6606f181126813da811a24dbeb6f07566ae2dbcf801ddcd41f6d7",
-      "snapshot_sha256": "24082c907d38964ba2d45c853bc67595c9e3d400d0ae062783416461fc2726ab"
+      "source_bytes": 418070,
+      "snapshot_bytes": 58468,
+      "source_sha256": "da57e453f6d02967471574b8f31f2172da8b2b7c05526e2459af1d80643054d7",
+      "snapshot_sha256": "705e87f34697982bad2f63e6236f978c4de8acd2b9ee425ab8a0b22a6831aa4b"
     },
     {
       "id": "service-service-page-intro-to-email-19718065",
@@ -3800,7 +3800,7 @@
       "status": 200,
       "title": "Intro to Email | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"daefa7e152089d2d0a21d380c44fea0c\"",
+      "etag": "W/\"e7611e9a75056ceb5ac790fec599cb6a\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3827,10 +3827,10 @@
           }
         }
       },
-      "source_bytes": 540977,
-      "snapshot_bytes": 69385,
-      "source_sha256": "0dc70a31cb4d234f0d5154bfcf8562d0c68252c30a59faafe614f400fa078d43",
-      "snapshot_sha256": "2a7fd675243aac3aa4ba5b3bf6bd29f36ff1a71014f8133c8eaf95889264fd69"
+      "source_bytes": 540984,
+      "snapshot_bytes": 69351,
+      "source_sha256": "ba95fd479508888d87d16c9a05105ffeeffee54af7835dd001c9c077ab731b3f",
+      "snapshot_sha256": "2d45e69416d91a39deeec8f9aeb74668706120eded53539d9e23233997610886"
     },
     {
       "id": "service-service-page-intro-to-fortune-digital-equity-081752a0",
@@ -3841,7 +3841,7 @@
       "status": 200,
       "title": "Intro to Fortune Digital Equity | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"21e8136d9d132a82c13e8bacec9df880\"",
+      "etag": "W/\"f164b180751518f0a126659b67984153\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3868,10 +3868,10 @@
           }
         }
       },
-      "source_bytes": 538871,
-      "snapshot_bytes": 68775,
-      "source_sha256": "8a8d433417902e88385100d6dacbc40fd67c6aaba41f6751fa3fb3c7776b3dff",
-      "snapshot_sha256": "72f30b2e0dad48efde5a0315484187f8c887b88079d956ccc9c0e100919e0567"
+      "source_bytes": 538880,
+      "snapshot_bytes": 68747,
+      "source_sha256": "928c44e8bb4a223da547327475ad3521a94d1246981894aebd524bff8e4edfd5",
+      "snapshot_sha256": "97e08acff08c6cd86acd07c45127c43b25b1d52a023fb5404f2c27f6d4a16f1d"
     },
     {
       "id": "service-service-page-intro-to-google-meet-ms-teams-fd4f6295",
@@ -3882,7 +3882,7 @@
       "status": 200,
       "title": "Intro to Google Meet & MS Teams | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"34365ff90be575ffa55de6173bc6bb3a\"",
+      "etag": "W/\"0048b5332d03efcff24e69a36c46aa71\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3909,10 +3909,10 @@
           }
         }
       },
-      "source_bytes": 537245,
-      "snapshot_bytes": 68350,
-      "source_sha256": "3c4e09bf947857b51f42510482f020ee65f5a112c6e3a0ab1d9fe10bf0e02af9",
-      "snapshot_sha256": "95894e38f4d4cab8d9d1637a60e1fcf02c14b660746b66b9c50b571a6ffabe5b"
+      "source_bytes": 537250,
+      "snapshot_bytes": 68327,
+      "source_sha256": "b60c3fb7addaec58de4c0b5e8fbebcdb253db062a1f8ea902d93a9adbeca7758",
+      "snapshot_sha256": "91e4897f15e808c2151d982836bc0292d91de98e372394831fea8baa475a2c23"
     },
     {
       "id": "service-service-page-intro-to-google-sites-c5ebf222",
@@ -3923,7 +3923,7 @@
       "status": 200,
       "title": "Intro to Google Sites | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"bb302dd6615c957cfcfccfc90259cfc4\"",
+      "etag": "W/\"20407ff7e0901324c227cda2a4f7a8c0\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3950,10 +3950,10 @@
           }
         }
       },
-      "source_bytes": 537847,
-      "snapshot_bytes": 68569,
-      "source_sha256": "86e6793ba0253fe5352c661dd0151341b37dfcae44102ba358c64c31b2038af6",
-      "snapshot_sha256": "278399cfeeb6f35c584f9917740b8981c7706a0460b367dcd8c4d6ba0707a24a"
+      "source_bytes": 537856,
+      "snapshot_bytes": 68538,
+      "source_sha256": "bb1714c70322d5014ee50cd6f661fe7c85499d896942cdb4fe9b6e5c5c372e54",
+      "snapshot_sha256": "cb1efb5a40fceb2bb2282051879844dc99ec1c19ee99374eb41e55794d817ba1"
     },
     {
       "id": "service-service-page-intro-to-microsoft-excel-6c582b12",
@@ -3964,7 +3964,7 @@
       "status": 200,
       "title": "Intro to Microsoft Excel | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"9b3abfa456ac39d4ff222724f177dd34\"",
+      "etag": "W/\"bcb8bddba43afbd9bf968bde59767dd6\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -3991,10 +3991,10 @@
           }
         }
       },
-      "source_bytes": 538515,
-      "snapshot_bytes": 68744,
-      "source_sha256": "ed2b1dc896a35f61be9864c3140dc81573ddc577d499f849cfa30883f5bc83bf",
-      "snapshot_sha256": "ae2ef826d0c1769bf6cde1e8fc9f7f1b5f159e55072d3d1f1c6836b8ecd706ed"
+      "source_bytes": 538522,
+      "snapshot_bytes": 68719,
+      "source_sha256": "9ccea10bf873a8ec84e6556ea0124b35340976fbba455c25509a3d37f49bb058",
+      "snapshot_sha256": "379ee73863c02dcfbcdfe1dfe389ea5f61f48395b472a208a0de9cd5e37c5b1f"
     },
     {
       "id": "service-service-page-intro-to-microsoft-powerpoint-1-791b5354",
@@ -4005,7 +4005,7 @@
       "status": 200,
       "title": "Intro to Microsoft PowerPoint | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"91a5a52497391c061ada08b2afc7c75e\"",
+      "etag": "W/\"83a9d4bf8ae6575a955c7b81b57a092b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4032,10 +4032,10 @@
           }
         }
       },
-      "source_bytes": 538561,
-      "snapshot_bytes": 68751,
-      "source_sha256": "43181fbca113e1d02ac472dda2991f8aa18a43191a1b914c18bde994b1a4dc69",
-      "snapshot_sha256": "cc493202c2e351a1c7f3b2cb4614380e221e8f56c822909ec2b1ba5125c5b948"
+      "source_bytes": 538568,
+      "snapshot_bytes": 68723,
+      "source_sha256": "6cea20c53be64d12acc2c74c3414f51506e5cbd35f2a164e34c8594fd01a0d76",
+      "snapshot_sha256": "575af1b183342aff3af40f4e63e3b7809e2fcb9a4581634eb232daf3b0b01b4a"
     },
     {
       "id": "service-service-page-intro-to-microsoft-word-ec40b478",
@@ -4046,7 +4046,7 @@
       "status": 200,
       "title": "Intro to Microsoft Word | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"2fac5e04499fe42c0e671a87874c0cdb\"",
+      "etag": "W/\"1d4f73f4b180d59bc99265a9f700aa03\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4073,10 +4073,10 @@
           }
         }
       },
-      "source_bytes": 538681,
-      "snapshot_bytes": 68838,
-      "source_sha256": "718dd889767506638b4439131ecabafe6384d66393ba7ca84a54f92397541738",
-      "snapshot_sha256": "ae743c37dd955d52e7870d86906958c02bc4aab828dbc26623bb9235e5b447ba"
+      "source_bytes": 538688,
+      "snapshot_bytes": 68808,
+      "source_sha256": "1038e3574c4784aba9ddf71c667dfdeb347c768f43b52b043dd4e346855dd5ae",
+      "snapshot_sha256": "9f3dd57fec675ddcabe0dab070b56fbd16e7677650f899f3ef06d63288b770b3"
     },
     {
       "id": "service-service-page-intro-to-robotics-2-1083ec07",
@@ -4087,7 +4087,7 @@
       "status": 200,
       "title": "Intro to Robotics | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"9c5807ec554b3c80477a39a606f4666c\"",
+      "etag": "W/\"5456d9d102a3d83465fb1f5099e43f96\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4114,10 +4114,10 @@
           }
         }
       },
-      "source_bytes": 418781,
-      "snapshot_bytes": 59142,
-      "source_sha256": "65ccb487e52e0f279066abae5fe731134db9452e436c78002378493492f230d7",
-      "snapshot_sha256": "189c6b29ac46cd71207084dca4d04d2da0112fe91fe276f4db0acfaa9926c835"
+      "source_bytes": 418788,
+      "snapshot_bytes": 59117,
+      "source_sha256": "f6d1cd96a0a4f53ba16e34f559024c3988140448764b22887885386cde50b044",
+      "snapshot_sha256": "b0a0c873ab360b86c7e3f5af54dcd2742545c1785956ae494c223711749013b4"
     },
     {
       "id": "service-service-page-intro-to-the-google-suite-e264ad87",
@@ -4128,7 +4128,7 @@
       "status": 200,
       "title": "Intro to the Google Suite | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"7fcc6d15390fd8e42628cb28a5dea445\"",
+      "etag": "W/\"9b13b7d07c82e9cb7299467346b27aea\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4155,10 +4155,10 @@
           }
         }
       },
-      "source_bytes": 537399,
-      "snapshot_bytes": 68377,
-      "source_sha256": "e4d6bbf10cba889e2f26951a002b676b437081064ea604a65dd46b0f42c61de2",
-      "snapshot_sha256": "9101c7cf3a6c7f76dfc351acb9f660f68476dd8c1d3ff78c49e4779b58d406c8"
+      "source_bytes": 537334,
+      "snapshot_bytes": 67974,
+      "source_sha256": "03c994cd5c5f77ff90c445fc8da57cfad21b28e506e7d25b1dd595007fc171da",
+      "snapshot_sha256": "654dcc97c86b33794a8a0259629b6151015ffa5c4cb5d5aafb32766f27d6feb7"
     },
     {
       "id": "service-service-page-intro-to-zoom-google-meet-fafeab1d",
@@ -4169,7 +4169,7 @@
       "status": 200,
       "title": "Intro to Zoom/Google Meet | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"11131eaf1899062dfd18cad6024b6aba\"",
+      "etag": "W/\"697208395208a5f39dc42395ba5f5d37\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4196,10 +4196,10 @@
           }
         }
       },
-      "source_bytes": 536951,
-      "snapshot_bytes": 68247,
-      "source_sha256": "057cf18661ae9d9e87d0f1f6b22fd49787690b750517642e28ba1ca6d2422439",
-      "snapshot_sha256": "1c60c36a103adfc4aa9d6c60ee172397648a38c68e753598d6236627cfa9fc97"
+      "source_bytes": 536958,
+      "snapshot_bytes": 68219,
+      "source_sha256": "2dd87004a99e259ee26bb62251762de794e966cdb6fa1621d83b34e7a230a2c5",
+      "snapshot_sha256": "181853d6166e26f684c4b61a1aae7f17f689b5fe1ca34427b6c27f3b167dffa5"
     },
     {
       "id": "service-service-page-job-searching-online-d936362e",
@@ -4210,7 +4210,7 @@
       "status": 200,
       "title": "Job Searching Online | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"df3dd73169afb509cfa72652b2de8396\"",
+      "etag": "W/\"ca5a247f9a4f493645d6dce927f5fc80\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4237,10 +4237,10 @@
           }
         }
       },
-      "source_bytes": 536175,
-      "snapshot_bytes": 68024,
-      "source_sha256": "c88afc0c8a3ca000f31549036fb74b5b429d0c5e61fe8f5df55d1987a0e1c7ae",
-      "snapshot_sha256": "5942d646b43ba6be481b3c6898b42c04f61e6b80649d29d15498e77b7b4a87f8"
+      "source_bytes": 536184,
+      "snapshot_bytes": 67996,
+      "source_sha256": "f23bee15680da76567f4a6d8e09998c29ff23b8096247f017cabae1c419e7f4c",
+      "snapshot_sha256": "8ea08bf22ef67ecefa9bef69d16d0fcfbaf60b4cf82c47e240f2340c7f457497"
     },
     {
       "id": "service-service-page-linkedin-networking-strategies-ad6f1852",
@@ -4251,7 +4251,7 @@
       "status": 200,
       "title": "LinkedIn Networking Strategies | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"cefdf064253a40bc4a76cf8b95f753fe\"",
+      "etag": "W/\"417c3bb411463d3f24749b1e07d5999e\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4278,10 +4278,10 @@
           }
         }
       },
-      "source_bytes": 539079,
-      "snapshot_bytes": 68881,
-      "source_sha256": "4733347994f7e9ea16c985574fcbd17bc5791bc483350937b6394a96cec603ba",
-      "snapshot_sha256": "271e863427f0d6e753ed4b494758ad993099f6f446614b4849f722f43d5fc467"
+      "source_bytes": 539084,
+      "snapshot_bytes": 68849,
+      "source_sha256": "31b3e4b6db1740cbaaefcffb99b78f51ea9e6d8c8f91b0cb3fce0bfaf4190d3f",
+      "snapshot_sha256": "8ad77b7eb370ed9a7022b313dbce1b6ac97eeb5782b37c7f984e9d07eed31283"
     },
     {
       "id": "service-service-page-linkedin-profile-foundations-8915a802",
@@ -4292,7 +4292,7 @@
       "status": 200,
       "title": "LinkedIn Profile Foundations | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"330084f0204f4f78a41abaa183ac4777\"",
+      "etag": "W/\"5f1df3f295c2184dd158b1b4ac2c681e\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4319,10 +4319,10 @@
           }
         }
       },
-      "source_bytes": 538899,
-      "snapshot_bytes": 68879,
-      "source_sha256": "0bd8c9630254b84d3077c868ffd6dddbd68d6ab01a6b9c6eb900d6edc48ce5f5",
-      "snapshot_sha256": "6a293cc80225a8510033f9f6e4a4674ac54099098f6831556989c6d8c3cc5d82"
+      "source_bytes": 538832,
+      "snapshot_bytes": 68827,
+      "source_sha256": "f441f936c9c3adec464f8aded28fe6c072bb52afe4a732e0407afb64136e6723",
+      "snapshot_sha256": "4ecf435cc0a9ade161baee6d0ca426bc76367afeb4dbb8ec8ac8401eb3f28a77"
     },
     {
       "id": "service-service-page-managing-your-smartphone-43d49ac5",
@@ -4333,7 +4333,7 @@
       "status": 200,
       "title": "Managing Your Smartphone | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"e8baf4a0b3b09e0a13bd3e71368bb6f1\"",
+      "etag": "W/\"d3a9d5c0fa01bde67146d4dfd0222391\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4360,10 +4360,10 @@
           }
         }
       },
-      "source_bytes": 536284,
-      "snapshot_bytes": 68048,
-      "source_sha256": "508862515c0a371b7d114b86b0043583872edee587d7f1d14e5c91594022356c",
-      "snapshot_sha256": "6b641135637f23fab87e063564fc96d78ef4df9a6ec112f27b0992f091e5a188"
+      "source_bytes": 536289,
+      "snapshot_bytes": 68035,
+      "source_sha256": "6a15981eeb310784c2af9549aa70c2e460920f77ea4318add8aedb7a7340260f",
+      "snapshot_sha256": "bbd7ac39dc9f889dfd3058e4b95ab166eb6021a036bd87410d559901c85ccc83"
     },
     {
       "id": "service-service-page-mobile-computing-capstone-day-f75461b0",
@@ -4374,7 +4374,7 @@
       "status": 200,
       "title": "Mobile Computing Capstone Day | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"f3895261693b041e206e1dbed951d814\"",
+      "etag": "W/\"b4aa31b378ead4e6d9fc5f2b11bb5f68\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4401,10 +4401,10 @@
           }
         }
       },
-      "source_bytes": 536460,
-      "snapshot_bytes": 68047,
-      "source_sha256": "9844786c42e4fd2c2c74db8bda10704f2411ee1fca9fca9450750645b90ea7bb",
-      "snapshot_sha256": "08dcc2cf265778aebe362aa6307727f857bae36d6941b80ab183a23c96447a91"
+      "source_bytes": 536467,
+      "snapshot_bytes": 68027,
+      "source_sha256": "4512f1733eeaecef1f1850ca1bd5c92fbd33ff8d0ce7318116473d27cb0d478a",
+      "snapshot_sha256": "6a0fe66edf3d0a4f81493dd4f28ae112085607083c6ac81c368a9a057f4fc45f"
     },
     {
       "id": "service-service-page-navigating-ai-safely-93d4c671",
@@ -4415,7 +4415,7 @@
       "status": 200,
       "title": "Navigating AI Safely | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"1dcee0a8d20148262f020b5c00dfe094\"",
+      "etag": "W/\"901c624edcc60a72e41117d5afc46a64\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4442,10 +4442,10 @@
           }
         }
       },
-      "source_bytes": 538526,
-      "snapshot_bytes": 68594,
-      "source_sha256": "bd9ad3e6c0bbc8fa2b04e1df80f48a11d86c9533a25cd32214dd78610e4a72dc",
-      "snapshot_sha256": "830e409e6efe754ba7f875f45d62f6e34f69d9e543c60980de50337943657a2c"
+      "source_bytes": 538533,
+      "snapshot_bytes": 68562,
+      "source_sha256": "4c4a8f4e11bdf9e25e42111399c0d3f23f39af237c579597b0cc50621066c0c8",
+      "snapshot_sha256": "e673e907cc6955b1824408e094bc127fc65a200ebfaa337bd54ef2b75cfd5aab"
     },
     {
       "id": "service-service-page-navigating-internet-browsers-85520cbc",
@@ -4456,7 +4456,7 @@
       "status": 200,
       "title": "Navigating Internet Browsers | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"2b815ccd3486dc82ca9194d936199478\"",
+      "etag": "W/\"dd62b8bd57e113644ea2728b41895a59\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4470,23 +4470,23 @@
           "calendar_horizon": null,
           "calendar_popup_dismissals": 0,
           "before": {
-            "visible_text_characters": 909,
+            "visible_text_characters": 919,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           },
           "after": {
-            "visible_text_characters": 909,
+            "visible_text_characters": 919,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           }
         }
       },
-      "source_bytes": 540778,
-      "snapshot_bytes": 69334,
-      "source_sha256": "375d859b19eeeca2a7229be86736c60861555d6c95d462bc1522a36bf61dcbb9",
-      "snapshot_sha256": "e8fd6061c560e7b377e46635d22eec8f0ae2f6c8001cce6d497d9b01d3547881"
+      "source_bytes": 538544,
+      "snapshot_bytes": 68740,
+      "source_sha256": "c139e7555fafb6148fd803a66fa2e735c883f752df4e4ff1c36df5e63f39120e",
+      "snapshot_sha256": "acf672c5b68b009ffeceb6db3a99633c119efd3f1016d7ee6ce5d04fd49ed46a"
     },
     {
       "id": "service-service-page-navigating-the-cloud-74013a7e",
@@ -4497,7 +4497,7 @@
       "status": 200,
       "title": "Navigating the Cloud | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"b9c506a3fa25d593c62d34088155ddab\"",
+      "etag": "W/\"725261de8ea5ae900d12c5530fdbda3b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4524,10 +4524,10 @@
           }
         }
       },
-      "source_bytes": 540937,
-      "snapshot_bytes": 69371,
-      "source_sha256": "046ea07546fe0007b9e81c3e73d98268b1f48498f35c1060a7a6858db93d8aaf",
-      "snapshot_sha256": "64374013a951e4f7471512925c61371986af2aa96c659661d0d963085c18f81c"
+      "source_bytes": 540944,
+      "snapshot_bytes": 69337,
+      "source_sha256": "c18cb1aba16f4588df1fef8c10b79fd97a3bc387b6307c86bbb246c0ec8e6f78",
+      "snapshot_sha256": "c0dff3e631a0f66f8e6080f52dfd043b7c1da297f0c128b02683ca9ac06a7d67"
     },
     {
       "id": "service-service-page-navigating-windows-desktop-215bb947",
@@ -4538,7 +4538,7 @@
       "status": 200,
       "title": "Navigating Windows Desktop | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"6551763e1020c1e35124d27464f61104\"",
+      "etag": "W/\"668fe6ae65db21de4a3cf01806248605\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4565,10 +4565,10 @@
           }
         }
       },
-      "source_bytes": 540745,
-      "snapshot_bytes": 69310,
-      "source_sha256": "88a0b6607e42ed8d37851bc65f229cd4875dc501cbaa74ec883eb4ed45fab82e",
-      "snapshot_sha256": "beb756039910f7c3a6b1f78e08397d6df158acc7e1c0346819d9bab61e5b7e4d"
+      "source_bytes": 540752,
+      "snapshot_bytes": 69282,
+      "source_sha256": "60797ea9c3b64f1bfcc112f41527795b6eb74c51789edd080811eac977845c50",
+      "snapshot_sha256": "352155501ba1799d3c37efe54afb1a7e655346636c51acbfe0b0976093f3489a"
     },
     {
       "id": "service-service-page-navigating-your-smartphone-5b27947f",
@@ -4579,7 +4579,7 @@
       "status": 200,
       "title": "Navigating Your Smartphone | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"65b0036f64df4208c2ad372e7dce3611\"",
+      "etag": "W/\"98265a7b4fe360f23d90fb8a2c564118\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4606,10 +4606,10 @@
           }
         }
       },
-      "source_bytes": 536300,
-      "snapshot_bytes": 68039,
-      "source_sha256": "15f86e67936e5d2f6e0b3b4c940fe472530cc72df34b3c089045efa322491d69",
-      "snapshot_sha256": "9bbb2ec4bd52159d4644a8ad9adf17f1e82bb0118b41c7ce4f2eda68abb6b499"
+      "source_bytes": 536307,
+      "snapshot_bytes": 68026,
+      "source_sha256": "ef90d88f64a6d3533b92165dfaa3dc9b9241d9903ef8d7f2a772072f971b25bd",
+      "snapshot_sha256": "6fbd6066942c0a3b790e69d9e9017f43aa4f5dcb5480bd32dd2210e7e4eac229"
     },
     {
       "id": "service-service-page-open-computer-lab-session-198811fd",
@@ -4620,7 +4620,7 @@
       "status": 200,
       "title": "Open Computer Lab Session | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"306b46c43c7073b530e73c9a4e192450\"",
+      "etag": "W/\"45c713f01fa23ce35e8ae84987954218\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4634,23 +4634,23 @@
           "calendar_horizon": null,
           "calendar_popup_dismissals": 0,
           "before": {
-            "visible_text_characters": 446,
+            "visible_text_characters": 443,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           },
           "after": {
-            "visible_text_characters": 446,
+            "visible_text_characters": 443,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           }
         }
       },
-      "source_bytes": 539119,
-      "snapshot_bytes": 68718,
-      "source_sha256": "92eddaad1ab9991166254f168af2e30065063590cc8d109a0d9e23410f2c0dd0",
-      "snapshot_sha256": "a190af5aca62c2d8156a96c7ee781f4227841069335a86661d4ee1780a2a5812"
+      "source_bytes": 536628,
+      "snapshot_bytes": 68095,
+      "source_sha256": "4650ba6df33f71f1d8f8595807f14013a115024ae8a4d137d35e4610cfd9c469",
+      "snapshot_sha256": "96d08e1c4653212264a3ae817572dc255164e588cdfced512d43935809cc3572"
     },
     {
       "id": "service-service-page-personalizing-events-in-sched-a707b9f9",
@@ -4661,7 +4661,7 @@
       "status": 200,
       "title": "Personalizing Events in Sched | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"983c6a11ffa75added7eaa8a1901ba3f\"",
+      "etag": "W/\"171d2684a79d47748659231f06cbe82c\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4688,10 +4688,10 @@
           }
         }
       },
-      "source_bytes": 538453,
-      "snapshot_bytes": 68734,
-      "source_sha256": "a0342cdd329624cdc5a7f1ae388a9740953f65162c1a629561576469af1c1fc7",
-      "snapshot_sha256": "4f29bfa6ac67ed010bc7e031b1bd2de3dcc9a228bda891b6740eee135a355550"
+      "source_bytes": 538460,
+      "snapshot_bytes": 68708,
+      "source_sha256": "b0426213aced2f79f336fc51bf0cfc430dcfefd9866f3aff0b7142e8783dbdd6",
+      "snapshot_sha256": "a5e7411475ee258a6d201c40fbedeba9f632a229b171df95a7c0af30b26dee09"
     },
     {
       "id": "service-service-page-powerpoint-capstone-day-3523a791",
@@ -4702,7 +4702,7 @@
       "status": 200,
       "title": "PowerPoint Capstone Day | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"9fafa8a94c62042043ba9262f83001f6\"",
+      "etag": "W/\"84772b193c9562f47d2df83f055113bc\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4729,10 +4729,10 @@
           }
         }
       },
-      "source_bytes": 536367,
-      "snapshot_bytes": 68051,
-      "source_sha256": "8ed54d0023091bf199e4dfb146d9f6f29207cf7e2df362c7c5058a5d4b0e7458",
-      "snapshot_sha256": "4d7cf0de61050667c59dff9c49d313b897faf658afd79865a67d264a093eef4e"
+      "source_bytes": 536376,
+      "snapshot_bytes": 68026,
+      "source_sha256": "318fdc172115bed1bca0a8e300d4b59fe3ba29157d3cea32bb1ea5a7bd7ab453",
+      "snapshot_sha256": "db8915369cd8de4e79fcc6dd1be79a51ff45067a9289a22987db0adf9a2bab37"
     },
     {
       "id": "service-service-page-powerpoint-laying-out-themes-35a9f059",
@@ -4743,7 +4743,7 @@
       "status": 200,
       "title": "PowerPoint - Laying Out Themes | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"c72be46a06e2fd653fe8558c065bc0e9\"",
+      "etag": "W/\"88f4ea37fdec74b7de83297b777a655b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4770,10 +4770,10 @@
           }
         }
       },
-      "source_bytes": 538751,
-      "snapshot_bytes": 68853,
-      "source_sha256": "4ee9037826f2bd25fda57580eb6fe044b0202ab81ca3c1a462126cc2329937ac",
-      "snapshot_sha256": "2885e6a793b853734fe60cb2efd56b981a476ee57678208b9f3fe7934e68df6f"
+      "source_bytes": 538758,
+      "snapshot_bytes": 68816,
+      "source_sha256": "c675ffc099af4647e0382d0643a0c11af0f52c7b3711afcf194fd19136990916",
+      "snapshot_sha256": "f2460c8acc2f6f296a4a7c2a9d50e1b3bb72b09cf37a4ec7b74e149d3b01b7b0"
     },
     {
       "id": "service-service-page-powerpoint-objects-images-e51753d6",
@@ -4784,7 +4784,7 @@
       "status": 200,
       "title": "PowerPoint - Objects & Images | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"28b960cd44124d2f84ae0b3beb383f81\"",
+      "etag": "W/\"98b907c363db989d628dbaf1fede9603\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4811,10 +4811,10 @@
           }
         }
       },
-      "source_bytes": 538895,
-      "snapshot_bytes": 68911,
-      "source_sha256": "c7becc748d51891534e26a0a490da3ff1e28df26ddda8a38016f796cf3d82928",
-      "snapshot_sha256": "58b8d9b9a8788ba194140fa3e572487abb017ecb222bea2cc947a4bd0d064c14"
+      "source_bytes": 538904,
+      "snapshot_bytes": 68889,
+      "source_sha256": "733b21f6b66595a9aded778c7539fc09f6d67b62956c92b4de755147592d908c",
+      "snapshot_sha256": "30f6332047454d856444786a77cae4d3437fb89140858da96687304b97faeafa"
     },
     {
       "id": "service-service-page-powerpoint-transitions-animations-c885afc0",
@@ -4825,7 +4825,7 @@
       "status": 200,
       "title": "PowerPoint - Transitions & Animations | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"4cb86a7777a4499f2255454da144bd24\"",
+      "etag": "W/\"e585182d5f783d22afc1cc945c4570bb\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4852,10 +4852,10 @@
           }
         }
       },
-      "source_bytes": 538911,
-      "snapshot_bytes": 68810,
-      "source_sha256": "65a4714d4ada1404969fe983de235a67d9808da25f8547e0121f391a2117563f",
-      "snapshot_sha256": "c8749a85f85819188ce50794a7c078a866e1da0e9746656d145da3957eee70c7"
+      "source_bytes": 538920,
+      "snapshot_bytes": 68785,
+      "source_sha256": "1c4cc9c421a388f239cca2924622742d965613b21414eb780e8f3692d4cef7a4",
+      "snapshot_sha256": "7af588252b381d5f493b971b98d8e8163392f9d245605584859f31055e05e298"
     },
     {
       "id": "service-service-page-powerpoint-working-with-words-58fa288a",
@@ -4866,7 +4866,7 @@
       "status": 200,
       "title": "PowerPoint - Working With Words | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"e01d1e7b22182ddc17a473854288505b\"",
+      "etag": "W/\"7a261835bbee337bd52245c0b63062de\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4893,10 +4893,10 @@
           }
         }
       },
-      "source_bytes": 538515,
-      "snapshot_bytes": 68787,
-      "source_sha256": "78869089143361f90f98e7084efbf54fa1b31389698701662432113bac72e855",
-      "snapshot_sha256": "7fda124a9e073d5b304c42eec3ecbaa31006a589957a3f4f6aa8d3bfd6ce1308"
+      "source_bytes": 538524,
+      "snapshot_bytes": 68764,
+      "source_sha256": "3b615c2d5c6ae6f8f8bd857b8bdec3afb2f128b814f00ad3b453e84a769eda1f",
+      "snapshot_sha256": "6fdaade775565c50f46905ab0d02f8a6d9439b34f7d481a89b3cdd3558a07cf3"
     },
     {
       "id": "service-service-page-robot-coders-101-221c33e0",
@@ -4907,7 +4907,7 @@
       "status": 200,
       "title": "Robot Coders 101 | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"082294a63bef1e9a70764bf0c735fe76\"",
+      "etag": "W/\"6c543ddbcfe60168b012e1c6044189da\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4934,10 +4934,10 @@
           }
         }
       },
-      "source_bytes": 418186,
-      "snapshot_bytes": 58967,
-      "source_sha256": "434fec4ce30ce4390cdf91b8b11260d85ee3e4ae03d8057f176738a31559797f",
-      "snapshot_sha256": "904b51af9f856602ca099991fe0571487798e0046b196f5ccbe8fa655e592f21"
+      "source_bytes": 418195,
+      "snapshot_bytes": 58937,
+      "source_sha256": "d4a735241ea834f7310ea8e461ab4a19cee7d032add21c9cdda5c9d06c7efbaf",
+      "snapshot_sha256": "8a8132e46442cbdd77bce0bc19dc3d995d2fa654d19540a88ed63971c2898863"
     },
     {
       "id": "service-service-page-smartphone-photography-essentials-0d2fab89",
@@ -4948,7 +4948,7 @@
       "status": 200,
       "title": "Smartphone Photography Essentials | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"ffea2d12d20f0b983f4e3bdeff21a21a\"",
+      "etag": "W/\"45761d086406f2284e35958e5b765e71\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4975,10 +4975,10 @@
           }
         }
       },
-      "source_bytes": 540256,
-      "snapshot_bytes": 69147,
-      "source_sha256": "304360ba347960fc820c6e1053c55fab718fe6d83acdf8ea56fb56f1aa8ccce6",
-      "snapshot_sha256": "4ea01c08b29d11cf9cb7b5997ad7c578ca8b6dafb0c6e8e90d8a447a815101d3"
+      "source_bytes": 540191,
+      "snapshot_bytes": 69087,
+      "source_sha256": "27f3dae272bdae3347bd76454bcbb72418da73f19726309df1b3ee4d66644047",
+      "snapshot_sha256": "07e6d1839ceebff896359c5c4176b6bdb014bece17875e7e00e770e753ac2228"
     },
     {
       "id": "service-service-page-smartphone-photography-techniques-aeb83ab9",
@@ -4989,7 +4989,7 @@
       "status": 200,
       "title": "Smartphone Photography Techniques | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"afbd30723f8ed7a5f957f72b3511f511\"",
+      "etag": "W/\"8fefb2d9eedeeab2d738eac8d91badd0\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5016,10 +5016,10 @@
           }
         }
       },
-      "source_bytes": 540256,
-      "snapshot_bytes": 69146,
-      "source_sha256": "80e0c1d27e0b46afa1584489ca6911a26c3637408a2f9c2d9db423e3038213c1",
-      "snapshot_sha256": "a31804f01b62d76f5f324555f1090e0ad9308ee94e8f9a5f056977ffe29d9773"
+      "source_bytes": 540263,
+      "snapshot_bytes": 69132,
+      "source_sha256": "eaaf2e766dc635fda3ee13fa6001d39c635fe9237f5e73dc84217fcfda3abc08",
+      "snapshot_sha256": "d75e123b9ed7d2e99f893a2f6997bf399912cc8393713377715be67dc728084e"
     },
     {
       "id": "service-service-page-smartphone-professionalism-4365e1e9",
@@ -5030,7 +5030,7 @@
       "status": 200,
       "title": "Smartphone Professionalism | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"1efca9c30868646a6bd0c280054ccff8\"",
+      "etag": "W/\"00eab0c287ebab417fe43ecd79024286\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5057,10 +5057,10 @@
           }
         }
       },
-      "source_bytes": 538642,
-      "snapshot_bytes": 68816,
-      "source_sha256": "551fb5260e12a792e588b139c255ce4373dd7750db1335cf208c3d89b5be8f33",
-      "snapshot_sha256": "1ddff5ece1656581512183fb4b378cd416f0427120daecd47781743abbd66553"
+      "source_bytes": 538579,
+      "snapshot_bytes": 68754,
+      "source_sha256": "e8f6000478261efbc9ba8d630384bd58dd6ec9f47b39972f82510038cbd459b4",
+      "snapshot_sha256": "8a2c702574885a0d9caf879ec97053ad425a7a2141bb13eedab9bcc73c70a6d3"
     },
     {
       "id": "service-service-page-tech-fair-capstone-day-9265c0c8",
@@ -5071,7 +5071,7 @@
       "status": 200,
       "title": "Tech Fair Capstone Day | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"b5a8d41110f05d4454644c541a60ddf6\"",
+      "etag": "W/\"e98aed4ab064ea2b69319e5175e9b5f8\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5098,10 +5098,10 @@
           }
         }
       },
-      "source_bytes": 536512,
-      "snapshot_bytes": 68085,
-      "source_sha256": "38cf8f066974c81a453e9e126b84df9d0db3196174b6be2fe1b985ccaf8eba52",
-      "snapshot_sha256": "e0205483d378aa397943460574d4d4bd2b85eac7a4fe545191b282d8294f0fb5"
+      "source_bytes": 536521,
+      "snapshot_bytes": 68067,
+      "source_sha256": "a249e8f38a0e66cc715277e2b05a62919358a15f03d2ae0c52c39fe9ffd83c4a",
+      "snapshot_sha256": "90c1a84657277f1341231afb5c27b72cf86ec2f69bca30be790d6dd15f013dd6"
     },
     {
       "id": "service-service-page-tech-time-focused-d3213819",
@@ -5112,7 +5112,7 @@
       "status": 200,
       "title": "Tech Time: Focused | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"1dd77967d5ee95529717b74352a69c2e\"",
+      "etag": "W/\"8cc3bcbcb75578b331a2b908c203d056\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5139,10 +5139,10 @@
           }
         }
       },
-      "source_bytes": 418426,
-      "snapshot_bytes": 59047,
-      "source_sha256": "811dd74aa158f7474222ad8ae6d0b31f408b59281aa02880a335d85fe1e353e1",
-      "snapshot_sha256": "6c55789d12ad5fd8c5be933d61cb8231ae0fb384c81bf73e301d619828faf6d4"
+      "source_bytes": 418433,
+      "snapshot_bytes": 59018,
+      "source_sha256": "e31152fdbe64100f02a1ff11d1acfc37bd3fafd360e840152151b83802d29a90",
+      "snapshot_sha256": "293abcbb28ffd083731821834eef43046443244122d42768c2b4dbacfa8280dd"
     },
     {
       "id": "service-service-page-tech-time-foundations-1-1e1b8286",
@@ -5153,7 +5153,7 @@
       "status": 200,
       "title": "Tech Time: Foundations | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"210b1434f8a23da879faa6f2c6d5a104\"",
+      "etag": "W/\"6f427e35c5e1754985e9fbda2f000ad0\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5167,23 +5167,23 @@
           "calendar_horizon": null,
           "calendar_popup_dismissals": 0,
           "before": {
-            "visible_text_characters": 1946,
+            "visible_text_characters": 1947,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           },
           "after": {
-            "visible_text_characters": 1946,
+            "visible_text_characters": 1947,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           }
         }
       },
-      "source_bytes": 591822,
-      "snapshot_bytes": 70179,
-      "source_sha256": "6979ddc3744dea37cbd89e4afd415c62e382ea935fa5fea881deea38de0308b6",
-      "snapshot_sha256": "2aa26c56e0b3d9526461fe63f7d4ccc0965425f315073fe09f202457ef860e2f"
+      "source_bytes": 591830,
+      "snapshot_bytes": 70168,
+      "source_sha256": "3b7f3a8258ae331e69dc67e672b14c54200f42fd137e495302aaf38707dea630",
+      "snapshot_sha256": "c7c5af2e14b16041d747d9c393ed460c6005443987125e916c66455a67ccbf87"
     },
     {
       "id": "service-service-page-the-canva-presentations-alternative-1b8b4a52",
@@ -5194,7 +5194,7 @@
       "status": 200,
       "title": "The Canva Presentations Alternative | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"6346a128854a4134e526b11adb933e28\"",
+      "etag": "W/\"1c686a40e82b5b3e9ba96a48f9148f5b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5221,10 +5221,10 @@
           }
         }
       },
-      "source_bytes": 536307,
-      "snapshot_bytes": 68043,
-      "source_sha256": "357d05a740a7f28bdfea0fb73baf7d9c779482e7dff64841def3dd513cc08455",
-      "snapshot_sha256": "79e4ea637fd8ee83272d7fce93b3e20c076708b57a1fd577c57adb4c172fcf20"
+      "source_bytes": 536314,
+      "snapshot_bytes": 68024,
+      "source_sha256": "47cc6210c213e37b7b60b79d27bdfc384ecb3d0f4be406b8f1e334737a193569",
+      "snapshot_sha256": "4258b51dadc1a76402c8619861e327ff9069f62bcd9fa489c6e91700aa9a6a37"
     },
     {
       "id": "service-service-page-the-digital-handshake-a4ca3b01",
@@ -5235,7 +5235,7 @@
       "status": 200,
       "title": "The Digital Handshake | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"33231d6b5bfa57c1fc5f17f785d6e672\"",
+      "etag": "W/\"81a712593a2f7d0e6cb5ea184da51738\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5262,10 +5262,10 @@
           }
         }
       },
-      "source_bytes": 538686,
-      "snapshot_bytes": 68809,
-      "source_sha256": "d0c121a8f9df9d96227f354e348b20f738b7ca900b1c8d59cc9d3c7968e634d6",
-      "snapshot_sha256": "f880cf622d4a38fd9ec99f4c2f52b32cdefea4f8f242f19c3ff37da8a76fd4b5"
+      "source_bytes": 538693,
+      "snapshot_bytes": 68785,
+      "source_sha256": "571496bee36193677b0da3113c5d34e914e537c522d46aa2a58b16f545f95333",
+      "snapshot_sha256": "f019b0355ae1ee8900c6ef3af6e3a93b18b691efaf838bd6b3c2e4eaa0ffd6cc"
     },
     {
       "id": "service-service-page-the-google-docs-alternative-0fdc7b41",
@@ -5276,7 +5276,7 @@
       "status": 200,
       "title": "The Google Docs Alternative | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"54fb2ca60f8e94e63dbfaeb32ccdfbe4\"",
+      "etag": "W/\"446473d47bea066e5979205a6e20050b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5303,10 +5303,10 @@
           }
         }
       },
-      "source_bytes": 538949,
-      "snapshot_bytes": 68888,
-      "source_sha256": "e50de942321cbbffa06ff9a0c6a04b0203b96be65f42ceb7c2b2309b0260fcb6",
-      "snapshot_sha256": "cd84fcc23e8b524291b6ed2be978f14a77a5310a94b68232bf40ff67bf9d26ff"
+      "source_bytes": 538956,
+      "snapshot_bytes": 68863,
+      "source_sha256": "97ff5c1d64ca637a8f8eb300ef3ba79a09e16eedab32b268cca17b0cfda6b89d",
+      "snapshot_sha256": "c533a9afeee6e770ca4105424645ee1a07aa2692b84ca5335531557166d6eef9"
     },
     {
       "id": "service-service-page-the-google-sheets-alternative-e84032e0",
@@ -5317,7 +5317,7 @@
       "status": 200,
       "title": "The Google Sheets Alternative | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"1489d925fa07368c2c491247039089e2\"",
+      "etag": "W/\"495e379982b845c84da6d7d3589709c6\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5344,10 +5344,10 @@
           }
         }
       },
-      "source_bytes": 536286,
-      "snapshot_bytes": 68045,
-      "source_sha256": "0909825d1d26e84f1a40d116131955ac2a3dc944e8a178710422636ec21ce893",
-      "snapshot_sha256": "85340119887c721c61ce303c632c67c6b5b46954d842760de9a6f78bfa1d8335"
+      "source_bytes": 536295,
+      "snapshot_bytes": 68034,
+      "source_sha256": "c2f8ec67732e1dd6498219e6c5086e7d80f33ed39f6090b33c4cdd670de17f44",
+      "snapshot_sha256": "3a1c49d59ec359194be9fcb9cb173278d4ba48991af3dfedfd2090f48f993299"
     },
     {
       "id": "service-service-page-the-google-slides-alternative-f42e7e91",
@@ -5358,7 +5358,7 @@
       "status": 200,
       "title": "The Google Slides Alternative | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"503aa6fbca888c5cb2ac96683f858eb1\"",
+      "etag": "W/\"78cd5d199217ce781961480e02797536\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5385,10 +5385,10 @@
           }
         }
       },
-      "source_bytes": 538975,
-      "snapshot_bytes": 68848,
-      "source_sha256": "b3ced732cd269d9fc897d75c0f57866988cf03a55ee01e3461ff803577d962ae",
-      "snapshot_sha256": "ccd51297acdf086e517de90e7143fc639a17f9708ff0cb0a561128c62b9e7e45"
+      "source_bytes": 538982,
+      "snapshot_bytes": 68822,
+      "source_sha256": "c42cbd8c567057b838d8e61d341d9699124ae5733c6a95f0fe34aa9c4b7a5777",
+      "snapshot_sha256": "5bac4d9fa02f99f957f5aea9b695e2918089eb66ea680f5f8c6a0523ae811bf7"
     },
     {
       "id": "service-service-page-the-tech-fair-toolkit-adbc1c12",
@@ -5399,7 +5399,7 @@
       "status": 200,
       "title": "The Tech Fair Toolkit | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"66bebb39aaa86e3f180595015c3596df\"",
+      "etag": "W/\"fa1ff6f37022c1ea5cb584d901bc5d94\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5426,10 +5426,10 @@
           }
         }
       },
-      "source_bytes": 537654,
-      "snapshot_bytes": 68477,
-      "source_sha256": "95e1105c8a694394a9b5c016b9475948ad5b81e74c9ea8e0929889ca62dc4957",
-      "snapshot_sha256": "9178eb2dbd65acbf705c91587ad63f9449b6815efa2135433b14abfc279a0d43"
+      "source_bytes": 537661,
+      "snapshot_bytes": 68458,
+      "source_sha256": "b84ea886b3028d75bc034507ff5d7e7a317710f10b2893063eae572fc90b2deb",
+      "snapshot_sha256": "d5866e0df298d60854b0507e5f38f08c629a07b38b441b318c757770cf6a4a78"
     },
     {
       "id": "service-service-page-understanding-computers-7e81e953",
@@ -5440,7 +5440,7 @@
       "status": 200,
       "title": "Understanding Computers | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"5b6e03acc027bad1770f4888da6a33c7\"",
+      "etag": "W/\"14eebbe6959755d55c1f361beb7b7cf5\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5467,10 +5467,10 @@
           }
         }
       },
-      "source_bytes": 538677,
-      "snapshot_bytes": 68873,
-      "source_sha256": "6b63d350800677924c8baf1a1096dfcbab0e2c9bfad0c04eccbc6b74bb7f8dda",
-      "snapshot_sha256": "965961b9c426e496678f5023d9f22e5621b6fe99fb245d845f94fabd887c98c5"
+      "source_bytes": 538686,
+      "snapshot_bytes": 68837,
+      "source_sha256": "05c828fdf8cb080ca9dc12e2b66322da721ad2d45087afda3e51e9b5de8c1768",
+      "snapshot_sha256": "4ea8286a760740e236fcae03aad3c000c5def8a473866543a7a48bc1c066d158"
     },
     {
       "id": "service-service-page-understanding-file-management-500ea80c",
@@ -5481,7 +5481,7 @@
       "status": 200,
       "title": "Understanding File Management | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"d1f20b8ebca61a6bd6a33283e8cc0d01\"",
+      "etag": "W/\"d66cfddc991f03cf6334c6116884ad42\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5508,10 +5508,10 @@
           }
         }
       },
-      "source_bytes": 538803,
-      "snapshot_bytes": 68875,
-      "source_sha256": "777073e9adfee8e71dd73354632cf83d3d839e474106005988381a50d0901403",
-      "snapshot_sha256": "44b942c62546cdceb7a0c57dfb7914840422cb5ecb7e9cf4e08856986fe824df"
+      "source_bytes": 538808,
+      "snapshot_bytes": 68845,
+      "source_sha256": "23ca91a15f4aa51dce51008b1ee0b0c8b8dca527036084e0234b8b53fe3b096e",
+      "snapshot_sha256": "89a0ecf9af7be4124554ed96b40063395ef6c3d138b5488f85339ea209d9e919"
     },
     {
       "id": "service-service-page-understanding-keyboarding-mousing-da2371f9",
@@ -5522,7 +5522,7 @@
       "status": 200,
       "title": "Understanding Keyboarding & Mousing | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"b97b9f0f93ba20b93bae54783e635510\"",
+      "etag": "W/\"5cc454a55e796108240be6679e184819\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5549,10 +5549,10 @@
           }
         }
       },
-      "source_bytes": 538579,
-      "snapshot_bytes": 68799,
-      "source_sha256": "68e03e5143272aef767a002f00e89bbad6342af915cab7e91734ce5a7a5b3012",
-      "snapshot_sha256": "d1fbfc7afa533d25fefb33cd30c14c1294fe50f9f723e2fa8f4225975f90beff"
+      "source_bytes": 538586,
+      "snapshot_bytes": 68770,
+      "source_sha256": "f695837031273b6ed4ee520d3b7f28e23b667c9738d0fd3efdbad055a190590a",
+      "snapshot_sha256": "46dc991b9335ba8da71640aa72e6af59c8ba1f454e6b12ca00bfd2d8f81a9f23"
     },
     {
       "id": "service-service-page-what-is-ai-83a82854",
@@ -5563,7 +5563,7 @@
       "status": 200,
       "title": "What Is AI? | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"d2f13d8cb21eedf879243418f9082059\"",
+      "etag": "W/\"63ef3cb45730437cacf5ac1dffbbebc7\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5590,10 +5590,10 @@
           }
         }
       },
-      "source_bytes": 537778,
-      "snapshot_bytes": 68557,
-      "source_sha256": "c4457a25e8d842f7472ab1464358b2b0d09f73bd0503a7e850d9a9d0cb22bf23",
-      "snapshot_sha256": "6daab2b9fd6024c314846f51e3bc35d81a12dee9a86c8746b0ba41e4db362f64"
+      "source_bytes": 537785,
+      "snapshot_bytes": 68541,
+      "source_sha256": "a1f39da723daf8f87a215f94dfb5b4b0e383e6ed95e32cf4ba497c9857043dda",
+      "snapshot_sha256": "df0f55bdbea0cd7f2b4966f91d61844d020a90ddb225f6c9cc32c1ec0a2567bd"
     },
     {
       "id": "service-service-page-word-capstone-day-74e48e95",
@@ -5604,7 +5604,7 @@
       "status": 200,
       "title": "Word Capstone Day | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"e980df7e7ccd6daf56c3b92cb26ac4c9\"",
+      "etag": "W/\"fa103e6f0a4504dc6b5bd266b4cf0331\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5631,10 +5631,10 @@
           }
         }
       },
-      "source_bytes": 536331,
-      "snapshot_bytes": 68031,
-      "source_sha256": "714a19f3da45005a51c6b3ac249c68e7d923b3b14c02c1007a15523a582ad043",
-      "snapshot_sha256": "e68db10332652bc9971f4de2eac6077691114e0b7832d22db491f1a79da214f8"
+      "source_bytes": 536338,
+      "snapshot_bytes": 68018,
+      "source_sha256": "30be89b024702c28a83310e622a1551db2d0ac2666cec74c9fadf4006d14c20b",
+      "snapshot_sha256": "ecea388ff91d22e74c1fb34d25811fa30132be4ce91c19bb65fb09dca14e9d01"
     },
     {
       "id": "service-service-page-word-finalizing-a-draft-03747d9c",
@@ -5645,7 +5645,7 @@
       "status": 200,
       "title": "Word - Finalizing A Draft | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"cecb276dc194df55f84c644da9e9e091\"",
+      "etag": "W/\"436caf4e0f18d9796e650d8c36f2df0a\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5672,10 +5672,10 @@
           }
         }
       },
-      "source_bytes": 539153,
-      "snapshot_bytes": 68957,
-      "source_sha256": "f168541973d812b444778328c8073438c1c4cc3b08898698653e299a1d8972fe",
-      "snapshot_sha256": "dc8aefc41b922039222f86ba0681793ac26e34a4860a1097ebbd2451b07a3379"
+      "source_bytes": 539160,
+      "snapshot_bytes": 68931,
+      "source_sha256": "5e71e5ac63c6b000b9a875c69674b8c1c5278cd53760f6250381adc95560fedd",
+      "snapshot_sha256": "4da5a8b6e8a381f64fb1bc16d65f5423d497d64a92de22962767f15da19a8992"
     },
     {
       "id": "service-service-page-word-objects-images-0fca8c0c",
@@ -5686,7 +5686,7 @@
       "status": 200,
       "title": "Word - Objects & Images | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"5c48b7023d4f06f2c9a62a7fd0892c4d\"",
+      "etag": "W/\"06fdf0a3f02b302318d12a79dd5df394\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5713,10 +5713,10 @@
           }
         }
       },
-      "source_bytes": 539017,
-      "snapshot_bytes": 68926,
-      "source_sha256": "71d26a3991425b0db66fd8fa6d0c4c1a5074d1aae3289f87daedb9ec513f7b3f",
-      "snapshot_sha256": "2e1975861db38c2890efaeff663f2db3f21a8c78b22645de30e58735c70c99e1"
+      "source_bytes": 539022,
+      "snapshot_bytes": 68898,
+      "source_sha256": "52bfb168cca621cf4762f6e50c0dc3ee9f29fd7997c3cdb1c3978a2e64d50af8",
+      "snapshot_sha256": "9da2faef18485476396e74dc2224266ca3384a611712690c1161552923a339e4"
     },
     {
       "id": "service-service-page-word-structuring-text-f0adef9e",
@@ -5727,7 +5727,7 @@
       "status": 200,
       "title": "Word - Structuring Text | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"9a332e803f35b861b365db79d39cab30\"",
+      "etag": "W/\"a7072079bb73b5000f3d1514a65feb9c\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5754,10 +5754,10 @@
           }
         }
       },
-      "source_bytes": 539053,
-      "snapshot_bytes": 68912,
-      "source_sha256": "6fa04e79c55cd16c13306d0263788c7ca832653359bee55676aedb3e07afc73a",
-      "snapshot_sha256": "76173e05220a0f4575360092f11c84529ea26c6b75c21a3dc2cd63c180b52fca"
+      "source_bytes": 539060,
+      "snapshot_bytes": 68893,
+      "source_sha256": "bd187743b78c3cbc741fc7df56eae0dbbe1bce22046671d1f5308fa035b70377",
+      "snapshot_sha256": "020c6336d813cc8962f77e36fe7bd83159a983708654967a0dcda18859f6f2bc"
     },
     {
       "id": "service-service-page-word-working-with-text-c9d5a239",
@@ -5768,7 +5768,7 @@
       "status": 200,
       "title": "Word - Working With Text | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"5490a2d4ef47456ee9975d08f2b0c519\"",
+      "etag": "W/\"ffeb7a764fad056a8ba655a86b9bd55e\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5795,10 +5795,10 @@
           }
         }
       },
-      "source_bytes": 539081,
-      "snapshot_bytes": 68937,
-      "source_sha256": "e414f32cd6e325d10aae5de9a6e4f4e8d320e401388c31ee20737ab66a1693d7",
-      "snapshot_sha256": "2e02104666ecda159acdaaf54d37b65138f6ee54e9bf3da12ce9e0cb48c7c591"
+      "source_bytes": 539086,
+      "snapshot_bytes": 68920,
+      "source_sha256": "5d50b83e3b2f558ce75679f9a05f965fd46b639a4ed49485cd8984df0ab60223",
+      "snapshot_sha256": "b8a95366eaa3c8a71d668f0537ba388da62915e8ddf5b31fe8f78d46af2f2930"
     },
     {
       "id": "page-support-0863dc84",
@@ -5809,7 +5809,7 @@
       "status": 200,
       "title": "Individual Support | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"f9e588b56a84dd9dfeb757fc93dffe9a\"",
+      "etag": "W/\"dfb65920d26ae7ab99768199b286fadd\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 5,
@@ -5836,10 +5836,10 @@
           }
         }
       },
-      "source_bytes": 617696,
+      "source_bytes": 617691,
       "snapshot_bytes": 94401,
-      "source_sha256": "05536bb07b0ef3c7b2827f3ae1aef93f86cef45343a9a224120888aefe6bd186",
-      "snapshot_sha256": "45fa1f5c844f3363ba1fa59b8bd86c3fd6175366aa5e8921bd7bcf1ee5dfade9"
+      "source_sha256": "9a3abbf3b1adda9019375a7df0dfa0bbe74b81be1a7e42447f26d5c3af0d5a16",
+      "snapshot_sha256": "bad8b473c691000a8ae19ef568ed9bde23a287a63382f7acece1b4e406133282"
     },
     {
       "id": "page-techfair-54fef774",
@@ -5850,7 +5850,7 @@
       "status": 200,
       "title": "Tech Fair | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"f5cc714bcc5586ac5cf4a3b5e0a82d0d\"",
+      "etag": "W/\"ae6eb823131be1de92436aa23d305445\"",
       "embed_previews": 1,
       "static_content": {
         "wix_accordions": 0,
@@ -5877,10 +5877,10 @@
           }
         }
       },
-      "source_bytes": 1943497,
-      "snapshot_bytes": 1298492,
-      "source_sha256": "e97e42caf93b2b43f4dcf6b6b5d28f64cdc09e9c75e9b85252c501aa64b8feee",
-      "snapshot_sha256": "9e4a41e61dfd8a7d710de24ddc3d01b639b163258487520bf7b49f0f1fc7246a"
+      "source_bytes": 1944270,
+      "snapshot_bytes": 1299156,
+      "source_sha256": "9091c2896aaad7185c096836ec4382d9b60f8bba619287aef732b695d17a48b3",
+      "snapshot_sha256": "9ee98edfd0ed277e77be810a6f7b8fff235c3f5aeaf3d2c92a2e523c20710cfb"
     },
     {
       "id": "page-techfair-contest-cc4650e9",
@@ -5891,7 +5891,7 @@
       "status": 200,
       "title": "Submit Your Design | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"2cea289754554202e8be938194027be4\"",
+      "etag": "W/\"765b00255b8625b0a5ff42b21c6dfadc\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5919,9 +5919,9 @@
         }
       },
       "source_bytes": 269176,
-      "snapshot_bytes": 44355,
-      "source_sha256": "b28ea6d4aac6819d5de856636612e4f0068e2a377ae992ee91de3ca906c1b1a1",
-      "snapshot_sha256": "7e6b3c60ad2ead3ea4f64a3e00bd96a4b95590bc3a85bad1920addb8e5f437b4"
+      "snapshot_bytes": 44357,
+      "source_sha256": "7c6c42b1344c4d266c101a0d7c21d64c81512c2aae6379793c0d593c762733c0",
+      "snapshot_sha256": "df57a2bb5a9c006d601e76422bf56db8a3b70ffb26b908e77313c15b4cbec4b5"
     },
     {
       "id": "page-techfair-photos-8d79fffd",
@@ -5932,7 +5932,7 @@
       "status": 200,
       "title": "Photo Sharing | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"34110e58986fd1ccf4bc735276d3710b\"",
+      "etag": "W/\"920284da4afeec5228939ba3d882cbf0\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5960,9 +5960,9 @@
         }
       },
       "source_bytes": 238147,
-      "snapshot_bytes": 40732,
-      "source_sha256": "c6fc436a63e3fa56645995d427cbcca6f56da7babc1f849abbc108c5c7d2a2ab",
-      "snapshot_sha256": "10189c231cfd299f53dff371c1b2fde05429d9277dca4e9f8c36cdfd624b897b"
+      "snapshot_bytes": 40734,
+      "source_sha256": "8b7798d7ee495d60a602bb9759d273eb5db6df508fcb9bf79cc4c33254d7e5b4",
+      "snapshot_sha256": "da9a4753baa9b8bce63cedbee24e3e6e95c4d8c09946165aab00c64c8ed66ef1"
     },
     {
       "id": "page-techfair-qa-4d40569c",
@@ -5973,7 +5973,7 @@
       "status": 200,
       "title": "Tech Fair Q&A | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"21cd1fd388dc3a1855ca70d2461ce036\"",
+      "etag": "W/\"a799eddbbee251086d4424a5fdd7521a\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -6001,9 +6001,9 @@
         }
       },
       "source_bytes": 283750,
-      "snapshot_bytes": 40880,
-      "source_sha256": "7d9b0cb8a092e1e073f4b78cf62a8ae7783107bb1894011506460f2b69460c1f",
-      "snapshot_sha256": "fe3e0d82d056f4fc811670e2058763aedbb88288b2c1d053e6b05ae87276b08b"
+      "snapshot_bytes": 40875,
+      "source_sha256": "2b2e5e5c6ba33f1b65c3042567be162b565b2a8946322e69b2d8b40f0ebeebeb",
+      "snapshot_sha256": "25fd4ddd181b9d57f83bc305d6f74798ccfed2564ec9af4befe213a2f3212b57"
     },
     {
       "id": "page-techfair-raffle-d95a56e5",
@@ -6014,7 +6014,7 @@
       "status": 200,
       "title": "News | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"e05a8c48f6dd39a4eba36a5c8ade93d9\"",
+      "etag": "W/\"6a771909b5b474a499c9560e33d19905\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -6043,8 +6043,8 @@
       },
       "source_bytes": 240560,
       "snapshot_bytes": 38798,
-      "source_sha256": "690e1a14ec83ed043757725d1a7d10375c0d3f84eeb860d3cae18f3cbbddae40",
-      "snapshot_sha256": "33a90365d10ba7e961c1a7ab5895b3c5b072005faa65c7d9be736ed1c2464b0f"
+      "source_sha256": "f20795242eba6c6cb6efb059d9bf50577cc352772525960f52f904a4f646ebfd",
+      "snapshot_sha256": "917b7769d1550f792a4aaca6eae6fddffc46df0f1dcaae4460a4deb5cd37d673"
     },
     {
       "id": "page-techfair-techfair22-01034e95",
@@ -6055,7 +6055,7 @@
       "status": 200,
       "title": "Tech Fair 2022 | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"16dab84e555d578c7d01feb08238d39f\"",
+      "etag": "W/\"241af995f7d09ea817eb5f5a90c5c1c7\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -6083,9 +6083,9 @@
         }
       },
       "source_bytes": 252860,
-      "snapshot_bytes": 39758,
-      "source_sha256": "5bff8e3bf7d590dc63a8c7e1cafc187f7d32d18694d936b337be6b0971ad936d",
-      "snapshot_sha256": "b165dc130f0abbef10db1c9a4b6bb9be8ab2f066f1f1672680d9e1ae62481b7c"
+      "snapshot_bytes": 39756,
+      "source_sha256": "805045ca3ed4e6f5789ab5254d41224a485eb1448cef156e0233dd88c5191c71",
+      "snapshot_sha256": "cfbaaebf5ec02389a3005075c771636af53e2c6edd51d3d084042ebc1c83efad"
     },
     {
       "id": "page-techfair-techfair23-6d746157",
@@ -6096,7 +6096,7 @@
       "status": 200,
       "title": "Tech Fair 2023 | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"6fc95c5610384c22a23c835b05d6b0a0\"",
+      "etag": "W/\"affcc363ead1ca196b3fa4417625b9b1\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -6123,10 +6123,10 @@
           }
         }
       },
-      "source_bytes": 268948,
-      "snapshot_bytes": 40982,
-      "source_sha256": "f2f53159f93d54cc2dc23accc1b2de1fde00a3bf9ae878ac11f94690bc90702c",
-      "snapshot_sha256": "035be013566172f989090df3512b1bfadd468aecd4097b69e89c04460c816c53"
+      "source_bytes": 268876,
+      "snapshot_bytes": 40980,
+      "source_sha256": "1fcad3c1769c816ff9354893f5b3c5500059c3c4c2b39b397055c8c24430e523",
+      "snapshot_sha256": "1457af9edb092082ce4969e0ea929e537064eaab7567ef7456b8349cb8aa5edd"
     },
     {
       "id": "page-techfair-techfair24-9df03a5a",
@@ -6137,7 +6137,7 @@
       "status": 200,
       "title": "Tech Fair 2024 | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"ab3bb196a129ef58e7613cc8ed5e4a71\"",
+      "etag": "W/\"9d6752fcb3b5e6a46ecde95f57753343\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -6165,9 +6165,9 @@
         }
       },
       "source_bytes": 273126,
-      "snapshot_bytes": 41261,
-      "source_sha256": "4567ce0769343418caefa8479caeaedeba10b0aeb8a3d8c2ec477aced8bc598e",
-      "snapshot_sha256": "6e04488ebd520822a45127942f039028fc14fc30eff62080fd18575df9e05295"
+      "snapshot_bytes": 41269,
+      "source_sha256": "e2c2405190c7b2ffc06e15a941c062e2fb74696c12d0652b908c2b163dd06c12",
+      "snapshot_sha256": "0919d98f1ffdfde9267330c5eabf3d26d6326d253a296b667745a11f8c02ad13"
     },
     {
       "id": "page-techfair-techfair25-e7232199",
@@ -6178,7 +6178,7 @@
       "status": 200,
       "title": "Tech Fair 2025 | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"7ec01f11bc121ac8360af4b24851483c\"",
+      "etag": "W/\"bf252a875b8067587b2f4b1fc942f4be\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -6205,10 +6205,10 @@
           }
         }
       },
-      "source_bytes": 575937,
-      "snapshot_bytes": 66429,
-      "source_sha256": "95d5ac397629c4b14ade9af9a333d8c9f905ff00c913acda3b72326e2b6935d9",
-      "snapshot_sha256": "9235f96fc9365eb323b4313693718ef1ce815bbb1b2badf56e8b26fa4c799511"
+      "source_bytes": 575865,
+      "snapshot_bytes": 66433,
+      "source_sha256": "dcf915290d152782d1f39022cc820628da44349d3c55993918fcbff0873c75c1",
+      "snapshot_sha256": "23d8fbf831c765d33c70fba2cda2329d3769798ff14c342b9671b4b451f9389c"
     },
     {
       "id": "page-techfair-techfair26-ca3aab5d",
@@ -6219,7 +6219,7 @@
       "status": 200,
       "title": "Tech Fair 2026 | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"19b63c10b4481b375f6ecbb18f6b9623\"",
+      "etag": "W/\"4380f05d7c6a65b834a617e5aecbfe3b\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -6247,9 +6247,9 @@
         }
       },
       "source_bytes": 665075,
-      "snapshot_bytes": 73070,
-      "source_sha256": "89695bdb06ea3db8d055f63691b7dc581f4167498d2dfa4d66fddcf60a2dc717",
-      "snapshot_sha256": "8d4a0200b27d04d3e402690ca91812aff92afcfa72fe9bcdfb0246b1f6add41c"
+      "snapshot_bytes": 73066,
+      "source_sha256": "263d0a32000bc12d720b54fc88004abf2695f602d8b618a2835b4ffd75337971",
+      "snapshot_sha256": "e0363baad073ef13f924e9181cfe02e7791b334e49321d2b6f6a6fe67e18f7c6"
     },
     {
       "id": "page-workshops-e0a7ad05",
@@ -6260,7 +6260,7 @@
       "status": 200,
       "title": "Regular Workshops | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"8f09690ad46119f70ee4443d42d2d93d\"",
+      "etag": "W/\"fc2e7e253726cf914e49393549b962ae\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -6287,10 +6287,10 @@
           }
         }
       },
-      "source_bytes": 616167,
-      "snapshot_bytes": 72438,
-      "source_sha256": "a89349bc552bf8a763bf3089f5eb09d9c472a13a2bb348811dc8059bc059177a",
-      "snapshot_sha256": "2a42eff868fe832f1c8964dbaf7a143708b56ae68148b5a55722a8531b81130f"
+      "source_bytes": 616508,
+      "snapshot_bytes": 72412,
+      "source_sha256": "b537dc5a3a4e1fb4c1aa0b502e3d4abc1b9ed2902a910e78a940fbe9ae6cf80e",
+      "snapshot_sha256": "78f1bdf5c4adca49480ca1ab030045d73229b08556a09b8e1b54397762236cea"
     },
     {
       "id": "page-workshops-staff-bbad03d7",
@@ -6301,7 +6301,7 @@
       "status": 200,
       "title": "Inactive: Staff Training | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"15b90857be55541586a618f63383d108\"",
+      "etag": "W/\"5b2fd238501e090a7e80a9f78b18476c\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -6329,9 +6329,9 @@
         }
       },
       "source_bytes": 196792,
-      "snapshot_bytes": 33582,
-      "source_sha256": "e928e08480736cfa369d5ba8a2a0882ba6b8f0591c40b2c271c5c2b0e06ef1a4",
-      "snapshot_sha256": "87c02a0a88f372214701cce4fd0f3042d6f894a71dd288bcfb318a62002ddadb"
+      "snapshot_bytes": 33585,
+      "source_sha256": "d2d6820010e49be4c458d451be29aa6e5600f4582d5cc63ac2c86c9bda7702f4",
+      "snapshot_sha256": "c6266bb3ac72b096ec36a00c08d040a5f0879002619dc17c7a6c0b479c004e87"
     }
   ]
 }

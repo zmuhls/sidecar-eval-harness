@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-05T13:29:32.705Z",
+  "captured_at": "2026-10-12T13:14:06.093Z",
   "source_origin": "https://www.fortunedigitalequity.org",
   "route_count": 154,
   "capture": {
@@ -146,7 +146,7 @@
       "status": 200,
       "title": "Calendar | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"60cfd20c87673e6b5e1da89786e10090\"",
+      "etag": "W/\"c21aa87e3ccbded663dcd6906eef3db7\"",
       "embed_previews": 1,
       "static_content": {
         "wix_accordions": 0,
@@ -165,23 +165,23 @@
           },
           "calendar_popup_dismissals": 0,
           "before": {
-            "visible_text_characters": 1126,
+            "visible_text_characters": 1143,
             "links": 8,
             "service_page_links": 0,
             "images": 3
           },
           "after": {
-            "visible_text_characters": 4889,
+            "visible_text_characters": 4850,
             "links": 9,
             "service_page_links": 0,
             "images": 3
           }
         }
       },
-      "source_bytes": 750181,
-      "snapshot_bytes": 91371,
-      "source_sha256": "589a63aa8c1bdba39f13e7d57c4b472c1638bf0a0100bd2e30b1214b1259dc43",
-      "snapshot_sha256": "dfc7b3bd619318ba6ed3545c3043377ad4211d61487322173597f0030f4e50b6"
+      "source_bytes": 754687,
+      "snapshot_bytes": 91267,
+      "source_sha256": "90c52a0376d36027060089f846bd758df9cba78e3f32611aff2951dd014ec1b0",
+      "snapshot_sha256": "154ad584dc987975942392baf7f51259af331d64a34d1e28e438406bf427439c"
     },
     {
       "id": "page-catalog-4360792f",
@@ -4456,7 +4456,7 @@
       "status": 200,
       "title": "Navigating Internet Browsers | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"6b0cab8566b7ccca7578f36252b9bb7a\"",
+      "etag": "W/\"913716266297daae7a11499751e09647\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4470,23 +4470,23 @@
           "calendar_horizon": null,
           "calendar_popup_dismissals": 0,
           "before": {
-            "visible_text_characters": 909,
+            "visible_text_characters": 919,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           },
           "after": {
-            "visible_text_characters": 909,
+            "visible_text_characters": 919,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           }
         }
       },
-      "source_bytes": 598203,
-      "snapshot_bytes": 77793,
-      "source_sha256": "a5798764a7ed815e8729e7e45f6993a0e0c99291564401207f8aa28e75809d5e",
-      "snapshot_sha256": "1f9369cc46b514bffe2a72d62cfe1001d00468739ddd93c56eb1cfe506137f69"
+      "source_bytes": 595774,
+      "snapshot_bytes": 77228,
+      "source_sha256": "ef67c7c8aa7e5447e18e31d6f82429524718aff690bd7de0ab90d13d0ffa8744",
+      "snapshot_sha256": "956c71b157338c09fbe0fec7d15c44d2cd08a6fcd9a84384c8273e4a7c81aa45"
     },
     {
       "id": "service-service-page-navigating-the-cloud-74013a7e",
@@ -4620,7 +4620,7 @@
       "status": 200,
       "title": "Open Computer Lab Session | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"adebb31a1d5facfaaf4c819b74b83dfd\"",
+      "etag": "W/\"7aa3bd453224891eee47c93c21502db0\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -4634,23 +4634,23 @@
           "calendar_horizon": null,
           "calendar_popup_dismissals": 0,
           "before": {
-            "visible_text_characters": 446,
+            "visible_text_characters": 443,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           },
           "after": {
-            "visible_text_characters": 446,
+            "visible_text_characters": 443,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           }
         }
       },
-      "source_bytes": 596579,
-      "snapshot_bytes": 77208,
-      "source_sha256": "2d4c31747f00271d8f461f2b156e59d3e46052bc02b8e47e0448770c7b82b984",
-      "snapshot_sha256": "135b920c5f1c4f20f736f4c0e629a2a7cb7784cab211b8ae36ac70810ccb7d19"
+      "source_bytes": 593860,
+      "snapshot_bytes": 76611,
+      "source_sha256": "584052aa3b019bbaad240cca14d5cd60415cbd95906947c6941017879acaadba",
+      "snapshot_sha256": "b009b760c873f5d901d8a3a02dc414bbc2735c14c6b5188f60e9ff32d85f17d8"
     },
     {
       "id": "service-service-page-personalizing-events-in-sched-a707b9f9",
@@ -5153,7 +5153,7 @@
       "status": 200,
       "title": "Tech Time: Foundations | FS Digital Equity",
       "site_revision": 2101,
-      "etag": "W/\"5718432efcde13b3901ea5ded333582d\"",
+      "etag": "W/\"6722ecf39441f04da6c06a9d57bf9c2d\"",
       "embed_previews": 0,
       "static_content": {
         "wix_accordions": 0,
@@ -5167,23 +5167,23 @@
           "calendar_horizon": null,
           "calendar_popup_dismissals": 0,
           "before": {
-            "visible_text_characters": 1946,
+            "visible_text_characters": 1947,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           },
           "after": {
-            "visible_text_characters": 1946,
+            "visible_text_characters": 1947,
             "links": 0,
             "service_page_links": 0,
             "images": 0
           }
         }
       },
-      "source_bytes": 654562,
-      "snapshot_bytes": 78778,
-      "source_sha256": "e617fce96423e3a8d65674f16ffbd8110263fad6d3d7a29cea2eac3fd0264e47",
-      "snapshot_sha256": "3e07d777cb2c82d53447660a3a360058c0ced8b5d194ea97515e12088cbcc21a"
+      "source_bytes": 654570,
+      "snapshot_bytes": 78775,
+      "source_sha256": "48833f6c0448c8def681163ca68f7dfa0cef267e4405dcd342e42d49eade4e1d",
+      "snapshot_sha256": "9b799627f82d496516598ac9d3d579514b5f3c582fe798b7b57c304a2a9e51a5"
     },
     {
       "id": "service-service-page-the-canva-presentations-alternative-1b8b4a52",
