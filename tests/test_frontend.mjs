@@ -14,6 +14,7 @@ const index = JSON.parse(readFileSync(join(DEMO, "site-index.json"), "utf8"));
 const pages = index.pages;
 const byPath = new Map(pages.map(page => [new URL(page.url).pathname, page]));
 const evaluationSource = readFileSync(join(DEMO, "evaluation.js"), "utf8");
+const evaluationHtmlSource = readFileSync(join(DEMO, "evaluation.html"), "utf8");
 const indexSource = readFileSync(join(DEMO, "index.html"), "utf8");
 const appSource = readFileSync(join(DEMO, "app.js"), "utf8");
 const wixSource = readFileSync(join(DEMO, "wix-app", "site", "fortune-guide-element.js"), "utf8");
@@ -551,6 +552,64 @@ test("evaluation refresh deduplicates shifted rows and rejects broken page curso
   assert.equal(result.conversations.length, 3);
   assert.equal(result.conversations[1].turn_count, 4);
   await assert.rejects(evaluationConversationLoader(async () => ({ conversations: [], next_offset: 0 })), /did not advance/);
+});
+
+test("evaluation prompt and build version filters retain only matching records", () => {
+  const start = evaluationSource.indexOf("function matchesVersionFilter(item, key, selected)");
+  const end = evaluationSource.indexOf("function newestFirst(items)", start);
+  assert.ok(start >= 0 && end > start, "evaluation version filter helper is present");
+  const helpers = evaluationSource.slice(start, end);
+  const result = runInNewContext(`(() => {
+    ${helpers}
+    const items = [
+      { prompt_policy_version: "v1.38", app_version: "build-a" },
+      { prompt_policy_version: "v1.37", app_version: "build-b" },
+      { prompt_policy_version: "", app_version: "build-a" },
+    ];
+    return JSON.stringify({
+      prompt: items.filter(item => matchesVersionFilter(item, "prompt_policy_version", "v1.38")).length,
+      build: items.filter(item => matchesVersionFilter(item, "app_version", "build-a")).length,
+      unknownPrompt: items.filter(item => matchesVersionFilter(item, "prompt_policy_version", "__unknown__")).length,
+      all: items.filter(item => matchesVersionFilter(item, "app_version", "")).length,
+    });
+  })()`, { JSON, String });
+  assert.deepEqual(JSON.parse(result), { prompt: 1, build: 2, unknownPrompt: 1, all: 3 });
+  assert.match(evaluationHtmlSource, /id="prompt-version-filter"/);
+  assert.match(evaluationHtmlSource, /id="build-version-filter"/);
+});
+
+test("evaluation transcript buckets paginate independently in groups of eight", () => {
+  const start = evaluationSource.indexOf("function pageTokens(currentPage, pageCount)");
+  const end = evaluationSource.indexOf("function renderBoard()", start);
+  assert.ok(start >= 0 && end > start, "evaluation pagination helpers are present");
+  const helpers = evaluationSource.slice(start, end);
+  const result = runInNewContext(`(() => {
+    const BUCKET_PAGE_SIZE = 8;
+    const state = { bucketPages: {} };
+    const escapeHtml = value => String(value ?? "").replace(/[&<>"]/g, "");
+    ${helpers}
+    const items = Array.from({ length: 17 }, (_, index) => ({ id: index + 1 }));
+    const first = paginatedItems({ id: "success", label: "Success" }, items);
+    state.bucketPages.success = 2;
+    const second = paginatedItems({ id: "success", label: "Success" }, items);
+    const unreviewed = paginatedItems({ id: null, label: "Not yet reviewed" }, items);
+    return JSON.stringify({
+      first: first.items.map(item => item.id),
+      second: second.items.map(item => item.id),
+      unreviewedFirst: unreviewed.items[0].id,
+      firstRange: first.pagination.includes("Showing 1–8 of 17"),
+      secondRange: second.pagination.includes("Showing 9–16 of 17"),
+      bucketLabel: second.pagination.includes('aria-label="Success pages"'),
+    });
+  })()`, { JSON, Math, Number, String });
+  assert.deepEqual(JSON.parse(result), {
+    first: [1, 2, 3, 4, 5, 6, 7, 8],
+    second: [9, 10, 11, 12, 13, 14, 15, 16],
+    unreviewedFirst: 1,
+    firstRange: true,
+    secondRange: true,
+    bucketLabel: true,
+  });
 });
 
 test("Pages and Wix do not expose backend capture mode in the participant UI", async () => {

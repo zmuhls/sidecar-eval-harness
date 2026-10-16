@@ -24,6 +24,8 @@
   const bucketVisibility = document.querySelector("#bucket-visibility");
   const bucketSort = document.querySelector("#bucket-sort");
   const bucketLayout = document.querySelector("#bucket-layout");
+  const promptVersionFilter = document.querySelector("#prompt-version-filter");
+  const buildVersionFilter = document.querySelector("#build-version-filter");
   const newBucketButton = document.querySelector("#new-bucket-button");
   const queueSummary = document.querySelector("#queue-summary");
   const bucketDialog = document.querySelector("#bucket-dialog");
@@ -79,7 +81,7 @@
   const previewKey = "fortune-evaluation-preview-v6";
   const viewKeyPrefix = "fortune-evaluation-view-v3";
   const defaultView = { visibility: "all", sort: "default", layout: "compact" };
-  const UNREVIEWED_PAGE_SIZE = 8;
+  const BUCKET_PAGE_SIZE = 8;
   const WORKSPACE_REFRESH_INTERVAL_MS = 10000;
   let lastWorkspaceRefreshAt = 0;
   let workspaceRefreshPromise = null;
@@ -94,7 +96,7 @@
     openConversation: null,
     promptLab: null,
     editingProposalId: "",
-    unreviewedPage: 1,
+    bucketPages: {},
     view: { ...defaultView },
     transcriptView: { filter: "all", order: "oldest" },
   };
@@ -328,6 +330,26 @@
     return parts.join(" · ") || "Version unavailable";
   }
 
+  function matchesVersionFilter(item, key, selected) {
+    if (!selected) return true;
+    const value = String(item?.[key] || "").trim();
+    return selected === "__unknown__" ? !value : value === selected;
+  }
+
+  function populateVersionFilters() {
+    for (const [select, key, allLabel, display] of [
+      [promptVersionFilter, "prompt_policy_version", "All prompts", promptDisplayVersion],
+      [buildVersionFilter, "app_version", "All builds", compactBuildVersion],
+    ]) {
+      const selected = select.value;
+      const values = [...new Set(state.conversations.map(item => String(item?.[key] || "").trim()).filter(Boolean))]
+        .sort((left, right) => left.localeCompare(right, undefined, { numeric: true }));
+      const hasUnknown = state.conversations.some(item => !String(item?.[key] || "").trim());
+      select.innerHTML = `<option value="">${allLabel}</option>${values.map(value => `<option value="${escapeHtml(value)}">${escapeHtml(display(value))}</option>`).join("")}${hasUnknown ? '<option value="__unknown__">Version unavailable</option>' : ""}`;
+      select.value = ["", "__unknown__", ...values].includes(selected) && (selected !== "__unknown__" || hasUnknown) ? selected : "";
+    }
+  }
+
   function newestFirst(items) {
     return [...items].sort((left, right) => {
       const recency = timestampValue(right.last_turn_at) - timestampValue(left.last_turn_at);
@@ -498,6 +520,8 @@
   function filteredConversations() {
     const query = search.value.trim().toLowerCase();
     const matches = state.conversations.filter(item => {
+      if (!matchesVersionFilter(item, "prompt_policy_version", promptVersionFilter.value)) return false;
+      if (!matchesVersionFilter(item, "app_version", buildVersionFilter.value)) return false;
       if (!query) return true;
       return `${shortId(item.id)} ${item.page_title || ""} ${item.app_version || ""} ${item.prompt_policy_version || ""} ${item.evaluator_name || ""} ${item.reviewed_by_name || ""} ${item.is_automated ? "automated" : ""}`.toLowerCase().includes(query);
     });
@@ -573,34 +597,37 @@
   }
 
   function paginatedItems(bucket, items) {
-    if (bucket.id !== null || items.length <= UNREVIEWED_PAGE_SIZE) {
-      if (bucket.id === null) state.unreviewedPage = 1;
+    const pageKey = bucket.id || "unreviewed";
+    if (items.length <= BUCKET_PAGE_SIZE) {
+      state.bucketPages[pageKey] = 1;
       return { items, pagination: "" };
     }
-    const pageCount = Math.ceil(items.length / UNREVIEWED_PAGE_SIZE);
-    state.unreviewedPage = Math.min(Math.max(state.unreviewedPage, 1), pageCount);
-    const start = (state.unreviewedPage - 1) * UNREVIEWED_PAGE_SIZE;
-    const end = Math.min(start + UNREVIEWED_PAGE_SIZE, items.length);
-    const pages = pageTokens(state.unreviewedPage, pageCount).map(token => {
+    const pageCount = Math.ceil(items.length / BUCKET_PAGE_SIZE);
+    const currentPage = Math.min(Math.max(Number(state.bucketPages[pageKey] || 1), 1), pageCount);
+    state.bucketPages[pageKey] = currentPage;
+    const start = (currentPage - 1) * BUCKET_PAGE_SIZE;
+    const end = Math.min(start + BUCKET_PAGE_SIZE, items.length);
+    const pages = pageTokens(currentPage, pageCount).map(token => {
       if (token === "ellipsis") return '<span class="pagination-ellipsis" aria-hidden="true">…</span>';
-      const current = token === state.unreviewedPage ? ' aria-current="page"' : "";
+      const current = token === currentPage ? ' aria-current="page"' : "";
       return `<button class="pagination-button pagination-page" type="button" data-page="${token}" aria-label="Page ${token}"${current}>${token}</button>`;
     }).join("");
     return {
       items: items.slice(start, end),
       pagination: `
-        <nav class="bucket-pagination" aria-label="Not yet reviewed pages">
+        <nav class="bucket-pagination" aria-label="${escapeHtml(bucket.label)} pages">
           <p class="pagination-range" aria-live="polite">Showing ${start + 1}–${end} of ${items.length}</p>
           <div class="pagination-controls">
-            <button class="pagination-button pagination-previous" type="button" data-page="${state.unreviewedPage - 1}" aria-label="Previous page"${state.unreviewedPage === 1 ? " disabled" : ""}>‹</button>
+            <button class="pagination-button pagination-previous" type="button" data-page="${currentPage - 1}" aria-label="Previous page"${currentPage === 1 ? " disabled" : ""}>‹</button>
             <span class="pagination-pages">${pages}</span>
-            <button class="pagination-button pagination-next" type="button" data-page="${state.unreviewedPage + 1}" aria-label="Next page"${state.unreviewedPage === pageCount ? " disabled" : ""}>›</button>
+            <button class="pagination-button pagination-next" type="button" data-page="${currentPage + 1}" aria-label="Next page"${currentPage === pageCount ? " disabled" : ""}>›</button>
           </div>
         </nav>`,
     };
   }
 
   function renderBoard() {
+    populateVersionFilters();
     const expanded = new Set(readDraft("expanded-cards") || []);
     board.querySelectorAll(".conversation-card").forEach(card => {
       if (card.querySelector(".conversation-details").open) expanded.add(card.dataset.conversationId);
@@ -611,9 +638,13 @@
     const focusSelector = focused?.matches("summary") ? "summary"
       : focused?.matches(".card-move") ? ".card-move" : ".open-transcript";
     const conversations = filteredConversations();
-    const totalTurns = state.conversations.reduce((sum, item) => sum + Number(item.turn_count || 0), 0);
-    const failedTurns = state.conversations.reduce((sum, item) => sum + Number(item.failed_turn_count || 0), 0);
-    const queueLabel = `${state.conversations.length} ${state.conversations.length === 1 ? "conversation" : "conversations"} · ${totalTurns} ${totalTurns === 1 ? "turn" : "turns"}`;
+    const totalTurns = conversations.reduce((sum, item) => sum + Number(item.turn_count || 0), 0);
+    const failedTurns = conversations.reduce((sum, item) => sum + Number(item.failed_turn_count || 0), 0);
+    const filtered = Boolean(search.value.trim() || promptVersionFilter.value || buildVersionFilter.value);
+    const conversationCount = filtered
+      ? `Showing ${conversations.length} of ${state.conversations.length} ${state.conversations.length === 1 ? "conversation" : "conversations"}`
+      : `${conversations.length} ${conversations.length === 1 ? "conversation" : "conversations"}`;
+    const queueLabel = `${conversationCount} · ${totalTurns} ${totalTurns === 1 ? "turn" : "turns"}`;
     queueSummary.textContent = failedTurns ? `${queueLabel} · ${failedTurns} failed` : queueLabel;
     emptyState.hidden = conversations.length > 0;
     const counts = new Map(bucketColumns().map(bucket => [bucket.id, conversations.filter(item => (item.bucket_id || null) === bucket.id).length]));
@@ -1154,9 +1185,11 @@
 
     board.querySelectorAll(".bucket-pagination [data-page]").forEach(button => {
       button.addEventListener("click", () => {
-        state.unreviewedPage = Number(button.dataset.page);
+        const bucket = button.closest(".bucket");
+        const pageKey = bucket?.dataset.bucketId || "unreviewed";
+        state.bucketPages[pageKey] = Number(button.dataset.page);
         renderBoard();
-        board.querySelector('.bucket-pagination [aria-current="page"]')?.focus();
+        board.querySelector(`.bucket[data-bucket-id="${CSS.escape(bucket?.dataset.bucketId || "")}"] .bucket-pagination [aria-current="page"]`)?.focus();
       });
     });
 
@@ -1180,7 +1213,7 @@
           item.bucket_id === bucketId ? { ...item, bucket_id: null } : item
         ));
         state.buckets = state.buckets.filter(item => item.id !== bucketId);
-        state.unreviewedPage = 1;
+        state.bucketPages = {};
         previewSave();
         renderBoard();
       } else {
@@ -1844,7 +1877,15 @@
   });
 
   search.addEventListener("input", () => {
-    state.unreviewedPage = 1;
+    state.bucketPages = {};
+    renderBoard();
+  });
+  promptVersionFilter.addEventListener("change", () => {
+    state.bucketPages = {};
+    renderBoard();
+  });
+  buildVersionFilter.addEventListener("change", () => {
+    state.bucketPages = {};
     renderBoard();
   });
   bucketVisibility.addEventListener("change", () => {

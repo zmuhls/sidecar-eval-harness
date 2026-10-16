@@ -253,7 +253,28 @@ h1, h2, p { margin-top: 0; }
   background: var(--white);
 }
 
-.toolbar .primary-button { justify-self: start; min-width: 136px; min-height: 44px; }
+.toolbar .primary-button { grid-column: 3; grid-row: 1; justify-self: start; min-width: 136px; min-height: 44px; }
+
+.version-controls {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: auto minmax(180px, 260px) auto minmax(180px, 260px);
+  align-items: center;
+  gap: 8px 10px;
+  padding-top: 8px;
+  border-top: 1px solid var(--line);
+}
+
+.version-controls label { color: var(--muted); font-size: 12px; font-weight: 600; }
+.version-controls select {
+  min-width: 0;
+  min-height: 40px;
+  border: 1px solid #aeb2bb;
+  border-radius: 4px;
+  padding: 7px 28px 7px 9px;
+  color: var(--ink);
+  background: var(--white);
+}
 
 .queue-heading { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 16px 0; }
 .queue-heading .queue-summary { margin: 0; }
@@ -816,6 +837,9 @@ dialog::backdrop { background: rgb(40 26 57 / 55%); }
   .workspace-heading h1 { margin-bottom: 12px; }
   dialog { padding: 20px; }
   .toolbar { grid-template-columns: 1fr; }
+  .toolbar .primary-button { grid-column: 1; grid-row: auto; }
+  .version-controls { grid-template-columns: auto minmax(0, 1fr); }
+  .version-controls label:nth-of-type(2) { grid-column: 1; }
   .view-controls { display: grid; grid-template-columns: 1fr 1fr; }
   .view-controls label:last-child { grid-column: 1 / -1; }
   .view-controls select { width: 100%; }
