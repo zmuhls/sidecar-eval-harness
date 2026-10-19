@@ -1,44 +1,26 @@
 {
   "schema_version": 3,
   "source_url": "https://www.fortunedigitalequity.org/calendar",
-  "captured_at": "2026-09-28T13:40:06Z",
+  "captured_at": "2026-10-19T13:05:07Z",
   "agenda": {
-    "captured_at": "2026-09-28T13:19:00Z",
+    "captured_at": "2026-10-19T13:04:39Z",
     "week": {
-      "label": "Sep - Oct 2026",
+      "label": "October 2026",
       "days": [
-        "Sunday, September 27, 2026",
-        "Monday, September 28, 2026",
-        "Tuesday, September 29, 2026",
-        "Wednesday, September 30, 2026",
-        "Thursday, October 1, 2026",
-        "Friday, October 2, 2026",
-        "Saturday, October 3, 2026"
+        "Sunday, October 18, 2026",
+        "Monday, October 19, 2026",
+        "Tuesday, October 20, 2026",
+        "Wednesday, October 21, 2026",
+        "Thursday, October 22, 2026",
+        "Friday, October 23, 2026",
+        "Saturday, October 24, 2026"
       ],
-      "selected": "Wednesday, September 30, 2026"
+      "selected": "Monday, October 19, 2026"
     },
     "events": [
       {
-        "date": "2026-09-30",
-        "date_label": "Wednesday, September 30, 2026",
-        "title": "Open Computer Lab Session",
-        "time": "2:00 pm",
-        "duration": "1 hr 30 min",
-        "location": "Main Office (LIC)",
-        "registration_url": "https://www.fortunedigitalequity.org/calendar"
-      },
-      {
-        "date": "2026-10-01",
-        "date_label": "Thursday, October 1, 2026",
-        "title": "Open Computer Lab Session",
-        "time": "2:00 pm",
-        "duration": "1 hr 30 min",
-        "location": "Main Office (LIC)",
-        "registration_url": "https://www.fortunedigitalequity.org/calendar"
-      },
-      {
-        "date": "2026-10-02",
-        "date_label": "Friday, October 2, 2026",
+        "date": "2026-10-19",
+        "date_label": "Monday, October 19, 2026",
         "title": "Tech Time: Foundations",
         "time": "1:00 pm",
         "duration": "1 hr",
@@ -46,20 +28,38 @@
         "registration_url": "https://www.fortunedigitalequity.org/calendar"
       },
       {
-        "date": "2026-10-05",
-        "date_label": "Monday, October 5, 2026",
-        "title": "Viewing: Bridging The Gap Webinar",
-        "time": "1:00 pm",
-        "duration": "1 hr",
+        "date": "2026-10-20",
+        "date_label": "Tuesday, October 20, 2026",
+        "title": "Digital Safety: Protecting Personal Privacy",
+        "time": "2:00 pm",
+        "duration": "1 hr 30 min",
         "location": "Main Office (LIC)",
         "registration_url": "https://www.fortunedigitalequity.org/calendar"
       },
       {
-        "date": "2026-10-07",
-        "date_label": "Wednesday, October 7, 2026",
-        "title": "Navigating Internet Browsers",
+        "date": "2026-10-21",
+        "date_label": "Wednesday, October 21, 2026",
+        "title": "Navigating Windows Desktop",
         "time": "2:00 pm",
         "duration": "1 hr 30 min",
+        "location": "Main Office (LIC)",
+        "registration_url": "https://www.fortunedigitalequity.org/calendar"
+      },
+      {
+        "date": "2026-10-22",
+        "date_label": "Thursday, October 22, 2026",
+        "title": "Digital Safety: Securing Your Devices",
+        "time": "2:00 pm",
+        "duration": "1 hr 30 min",
+        "location": "Main Office (LIC)",
+        "registration_url": "https://www.fortunedigitalequity.org/calendar"
+      },
+      {
+        "date": "2026-10-23",
+        "date_label": "Friday, October 23, 2026",
+        "title": "Tech Time: Foundations",
+        "time": "1:00 pm",
+        "duration": "1 hr",
         "location": "Main Office (LIC)",
         "registration_url": "https://www.fortunedigitalequity.org/calendar"
       }

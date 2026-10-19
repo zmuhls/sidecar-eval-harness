@@ -1,15 +1,17 @@
 {
-  "generated_at": "2026-10-12T13:14:34+00:00",
+  "generated_at": "2026-10-19T13:16:04+00:00",
   "generated_from": [
     "https://www.fortunedigitalequity.org/sitemap.xml",
     "https://www.fortunedigitalequity.org/blog-feed.xml",
-    "rendered Firefox snapshots (replica-manifest.json)"
+    "rendered Firefox snapshots (replica-manifest.json)",
+    "https://www.fortunedigitalequity.org/workshops",
+    "https://www.fortunedigitalequity.org/events"
   ],
   "root_sitemap": "https://www.fortunedigitalequity.org/sitemap.xml",
   "sitemap_entries": 167,
-  "unique_urls": 154,
+  "unique_urls": 157,
   "authority_counts": {
-    "answer": 117,
+    "answer": 120,
     "excluded": 7,
     "archive": 21,
     "navigation": 9
@@ -262,7 +264,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-home-e6c04f0f.html.gz",
-        "source_sha256": "2888e8575c7ce1acae8dbbed1b8378e5df9ec934a1a0100116567824f35f8671",
+        "source_sha256": "e989c169b7e963f8ac0a505c9b7b1f8a3fd36616ce0785dc4ef176e64c5b2bb5",
         "site_revision": 2101
       }
     },
@@ -431,7 +433,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-about-59ff9683.html.gz",
-        "source_sha256": "a10f83d591df624f96406313182838beec3196f80f4aafcf6d28415f0f99dee0",
+        "source_sha256": "23ccc36c7fd58e6bcab5ccdd2a777d238d70faaef74c228cad188031f529bc55",
         "site_revision": 2101
       }
     },
@@ -518,7 +520,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-about-impact-4bd24a44.html.gz",
-        "source_sha256": "dd4b430234f73c4bc2e6dad6987fdc6051ae6ae18921adcafd99071ef9c1483c",
+        "source_sha256": "d0e9659f7d38c7a9e24b72d946c8bafa3d61a30672077d339fba0957cebe36cc",
         "site_revision": 2101
       }
     },
@@ -547,45 +549,34 @@
         "Class Signup",
         "click a date to see available classes",
         "Regular Class Schedule",
-        "February 2027",
-        "Sun 14 Sunday, February 14, 2027",
-        "Mon 15 Monday, February 15, 2027",
-        "Tue 16 Tuesday, February 16, 2027",
-        "Wed 17 Wednesday, February 17, 2027",
-        "Thu 18 Thursday, February 18, 2027",
-        "Fri 19 Friday, February 19, 2027",
-        "Sat 20 Saturday, February 20, 2027",
-        "Week starting Sunday, February 14",
+        "March 2027",
+        "Sun 14 Sunday, March 14, 2027",
+        "Mon 15 Monday, March 15, 2027",
+        "Tue 16 Tuesday, March 16, 2027",
+        "Wed 17 Wednesday, March 17, 2027",
+        "Thu 18 Thursday, March 18, 2027",
+        "Fri 19 Friday, March 19, 2027",
+        "Sat 20 Saturday, March 20, 2027",
+        "Week starting Sunday, March 14",
         "Time zone: Eastern Daylight Time (EDT)",
         "Class Name",
-        "Location",
         "Staff member",
-        "October 13 Tuesday",
-        "an icon representing email safety",
-        "Digital Safety: Recognizing Online Threats",
-        "2:00 pm (1 hr 30 min)",
-        "Raysean Richardson",
-        "Main Office (LIC)",
-        "15 spots left",
-        "October 14 Wednesday",
-        "the outlook email icon",
-        "Intro to Email",
-        "October 15 Thursday",
-        "Spotting Digital Scams",
-        "TSS Foundation TSS Foundation",
-        "TSS Foundation",
-        "October 16 Friday",
+        "Location",
+        "October 19 Monday",
         "The Fortune Society logo",
         "Tech Time: Foundations",
         "1:00 pm (1 hr)",
-        "October 19 Monday",
         "Milo Jones",
+        "Main Office (LIC)",
+        "15 spots left",
         "October 20 Tuesday",
         "the windows defender icon",
         "Digital Safety: Protecting Personal Privacy",
+        "2:00 pm (1 hr 30 min)",
         "October 21 Wednesday",
         "The windows logo",
         "Navigating Windows Desktop",
+        "Raysean Richardson",
         "October 22 Thursday",
         "an icon representing mobile device security",
         "Digital Safety: Securing Your Devices",
@@ -642,6 +633,10 @@
         "February 26 Friday",
         "March 1 Monday",
         "March 5 Friday",
+        "March 8 Monday",
+        "March 12 Friday",
+        "March 15 Monday",
+        "March 19 Friday",
         "Intro to Google Sites",
         "Bridging the Gap Webinar",
         "bridging the gap flyer.png",
@@ -684,7 +679,35 @@
       ],
       "source_links": [
         {
+          "label": "Read more about Tech Time: Foundations",
+          "url": "https://www.fortunedigitalequity.org/calendar"
+        },
+        {
           "label": "REGISTER",
+          "url": "https://www.fortunedigitalequity.org/calendar"
+        },
+        {
+          "label": "Read more about Digital Safety: Protecting Personal Privacy",
+          "url": "https://www.fortunedigitalequity.org/calendar"
+        },
+        {
+          "label": "Read more about Navigating Windows Desktop",
+          "url": "https://www.fortunedigitalequity.org/calendar"
+        },
+        {
+          "label": "Read more about Digital Safety: Securing Your Devices",
+          "url": "https://www.fortunedigitalequity.org/calendar"
+        },
+        {
+          "label": "Read more about Navigating AI Safely",
+          "url": "https://www.fortunedigitalequity.org/calendar"
+        },
+        {
+          "label": "Read more about Navigating the Cloud",
+          "url": "https://www.fortunedigitalequity.org/calendar"
+        },
+        {
+          "label": "Read more about Movie Viewing: Mercy",
           "url": "https://www.fortunedigitalequity.org/calendar"
         },
         {
@@ -720,34 +743,18 @@
           "url": "https://www.fortunedigitalequity.org/contact"
         }
       ],
-      "content_characters": 2637,
-      "content_hash": "82070c1bb33312c001cb586a1f01bc6bf5aca934491371883afcb7f5f56fff40",
+      "content_characters": 2419,
+      "content_hash": "f195cce7a0fd3592a5b7f62ddbf216ff3f5dfb8c701d2c639dd7625c8faeb764",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-calendar-86824f99.html.gz",
-        "source_sha256": "fc53a132aa972cb817faae314bacf9eb33934079c18ed620c0ebe1d31f9cee26",
+        "source_sha256": "432d6270eaf29b8928e95fa71dcc9df63c5d64d47446187bc2279f0be8c23cc9",
         "site_revision": 2101
       },
-      "source_captured_at": "2026-10-12T13:12:10.227Z",
+      "source_captured_at": "2026-10-19T13:10:33.101Z",
       "calendar_events": [
-        {
-          "date": "2026-10-13",
-          "label": "Tuesday, October 13, 2026: Digital Safety: Recognizing Online Threats · 2:00 pm (1 hr 30 min) · Raysean Richardson · Main Office (LIC) · 15 spots left"
-        },
-        {
-          "date": "2026-10-14",
-          "label": "Wednesday, October 14, 2026: Intro to Email · 2:00 pm (1 hr 30 min) · Raysean Richardson · Main Office (LIC) · 15 spots left"
-        },
-        {
-          "date": "2026-10-15",
-          "label": "Thursday, October 15, 2026: Spotting Digital Scams · 2:00 pm (1 hr 30 min) · TSS Foundation · Main Office (LIC) · 15 spots left"
-        },
-        {
-          "date": "2026-10-16",
-          "label": "Friday, October 16, 2026: Tech Time: Foundations · 1:00 pm (1 hr) · Raysean Richardson · Main Office (LIC) · 15 spots left"
-        },
         {
           "date": "2026-10-19",
           "label": "Monday, October 19, 2026: Tech Time: Foundations · 1:00 pm (1 hr) · Milo Jones · Main Office (LIC) · 15 spots left"
@@ -931,6 +938,22 @@
         {
           "date": "2027-03-05",
           "label": "Friday, March 5, 2027: Tech Time: Foundations · 1:00 pm (1 hr) · Raysean Richardson · Main Office (LIC) · 15 spots left"
+        },
+        {
+          "date": "2027-03-08",
+          "label": "Monday, March 8, 2027: Tech Time: Foundations · 1:00 pm (1 hr) · Milo Jones · Main Office (LIC) · 15 spots left"
+        },
+        {
+          "date": "2027-03-12",
+          "label": "Friday, March 12, 2027: Tech Time: Foundations · 1:00 pm (1 hr) · Raysean Richardson · Main Office (LIC) · 15 spots left"
+        },
+        {
+          "date": "2027-03-15",
+          "label": "Monday, March 15, 2027: Tech Time: Foundations · 1:00 pm (1 hr) · Milo Jones · Main Office (LIC) · 15 spots left"
+        },
+        {
+          "date": "2027-03-19",
+          "label": "Friday, March 19, 2027: Tech Time: Foundations · 1:00 pm (1 hr) · Raysean Richardson · Main Office (LIC) · 15 spots left"
         }
       ]
     },
@@ -1520,7 +1543,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-catalog-4360792f.html.gz",
-        "source_sha256": "65ca8813e47a2c368692b3c1c87d9c3ab454940831eb5a247ba4bc50b182fdec",
+        "source_sha256": "329cef1f09a6fc147d1da1c3d834c472909a74bca90da8c19cd139e4aace8f56",
         "site_revision": 2101
       }
     },
@@ -1649,7 +1672,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-certifications-df2337b0.html.gz",
-        "source_sha256": "0920b179b6fa5c0e22daafccb5b2e899677ed612f7d6699b81841b7481d26387",
+        "source_sha256": "8f37e2a442b2b78ff0aacfb04fc5b4a36f9d8b37d4253d0766b2aded4bec5a5f",
         "site_revision": 2101
       }
     },
@@ -1773,7 +1796,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-contact-7c8ae02b.html.gz",
-        "source_sha256": "9896afa1fe1001745517563e1bb7f4d7d25706688141a1d5715cfa05593dec42",
+        "source_sha256": "4de6d60892ad54180c0ab668b56b5678b3ba17c8c51b08d3295d9602163aab2a",
         "site_revision": 2101
       }
     },
@@ -1810,7 +1833,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-deiqa-dbf22eb5.html.gz",
-        "source_sha256": "681a6979f6b4aa15915d192d6ae9b31e994f191f53ce84b97ff09fcf023c37be",
+        "source_sha256": "757cf520b609a6edaafc540055c33ef331ec30420a70c0aba22fef0998058bfd",
         "site_revision": 2101
       }
     },
@@ -1889,7 +1912,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-devices-4f203f1b.html.gz",
-        "source_sha256": "a378a940b1673cb25e5e6e31936fe9fb480fa047b4572c5360817317189cb609",
+        "source_sha256": "3b7f412ca74d7147ba9ccba3c45a68ee75510911cee1bd2daa681a8ecb433a4b",
         "site_revision": 2101
       }
     },
@@ -2030,7 +2053,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-events-7b460f87.html.gz",
-        "source_sha256": "3ee493dbd4e8a1db56e12e48d3410de7fdf84274bf16d0ed9e6eb22878705a5e",
+        "source_sha256": "260ce3ce9f3582f5914e92a525c0f8fcfb1a64a4e49d19ad86bd249a44a95ed1",
         "site_revision": 2101
       }
     },
@@ -2067,7 +2090,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-events-ai-qa-d8e77da8.html.gz",
-        "source_sha256": "2af34d4b7040044d88817fb3f2e775a16d3bb88437ec0f1b5be4c62b7c9717e6",
+        "source_sha256": "96b612aeb78286b4509f229b1e6da2d1307aa36d8eba681897365578f59f368e",
         "site_revision": 2101
       }
     },
@@ -2160,7 +2183,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-mediakit-c07624f0.html.gz",
-        "source_sha256": "4cc055384b3834516977f5e62ef632f2c5d675767b5b578bf6d152855c77f241",
+        "source_sha256": "b2c961e380542184b15052be645f0f2748b4d7df6d97002205e2519d5279743f",
         "site_revision": 2101
       }
     },
@@ -2200,7 +2223,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-members-4d8b4853.html.gz",
-        "source_sha256": "e48d6016c82ddcf0da80b650b8fac7f2aeb1d40bbfae01de23dd2b025bee4a64",
+        "source_sha256": "3c03b4319032bba64a030788f72f9d48f1bf409c3deb67e6e34eb911cd11f1da",
         "site_revision": 2101
       }
     },
@@ -2471,7 +2494,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-news-f22886e6.html.gz",
-        "source_sha256": "c99964774bd7b9e3b903ed1cc2cb3c3596bb9dc4802c34f1222e12967a6cf65c",
+        "source_sha256": "0189873640b33324e5acc9af6adeb28e9ae2166c02d4dc758811b3bf246b8340",
         "site_revision": 2101
       }
     },
@@ -2577,7 +2600,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/category-news-categories-classes-2f5877df.html.gz",
-        "source_sha256": "ce7758f354227d4f6909f6c694bc4b043d76765f5ffe4aa6ffcad40e507d0d19",
+        "source_sha256": "165f7fa3e92ad4c628b878ec7b77389b2314c92b30c55b01ffd6410333294568",
         "site_revision": 2101
       }
     },
@@ -2692,7 +2715,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/category-news-categories-events-74c0d014.html.gz",
-        "source_sha256": "98076b3e3e0c7fcae8eca23a1d86cd2d07a7410ea43441c2d3b93f809dca0f7b",
+        "source_sha256": "6e5884b581bf54d7f96de54d43088b48f0aaa129eb6b969dfdd615750e601761",
         "site_revision": 2101
       }
     },
@@ -2786,7 +2809,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/category-news-categories-fortune-bloggers-b05e092d.html.gz",
-        "source_sha256": "34c226eb6bd128352a278acb8a24000f19250882b17f2c99ee617a579b8b635b",
+        "source_sha256": "df8c1f3077442459b201f30b1e1d1047104793c8996525dc3aa60866d788f534",
         "site_revision": 2101
       }
     },
@@ -2870,7 +2893,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/category-news-categories-general-eecc9054.html.gz",
-        "source_sha256": "d59e46343b45d3e4758b3b67a7f9c078241c7e96d0a2c4aba9c50e40045f369c",
+        "source_sha256": "540b851ac451c091a4b3829d166cb222091b117424668e77b6c0f10eefe4bd07",
         "site_revision": 2101
       }
     },
@@ -2972,7 +2995,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/category-news-categories-press-d19e6630.html.gz",
-        "source_sha256": "16ba3461dddf46693084401a342458790ff4c23245dd72a6c6244ffe48cd2bef",
+        "source_sha256": "373f0476444c1df2d7830d368719ecbccce2e08262ae6ff0d6a671d5c1b380fe",
         "site_revision": 2101
       }
     },
@@ -3066,7 +3089,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/category-news-categories-student-8c206e2c.html.gz",
-        "source_sha256": "b3aaf72e8dd0ee205d2dbc0ca8742ff43f991175694f129d50f85be1065cee79",
+        "source_sha256": "e7a4c1b524a98ad111a383c04637e8e6350546ea05bd71447717f0060a1df4af",
         "site_revision": 2101
       }
     },
@@ -3204,7 +3227,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/category-news-categories-updates-9ee8373f.html.gz",
-        "source_sha256": "83a4d5f6a83ded27f92558790bb79a0205fb697fd4413ca3fe1cbd71a98e7838",
+        "source_sha256": "e4e84367f28893ec9ace389532a5587c611220fde41b61e9e371e95efd996636",
         "site_revision": 2101
       }
     },
@@ -3383,7 +3406,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/category-news-page-2-32287912.html.gz",
-        "source_sha256": "e68d861a7dca94cd689307686fe07c4d900c51322439ed9822a7715cd6aabe4c",
+        "source_sha256": "793c7c8a6d44a5ed49694d5c11e7777395ff1c1d0aa00e57436639c3b50702bd",
         "site_revision": 2101
       }
     },
@@ -3471,7 +3494,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/category-news-page-3-1cd3d02b.html.gz",
-        "source_sha256": "a3a57492962ae4459583115a6b3f63d3f6a70084609aa21fe024a5acf51fde76",
+        "source_sha256": "6fdc1b73dfa59456f5283f52b758b21f43aa37083c72bba559b7da8944204cfc",
         "site_revision": 2101
       }
     },
@@ -3583,7 +3606,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-opportunities-34b5847f.html.gz",
-        "source_sha256": "1ea110592dd62c52fc3491cfefe69874e44a27aafb63abe3acd4e47dced0c89a",
+        "source_sha256": "441f30abbf5c7f3f023c3be1ff289539fda98bc652b42e2e7d884878a6c9ca15",
         "site_revision": 2101
       }
     },
@@ -3722,7 +3745,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-other-8ecc2214.html.gz",
-        "source_sha256": "46e80c77d25e9e8a145ab2a15997763b2572e89c4d8b1e28107d6d465d97bb77",
+        "source_sha256": "a8ade8e7f9d6c67686e1fe1d5db1290db2547008865a8bc2fa3470dec08eb681",
         "site_revision": 2101
       }
     },
@@ -3801,7 +3824,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-pdf-a771070b.html.gz",
-        "source_sha256": "1224576abfd36737f78f55f9eca90e742de7cea5d2d13288c3972b7ec6252bdb",
+        "source_sha256": "ceb56e4d455f3995fd97fcbabc403612f7d0ce9c62e3186b09a58cb89e356d88",
         "site_revision": 2101
       }
     },
@@ -3846,7 +3869,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-pdf-upload-practice-90540d2e.html.gz",
-        "source_sha256": "845394008424294a2baf0aee6f6555b65df52c2e3e109e07d53aa363a495cb0e",
+        "source_sha256": "08a35ff71d224b0ef00ac2be0ff472a96156c183b6492117257e95a6239e6e09",
         "site_revision": 2101
       }
     },
@@ -3879,13 +3902,13 @@
         "View Agenda",
         "Original Post: https://fortunesociety.org/event-show/2023-technology-fair/",
         "Events",
-        "43",
-        "43 views",
+        "44",
+        "44 views",
         "Like post",
         "Recent Posts",
         "See All",
         "The Fortune Society’s Technology Fair",
-        "30",
+        "31",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -3923,13 +3946,13 @@
         }
       ],
       "content_characters": 1222,
-      "content_hash": "aeca8e9cd604738f8b33829a685bde0cb974531b2492b76fb00f9cb89cf986d4",
+      "content_hash": "64667a0195ff11587579ddc1fb514dadf5c9a9587e3174ee4f7f98dc84ddb054",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-2023-technology-fair-e4fd3211.html.gz",
-        "source_sha256": "2eb4671496d72ec3786832dacd0fb374b4539e739393fb9673a6162c2484bcbe",
+        "source_sha256": "d712c92719833a544c8045285042e4b37120ed22af5d9ee26c2fe085142d6cae",
         "site_revision": 2101
       }
     },
@@ -3962,15 +3985,15 @@
         "Note: the Fortune Society Tech Fair is only open to Fortune Society participants.",
         "Events",
         "Updates",
-        "40",
-        "40 views",
+        "41",
+        "41 views",
         "Like post",
         "Recent Posts",
         "See All",
         "2023 Technology Fair",
         "43",
         "The Fortune Society’s Technology Fair",
-        "30",
+        "31",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -4019,13 +4042,13 @@
         }
       ],
       "content_characters": 921,
-      "content_hash": "bc9246a39f058db73969e62fd39f0647994800c3bbf150014e5c05ffa554d098",
+      "content_hash": "3d238684eb3e5111530914b45d207fb05f679335b5b644627db10cfe4fd4ce80",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-2024-tech-fair-registration-open-23c2a426.html.gz",
-        "source_sha256": "5541fd0201daba8f3cb3a4190456b3b51d6535450b506cab7e34de15c2d21377",
+        "source_sha256": "7cd68b8f536e0c20d63085d614f3d709a99aa8f5b173ac560289a74bc25dd751",
         "site_revision": 2101
       }
     },
@@ -4060,15 +4083,15 @@
         "So, come join us, and learn how to create and use Styles in Microsoft Word!",
         "Updates",
         "Classes",
-        "40",
-        "40 views",
+        "41",
+        "41 views",
         "Like post",
         "Recent Posts",
         "See All",
         "New Workshops: Intro to Keyboarding, Mousing, Browsing, and more!",
-        "35",
+        "36",
         "Intro to Robotics!",
-        "41",
+        "42",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -4104,13 +4127,13 @@
         }
       ],
       "content_characters": 1120,
-      "content_hash": "d956a1f03d07254d507f1c1e97fe872d37c5f7755015f9646c887c669bda63a1",
+      "content_hash": "1477341e0381635d7da9b4d0bf503a6a4848045bb3818dfadc570ec80e043bad",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-brand-new-workshop-called-microsoft-word-styles-02c19704.html.gz",
-        "source_sha256": "b5f61e0865691acbc9c8be2fda6c98cdf81d1490a5340e82577cb7c35dbf5384",
+        "source_sha256": "9bed8f747f1c62502cc55a946ab74047aa06d03065cdc98dbbe7fd9c185cc891",
         "site_revision": 2101
       }
     },
@@ -4145,15 +4168,15 @@
         "Aedan MacDonald is compassionately devoted to extending the opportunities that a Columbia education provided to him after returning home from spending four years incarcerated in federal prison in California for marijuana distribution. Aedan Macdonald, conceptualized, and developed Justice Through Code (JTC) at Columbia University, a free four-month full-stack web development, and professional skills intensive taught at Columbia that provides a pathway to high-wage employment in the tech sector.",
         "Originally Post: https://fortunesociety.org/event-show/bridging-digital-divide/",
         "Events",
-        "40",
-        "40 views",
+        "41",
+        "41 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Closing the Digital Skill Divide",
-        "35",
-        "The Digital Equity Initiative At Fortune And Its Impact",
         "36",
+        "The Digital Equity Initiative At Fortune And Its Impact",
+        "37",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -4192,13 +4215,13 @@
         }
       ],
       "content_characters": 4170,
-      "content_hash": "22a14a11f40214194df42c33b29cfbff7273067bb1534b7403fafa2f03611637",
+      "content_hash": "785ccdbe5e2dea0d46e2b6299abbbdd817bd1b22c9a92e86bd6a83074fff3a96",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-bridging-the-digital-divide-behind-the-bars-beyond-release-a9ef32c8.html.gz",
-        "source_sha256": "d8ca2b528ee888d20bd6a159012b09560a72ca45068bd39dedc3c829f8a6313b",
+        "source_sha256": "c9ba42bf39542c2dbdaedd8529b64db02bf3073922979db4692b4c578b9a30a4",
         "site_revision": 2101
       }
     },
@@ -4231,17 +4254,17 @@
         "This post is a part of the Digital Equity Team's Fortune Bloggers initiative, featuring posts written by Fortune participants themselves about their experience with the digital divide. For more Fortune Blogger features, click the tag below.",
         "Fortune Bloggers",
         "Student",
-        "51",
-        "51 views",
+        "52",
+        "52 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Closing the Digital Skill Divide",
-        "35",
-        "The Digital Equity Initiative At Fortune And Its Impact",
         "36",
+        "The Digital Equity Initiative At Fortune And Its Impact",
+        "37",
         "Bridging the Digital Divide: Behind the Bars, Beyond Release",
-        "40",
+        "41",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -4282,13 +4305,13 @@
         }
       ],
       "content_characters": 3833,
-      "content_hash": "be6083360e6f66b84e9b6942014c68a6c089b9868e3a8924f4ea4e04eb2c0a50",
+      "content_hash": "54878dc9d5d2a580aaca23fd9992623e4097cfbd987aaf4573040356caa437ea",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-certification-for-success-870f90cb.html.gz",
-        "source_sha256": "c3dcf5034616b0faa5b7954089dca132096771753cfa14d4f34ed818b4da03df",
+        "source_sha256": "fa158943eb9e58863c33362f78e617acaf85c24bdc27175031ba55d4503354c4",
         "site_revision": 2101
       }
     },
@@ -4322,17 +4345,17 @@
         "Let us know if there are any other resources we can provide to make your journey through our digital world a little easier.",
         "And stay tuned as we continue to work to make the Fortune Digital Equity Program the best one-stop shop for all your digital navigation needs.",
         "Updates",
-        "38",
-        "38 views",
+        "39",
+        "39 views",
         "Like post",
         "Recent Posts",
         "See All",
         "New Workshops: Intro to Keyboarding, Mousing, Browsing, and more!",
-        "35",
+        "36",
         "Intro to Robotics!",
-        "41",
+        "42",
         "Brand New Workshop: Microsoft Word - Styles!",
-        "40",
+        "41",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -4386,13 +4409,13 @@
         }
       ],
       "content_characters": 1202,
-      "content_hash": "dc07a084fd5d432a0ddadff01df0592e5540e4c0a85f2a659d8e38699941c937",
+      "content_hash": "90d192a90a33653e0278143d9d85ce29da0ee0c43253f6784593abb359879b35",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-check-out-our-digital-resources-ba1f0e5b.html.gz",
-        "source_sha256": "c7342c595c1a3ada858eab7c27a7cf5ea53899f5b9fe3e973eec5ea1a07e0104",
+        "source_sha256": "1b8198a82698a68a0c900992665064cbf958090f726936bb106452b738e852a8",
         "site_revision": 2101
       }
     },
@@ -4423,15 +4446,15 @@
         "For a webinar on the report, visit: https://nationalskillscoalition.org/resource/webinars/closing-the-digital-skill-divide-the-payoff-for-workers-business-and-the-economy/",
         "And for a copy of the full report itself, visit: https://nationalskillscoalition.org/wp-content/uploads/2023/02/NSC-DigitalDivide_report_Feb2023.pdf",
         "General",
-        "36",
-        "36 views",
+        "37",
+        "37 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Fortune Society offers lessons in technology for New Yorkers who were incarcerated during tech boom",
-        "47",
+        "48",
         "Digital Divide: New initiative allows formerly incarcerated who missed out on tech boom to catch up",
-        "40",
+        "42",
         "Nonprofit Helps Bridge Prison Digital Divide",
         "Contact Us",
         "Volunteer",
@@ -4484,13 +4507,13 @@
         }
       ],
       "content_characters": 1522,
-      "content_hash": "1427ae9aab62df154f831004f558767682805e67ff758ce1e8dba4a563cde342",
+      "content_hash": "481036a956925f23ebaa8baea8851d2714c065ab9ad635952f9f01a636d447fe",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-closing-the-digital-skill-divide-dcfad8d3.html.gz",
-        "source_sha256": "1fd6e80745ecd112ced92053828a7fce8080412f71e3de2ab07df8cd1d117425",
+        "source_sha256": "dbae5f122b182356f350347c826c89494263bcdd7e3fe090a8adaf690da15a9b",
         "site_revision": 2101
       }
     },
@@ -4530,15 +4553,15 @@
         "_________________________________________",
         "Read more at News12 New York",
         "Press",
-        "41",
-        "41 views",
+        "42",
+        "42 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Fortune Society offers lessons in technology for New Yorkers who were incarcerated during tech boom",
-        "47",
+        "48",
         "Closing the Digital Skill Divide",
-        "36",
+        "37",
         "Nonprofit Helps Bridge Prison Digital Divide",
         "Contact Us",
         "Volunteer",
@@ -4592,13 +4615,13 @@
         }
       ],
       "content_characters": 2873,
-      "content_hash": "298d41abbac03ec3396462f80e1b5cf5690d61741948d17e8cec2ff8698e7251",
+      "content_hash": "c3c0358d83247b76a96f308d5fd65d092b7d8b57754c0eb50a207ddd2f81dcf8",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-digital-divide-new-initiative-allows-formerly-incarcerated-who-miss-0c64b099.html.gz",
-        "source_sha256": "6d99e16a064c1561c4dddaf8edf27efb99e6dc65e2872009b2cfe01e4cbc7021",
+        "source_sha256": "699faac3f50159571419a0a212850997b6f1286f00e8c6a471225922fe8c411c",
         "site_revision": 2101
       }
     },
@@ -4631,17 +4654,17 @@
         "We can't wait for you to join us!",
         "Updates",
         "Classes",
-        "38",
-        "38 views",
+        "39",
+        "39 views",
         "Like post",
         "Recent Posts",
         "See All",
         "New Workshops: Intro to Keyboarding, Mousing, Browsing, and more!",
-        "35",
+        "36",
         "Intro to Robotics!",
-        "41",
+        "42",
         "Brand New Workshop: Microsoft Word - Styles!",
-        "40",
+        "41",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -4682,13 +4705,13 @@
         }
       ],
       "content_characters": 887,
-      "content_hash": "3a8bd618671bd98aafd5f0826a7108f0615933e2b31a9b471705cb781f327948",
+      "content_hash": "ca2e456b7f273bd69958f63d95e9bcde4296973ee7331fbbbab0dd063a81b619",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-digital-equity-coming-to-the-bronx-efebc290.html.gz",
-        "source_sha256": "2249d13f1c5b77953ebe7bfd4a71f1fa3e0453463cbf285f4b9d8f284ebcf4c8",
+        "source_sha256": "0c3a61a58bb6c57060864af632b071cef1a2c9137f247cb207f1c3fbeec672f9",
         "site_revision": 2101
       }
     },
@@ -4728,7 +4751,7 @@
         "Recent Posts",
         "See All",
         "Certification for Success",
-        "51",
+        "52",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -4755,13 +4778,13 @@
         }
       ],
       "content_characters": 1999,
-      "content_hash": "28f074c3d442975104799174c29052eaa28b3553cdea76a491a1fd84bb89784c",
+      "content_hash": "6eb83e81298c735cf68ecdca4df29a585efb3bd103f8836ccb6b3a9e0e18f446",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-digital-equity-training-program-at-the-fortune-society-1efa78e1.html.gz",
-        "source_sha256": "f98baf042205f0961a9c7c352dbd209a390cd3ccb3746a967fb435c4addfd7b5",
+        "source_sha256": "1eeafdb7a5aa8f503abdd019785d7065587bebac9f290a099a23cea1d431b277",
         "site_revision": 2101
       }
     },
@@ -4793,13 +4816,13 @@
         "The Fortune Society thanks the FCC for including us in their listening session, and we look forward to contributing to their efforts to end digital discrimination in the future.",
         "For more information on the listening session, please click here .",
         "Updates",
-        "44",
-        "44 views",
+        "45",
+        "45 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Closing the Digital Skill Divide",
-        "36",
+        "37",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -4829,13 +4852,13 @@
         }
       ],
       "content_characters": 1390,
-      "content_hash": "90c0a743d4050c7d2d31a7241cdbdb0868390b9ec690c5d0c903627599a1e761",
+      "content_hash": "7f9d3a262b72fca9b479e025e933f641344ff0b7253c84c84ba0a1e6c79f7e1b",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-fcc-taskforce-to-prevent-digital-discrimination-e5e0d2a5.html.gz",
-        "source_sha256": "4885676059229e5bcf5e6acedba4d06727ff2ec2079a3182bee1eeaac2deae3e",
+        "source_sha256": "2ed94b7cc250566b93102ba92c6c1340561dd7d4acd16009b09c5eae0e7ea71b",
         "site_revision": 2101
       }
     },
@@ -4879,15 +4902,15 @@
         "_________________________________________",
         "Read more at CBS News",
         "Press",
-        "48",
-        "48 views",
+        "49",
+        "49 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Digital Divide: New initiative allows formerly incarcerated who missed out on tech boom to catch up",
-        "41",
+        "42",
         "Closing the Digital Skill Divide",
-        "36",
+        "37",
         "Nonprofit Helps Bridge Prison Digital Divide",
         "Contact Us",
         "Volunteer",
@@ -4936,13 +4959,13 @@
         }
       ],
       "content_characters": 2417,
-      "content_hash": "49d831e2e0e557fcad10c808bed3c7d8574466d4891bd93fa1d8a8841e0c5731",
+      "content_hash": "ec1a1589f62fb37ff8f48d0fa6d1ec30ea8952ad783e2838fd1eba7d3a0456d7",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-fortune-society-offers-lessons-in-technology-for-new-yorkers-who-we-aef9e2d5.html.gz",
-        "source_sha256": "c1534e52aabfa5d5605eda2ca4d9bfbb8734b4f05412a88c6e2476711cb6843a",
+        "source_sha256": "496fa45e116a0595736d6052957219edf9f296a3888422f8c67709ab666e2825",
         "site_revision": 2101
       }
     },
@@ -4977,15 +5000,15 @@
         "View on LinkedIn",
         "Classes",
         "Events",
-        "42",
-        "42 views",
+        "43",
+        "43 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Check Out Our Digital Resources!",
-        "38",
+        "39",
         "Brand New Workshop: Microsoft Word - Styles!",
-        "40",
+        "41",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -5033,13 +5056,13 @@
         }
       ],
       "content_characters": 880,
-      "content_hash": "140d6a1cfa08532125c8365896b2a103f0b294745bc8b9c9ada88c81f3f3635d",
+      "content_hash": "ec64459a006988a2f4026a57882665ef92903b184c9759dad416312b56df99a4",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-intro-to-robotics-7607367b.html.gz",
-        "source_sha256": "f7d7b7c214a6ae24d64f9bf7d1aa8438541e6b86770a0dc37ce608395578abd7",
+        "source_sha256": "29befb682a3311d3e53c4f915bc9c9c8c62ff47b2d0952de294f208659d363b8",
         "site_revision": 2101
       }
     },
@@ -5087,11 +5110,11 @@
         "Recent Posts",
         "See All",
         "Fortune Society offers lessons in technology for New Yorkers who were incarcerated during tech boom",
-        "48",
+        "49",
         "Digital Divide: New initiative allows formerly incarcerated who missed out on tech boom to catch up",
-        "41",
+        "42",
         "Nonprofit Helps Bridge Prison Digital Divide",
-        "36",
+        "37",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -5135,13 +5158,13 @@
         }
       ],
       "content_characters": 3470,
-      "content_hash": "d002845c70e736b92968adfb3a86c5aa40b46ad95b660b340a17e00bc540dbdf",
+      "content_hash": "176eb7b2bf12c13361b856cc8c0f650d4bdbd6bb9b511101752e00870eee0719",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-lic-based-fortune-society-hosts-third-annual-tech-fair-for-justice--3152da88.html.gz",
-        "source_sha256": "097ee00f221fe177fab8a968cce427f4d4710e6b67e31242e4ccf7a6093446a2",
+        "source_sha256": "8ed70c2e19825872b4e6cfc2d6bc91dbf32d0592e1c49570e249ef43edbac2fb",
         "site_revision": 2101
       }
     },
@@ -5176,15 +5199,15 @@
         "This post is a part of the Digital Equity Team's Fortune Bloggers initiative, featuring posts written by Fortune participants themselves about their experience with the digital divide. For more Fortune Blogger features, click the tag below.",
         "Fortune Bloggers",
         "Student",
-        "64",
-        "64 views",
+        "65",
+        "65 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Digital Empowerment",
-        "49",
+        "50",
         "Certification for Success",
-        "51",
+        "52",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -5220,13 +5243,13 @@
         }
       ],
       "content_characters": 2584,
-      "content_hash": "b59e27710f438eb0d42b7596a88dd859f3aa6a6baae33d081ef7964bab42378f",
+      "content_hash": "d5227eb339eb18832d3a95168aa71368ee0c6f8aaed61f1960234013891f52be",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-my-experience-with-the-digital-equity-program-5c57ae3d.html.gz",
-        "source_sha256": "8e0df351ec3dc5f1020cd8a19515659b7e5d776979ef471047ba579718dc943f",
+        "source_sha256": "492b3fe775e495e8453536e0aa976dfbf7f10fafaece593ecb8b46048a5f4d1b",
         "site_revision": 2101
       }
     },
@@ -5262,17 +5285,17 @@
         "And we have many more new classes coming soon, so stay tuned...",
         "Classes",
         "Updates",
-        "36",
-        "36 views",
+        "37",
+        "37 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Intro to Robotics!",
-        "42",
+        "43",
         "Digital Equity Coming to the Bronx!",
-        "38",
+        "39",
         "Brand New Workshop: Microsoft Word - Styles!",
-        "40",
+        "41",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -5309,13 +5332,13 @@
         }
       ],
       "content_characters": 1206,
-      "content_hash": "31510f2aa17da2ead83415206fbaeffe94a6f310ca162f66c36e986cb89e43db",
+      "content_hash": "09038a7891c251534b4bbfd1b3caa0f0985e97d355ab4df88710fed5d942a09e",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-new-workshops-intro-to-keyboarding-mousing-browsing-and-more-a8d001bd.html.gz",
-        "source_sha256": "89bac8be2e61b40d83d7ea3a1fb3354443d3397fdd6a89bfe9e6d175f213f5f4",
+        "source_sha256": "ebabfc625f47e91fd391d261cbbc2d408fd9cd19c181cfb0051e4723c57100fa",
         "site_revision": 2101
       }
     },
@@ -5349,15 +5372,15 @@
         "Read more at Pix11 News",
         "Original Post: https://fortunesociety.org/media_center/nonprofit-helps-bridge-prison-digital-divide/",
         "Press",
-        "37",
-        "37 views",
+        "38",
+        "38 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Fortune Society offers lessons in technology for New Yorkers who were incarcerated during tech boom",
-        "48",
+        "49",
         "Digital Divide: New initiative allows formerly incarcerated who missed out on tech boom to catch up",
-        "41",
+        "42",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -5400,13 +5423,13 @@
         }
       ],
       "content_characters": 1663,
-      "content_hash": "7bb730326c71052ee1ec11de80e66dae605c978291fbaeb2af9a567522664b14",
+      "content_hash": "cc11319f893b245b0e2470041ed2a5315d961dad38c1730d8740180ad13dc4ee",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-nonprofit-helps-bridge-prison-digital-divide-eaac1716.html.gz",
-        "source_sha256": "b2498cf7504b685dcb7e7ac0c7533b8439c4b0d25d01178613f9a7a183e531c0",
+        "source_sha256": "9307a9bb0185f32869edeb0821052f2676d3477e31773088ab8aeffce61fccdc",
         "site_revision": 2101
       }
     },
@@ -5434,13 +5457,13 @@
         "This week we are bringing back the Welcome Area TV at our LIC office! It will be an essential resource to keep our participants up to date with ALL our department's info and events. Specifically, we'll have updates from Employment, Arts, Policy, Digital Equity, and more!",
         "So come by our office and check it out! We can't wait to see you!",
         "Updates",
-        "34",
-        "34 views",
+        "35",
+        "35 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Check Out Our Digital Resources!",
-        "38",
+        "39",
         "Digital Equity Coming to the Bronx!",
         "Contact Us",
         "Volunteer",
@@ -5476,13 +5499,13 @@
         }
       ],
       "content_characters": 728,
-      "content_hash": "13ee6f0f6e4d844be20d87a35a525f37cdf46670ebf79494479044b857786f43",
+      "content_hash": "b29a1d04e21371085c900878cdd07e6b6ad12f3ed85e227f7943c40f96a16a1e",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-reintroducting-the-fortune-society-lobby-reel-48a4e7d6.html.gz",
-        "source_sha256": "caec211f5c1610ca7ff539fcbeb9f3ecdb0d0a8a88abda9e788a53efde63c42f",
+        "source_sha256": "ceda9de33a582151970c80847dfcf8e90c9d6582e38f7ca1bde2ef5b57a0fdf2",
         "site_revision": 2101
       }
     },
@@ -5525,13 +5548,13 @@
         "DONATE TODAY TO SUPPORT OUR DIGITAL EQUITY INITIATIVE",
         "Original Post: https://fortunesociety.org/the-digital-equity-initiative-at-fortune-and-its-impact/",
         "General",
-        "37",
-        "37 views",
+        "38",
+        "38 views",
         "Like post",
         "Recent Posts",
         "See All",
         "Fortune Society offers lessons in technology for New Yorkers who were incarcerated during tech boom",
-        "48",
+        "49",
         "Nonprofit Helps Bridge Prison Digital Divide",
         "Contact Us",
         "Volunteer",
@@ -5575,13 +5598,13 @@
         }
       ],
       "content_characters": 4601,
-      "content_hash": "e6ab23cb9cb63a60fee245d69d2aa733fb5a1fc7f9e3b6bbbc29489513f08055",
+      "content_hash": "cb4fcd967280c4c61032e04e680b40e0fb5ece868908ae725f8675f66518b988",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-the-digital-equity-initiative-at-fortune-and-its-impact-38bbf223.html.gz",
-        "source_sha256": "f3e79e9f1064812c460f8790867696be58bc4e60895a7b179e55c638867ba5f2",
+        "source_sha256": "22b5da71ee14793ae8305cbd7890db6b7ee1118d8e8a601da2d34ea7043abcca",
         "site_revision": 2101
       }
     },
@@ -5611,13 +5634,13 @@
         "Watch news coverage from the day, featuring an interview with Director of Systems Operations and Training, Adrienne Whaley:",
         "Original Post: https://fortunesociety.org/event-show/the-fortune-societys-technology-fair/",
         "Events",
-        "31",
-        "31 views",
+        "32",
+        "32 views",
         "Like post",
         "Recent Posts",
         "See All",
         "2023 Technology Fair",
-        "43",
+        "44",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -5651,13 +5674,13 @@
         }
       ],
       "content_characters": 809,
-      "content_hash": "4e2ff12fc8cf76f1e4e5027f7f61184f8299f43041bc165bf2380f6738e7c982",
+      "content_hash": "fe6cc6753b3a963dbc7c5b2324346f1904c3730e36ba07340f56683990c607b7",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/post-post-the-fortune-society-s-technology-fair-787f7e5a.html.gz",
-        "source_sha256": "4b49707d4d623343ded370cea93759e91d4a2bce0b19d145f54636a6591084d1",
+        "source_sha256": "7f6feca026d2894c86713c78a6246f48fb89363c1b8dc13320fadf68c1160767",
         "site_revision": 2101
       }
     },
@@ -5815,7 +5838,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-practice-e0d2da64.html.gz",
-        "source_sha256": "0108e3ff5a26ce77f9a459981adf5d9ac2ec0ba0db572e9c6e2863d64882c657",
+        "source_sha256": "fc9a71721152050d8ec3c518524776e4b37b7ebfbab07ced885f063da4c9bfed",
         "site_revision": 2101
       }
     },
@@ -5871,7 +5894,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-projects-324ebb4f.html.gz",
-        "source_sha256": "3b544da6617552ca227317273b4aab8125746bdae65b63fb404bae8fb70bf9a4",
+        "source_sha256": "69cc79f3456cb2aeb36c09e3549a6be3437d68d7d0225e9732da371113c3fe2b",
         "site_revision": 2101
       }
     },
@@ -5929,7 +5952,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-ai-awareness-month-kickoff-1daf8ba4.html.gz",
-        "source_sha256": "49e59d7521a37e2786cabde8078a192fd6c9bb5ab81607508175e43f85b17384",
+        "source_sha256": "481f78da6ce0f9ec807692024f619c135bcf7f4fbe9ea799fea49ddb5b5f2e08",
         "site_revision": 2101
       }
     },
@@ -5987,7 +6010,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-ai-effects-tradeoffs-21a8a5ab.html.gz",
-        "source_sha256": "185d6a0d063006a337829713e165cd6e497ccf9e7f7b11173a63491fb3d39a27",
+        "source_sha256": "3a2d42c03b78765ebfda0eb54a4f26ea6f03006a06a0a59c41b787c4a5369d92",
         "site_revision": 2101
       }
     },
@@ -6045,7 +6068,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-ai-in-everyday-systems-d73a6cf4.html.gz",
-        "source_sha256": "0946e372a446cf6f898a232d10bb2a9681c29e99f8298e4f078d57b0c6cba039",
+        "source_sha256": "80920fde256fbcbbbecf6d098ebead816b8ce2889663abc39d4537b4fe8ad71e",
         "site_revision": 2101
       }
     },
@@ -6103,7 +6126,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-ai-safety-in-2026-94d528fe.html.gz",
-        "source_sha256": "bfd21a5478ef516b7cf69c4de7a7e89f4ce57d05579906dec15b914119c301f0",
+        "source_sha256": "db4317e8ed8e7c67418358765a0fdace1f07c20556a822f67685afc5e6003777",
         "site_revision": 2101
       }
     },
@@ -6128,8 +6151,8 @@
         "Home",
         "Service list",
         "Alfabetización Digital Básica en Español",
-        "This course can no longer be booked.",
-        "Ended Ended Main Office (LIC)",
+        "This course has already started and is unavailable to book, contact us for more details",
+        "Ended Jun 23, 2025 - Jul 30, 2025 Main Office (LIC)",
         "Description",
         "Alfabetización Digital Básica en Español impartido por los instructores invitados especiales Computers4People!",
         "Contact Us",
@@ -6150,14 +6173,14 @@
         "https://www.fortunedigitalequity.org/opportunities"
       ],
       "source_links": [],
-      "content_characters": 378,
-      "content_hash": "6ef93abb4904b35c362c2308ea4521e3ff86566e25b8d8ebef8b87cdb8313843",
+      "content_characters": 451,
+      "content_hash": "002bd3947ed5f3a42823cb1d9697e6a241f5e09b476340fef5be7b54a5f688b3",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "crawl incomplete",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-alfabetizaci-n-digital-b-sica-en-espa-ol-c9f72881.html.gz",
-        "source_sha256": "dd7b5ea682c6d42e6d569ab28e18f7193824cbd86945b67fcb86993b32d93523",
+        "source_sha256": "1fa9d593b9fa45698bdf8708ce80bffd873fde4ddda814956a8ccb3f11635e9f",
         "site_revision": 2101
       }
     },
@@ -6215,7 +6238,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-alternative-open-local-ai-tools-144f774e.html.gz",
-        "source_sha256": "08ea22fc97aa5b475d949afe92b7386bee5ea0c4058112b7b417cec9ec640b39",
+        "source_sha256": "9ab5fb5f0da9df5ca5e3b72914e281762d3a2ce3ef518ba5d87b7a290c53ec02",
         "site_revision": 2101
       }
     },
@@ -6273,7 +6296,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-app-essentials-contacts-communication-203c4751.html.gz",
-        "source_sha256": "7bc193d60325ad3eac847d3f61da3f02057d4a97eebf68606bd30e4b5c973773",
+        "source_sha256": "acfc8621f90741afbf53b15f519c1e00045ed32ca7679abeade3eddea22822f8",
         "site_revision": 2101
       }
     },
@@ -6331,7 +6354,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-app-essentials-managing-your-time-c244b76f.html.gz",
-        "source_sha256": "3dcb5d31f68a6d195cd6e8460c0764d9919eef8fad8e6e5562451403c4e551f0",
+        "source_sha256": "be04e6e4597d41ce86764ec2ba4587f6a2b03b4f2aadd01cc0aeaf3abae1b07a",
         "site_revision": 2101
       }
     },
@@ -6389,7 +6412,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-app-essentials-navigating-safely-7c4d5662.html.gz",
-        "source_sha256": "2cc395b6a31efbd14da03de5540d66739c4d3bde3bb4d2a9c4751cf94c044e56",
+        "source_sha256": "3c48dc8e8a9d9015b809558235469f76388005068acf22623b4ba119ada26884",
         "site_revision": 2101
       }
     },
@@ -6447,7 +6470,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-app-essentials-smart-features-8b1cc263.html.gz",
-        "source_sha256": "5b50ca20a8ba71dede909974696bc459f7fbe1c2f297907a5c49e3a283d8c9a3",
+        "source_sha256": "912c8a7733fe38e09d84a2eb3d2298b0709d7be5c7366820529889a6f7531691",
         "site_revision": 2101
       }
     },
@@ -6505,7 +6528,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-app-essentials-transactions-access-01e4e077.html.gz",
-        "source_sha256": "e7d0220b46a513952f9563a1c0b495e344ff5f462cb1ccd31a346db576170ba2",
+        "source_sha256": "22b19bbe527adb76c81075cd80f8d42b24d97fe9992e4bef489675c60fa4febf",
         "site_revision": 2101
       }
     },
@@ -6563,7 +6586,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-canva-content-workflows-850ddc38.html.gz",
-        "source_sha256": "b21b54e8f52396a6ad97c744ec39036d2a12c06317f8294daf505c4db115d131",
+        "source_sha256": "7a29e995c6e082b8a5ab89f5bd986d7b2176cf066ce9430911070b0aff94d2a0",
         "site_revision": 2101
       }
     },
@@ -6621,7 +6644,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-canva-design-tools-61911b2b.html.gz",
-        "source_sha256": "911b9214ec0c0143f5243e55e0caa774fb68e1f83295375985a303b74ff3581b",
+        "source_sha256": "38ad02b644653e642682ecde8e55660659dfe8df0c108e894f7b6d7f15648a5d",
         "site_revision": 2101
       }
     },
@@ -6679,7 +6702,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-capstone-activity-using-ai-5e98eaca.html.gz",
-        "source_sha256": "cea2bc9e92ca3b93b0d6e1a21c7c243680fc6e6d6736e5a7d2fd1aac0a18b079",
+        "source_sha256": "63206ff73fd9e7b56095f9b35508540c325e5f18c35f56f7589325b3fa63e8a2",
         "site_revision": 2101
       }
     },
@@ -6737,7 +6760,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-capstone-activity-using-no-ai-d58e5bbf.html.gz",
-        "source_sha256": "8264924325f55a3b2e0d290506fa079ce203a3e8cd6cfa0a017dffd8e224e740",
+        "source_sha256": "ea7a32546331aeffebf7a9d8d605c9c9446d3282ff8614bdf9bf6006e30ebd02",
         "site_revision": 2101
       }
     },
@@ -6795,7 +6818,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-choosing-the-right-ai-tool-for-the-job-c3fe323e.html.gz",
-        "source_sha256": "25baac6b268caf301202d76163d145236c7e4ad8907e3da7bf1e001338c52d89",
+        "source_sha256": "4691b369a2248d953a291a5ce93ab2525c5a8ea55958aac5358020a4a09b7d79",
         "site_revision": 2101
       }
     },
@@ -6853,7 +6876,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-communicating-with-ai-c95f3312.html.gz",
-        "source_sha256": "3fe35edcee0c0d91bca09956e3c2ed9784d3389508685aae634e5a2da9f77f02",
+        "source_sha256": "41015e4178af35959d65e9b6f9bcf33ae2bfc3659c92df2d33939f993c446297",
         "site_revision": 2101
       }
     },
@@ -6911,7 +6934,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-customizing-your-smartphone-dd1578ae.html.gz",
-        "source_sha256": "c2318d500de60fef1008991f082f854168673ff8e655ba54004495396dfe89e8",
+        "source_sha256": "7983c699a6b785808b88d3fe29655759c7b576c74f80a04309d33389c5e4529a",
         "site_revision": 2101
       }
     },
@@ -6969,7 +6992,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-digital-branding-capstone-day-54957b19.html.gz",
-        "source_sha256": "c3e8ee90a226ae018315df07e903781e18470caa6174f686bc3a96892e4afd0f",
+        "source_sha256": "9bf122d3ebf17e2c3d5f14c9f36ed64ddf8dca455b99077d39ecacc7ab400c91",
         "site_revision": 2101
       }
     },
@@ -7027,7 +7050,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-digital-color-concepts-codes-a409860d.html.gz",
-        "source_sha256": "c8606ce361eea99fe6e9a7e0e34a8517002eb961620a1d1b0efa0570f3a7d8b3",
+        "source_sha256": "89b33a54b758673d5dd06efef952a739a8f8bf855d8d9f4f78824d1f73495d0a",
         "site_revision": 2101
       }
     },
@@ -7085,7 +7108,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-digital-discussion-group-19f94f41.html.gz",
-        "source_sha256": "f37bc42f36b55afadbc280d933dc4b8004f481f1d35eb2c78de7b5437f293115",
+        "source_sha256": "0669e4bbcb7f31c8da5e548c95f83d55aca14a6d20e0cc4394c656d631e4f3ac",
         "site_revision": 2101
       }
     },
@@ -7143,7 +7166,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-digital-safety-computers-2-c4818a9a.html.gz",
-        "source_sha256": "f4f4155e361786ac0dfccf3f0c0e9728fe3575cd5994e75b22c9f723a6c43a85",
+        "source_sha256": "d2e63735bdb20bc5454abef7f568b4be3ea6432a70b2d77488d5dcc85999ee2e",
         "site_revision": 2101
       }
     },
@@ -7201,7 +7224,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-digital-safety-email-6939b571.html.gz",
-        "source_sha256": "60a5d5f42d5bb795c4361523cebd39817bb0faecf0ea42afb39ac60150022ac9",
+        "source_sha256": "5698da1219568e8d801db6dcd8b3987c6a24fcd7e61a9c8138d3a193105d21aa",
         "site_revision": 2101
       }
     },
@@ -7259,7 +7282,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-digital-safety-mobile-devices-1-df6d41a4.html.gz",
-        "source_sha256": "bf7178b2c0f4429bb7c45ad94686a374deb3c416ca263a938ea5465c94ccbc92",
+        "source_sha256": "2e77982201655772355d722701dedf49601bd6122f61719bb062a2c8bdeeea7c",
         "site_revision": 2101
       }
     },
@@ -7317,7 +7340,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-digital-safety-online-7eff2f59.html.gz",
-        "source_sha256": "0df21722f2d6b94b9684e552cc58823d98fa02d7cc204b398c5cfe8e9473f5b0",
+        "source_sha256": "e81cc6e065e44514e0befee9541404cca330dca2f434e8fa442bdaf7758f79b3",
         "site_revision": 2101
       }
     },
@@ -7383,7 +7406,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-digital-safety-protecting-personal-privacy-1-96308977.html.gz",
-        "source_sha256": "85fd4d8fb3c5f1caa471d4617822045253a0c9975f3a9786ce572fc1950b9488",
+        "source_sha256": "125bbeb9db0272f49be0c0f905caa1e94a379df8471ed852b9b890398a66516b",
         "site_revision": 2101
       }
     },
@@ -7409,16 +7432,13 @@
         "Home",
         "Service list",
         "Digital Safety: Recognizing Online Threats",
+        "This service is not available, please contact for more information.",
         "Main Office (LIC) | SRP (Bronx) | Fortune Academy (Harlem)",
         "Description",
         "DIGITAL SAFETY CURRICULUM UNDER REDEVELOPMENT",
         "Upcoming Sessions",
         "Eastern Daylight Time (EDT) Time Zone: Eastern Daylight Time (EDT)",
-        "Tuesday, Oct 13",
-        "2:00 PM",
-        "Main Office (LIC)",
-        "1 hr 30 min",
-        "1 hour 30 minutes",
+        "No sessions in the next 31 days.",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -7436,20 +7456,15 @@
         "https://www.fortunedigitalequity.org/mediakit",
         "https://www.fortunedigitalequity.org/opportunities"
       ],
-      "source_links": [
-        {
-          "label": "REGISTER",
-          "url": "https://www.fortunedigitalequity.org/service-page/digital-safety-recognizing-online-threats"
-        }
-      ],
-      "content_characters": 458,
-      "content_hash": "d1347bf580b1c3990385959b9362c9463c1e1530bd79d6c5830196a326a0fd64",
+      "source_links": [],
+      "content_characters": 490,
+      "content_hash": "bec1a70b99672039e94871cfdc521f737ce68f89e664a001e4045b4dc3d62ca9",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-digital-safety-recognizing-online-threats-fff79ef3.html.gz",
-        "source_sha256": "d4cd1b1262a454cf5c4406fb4ee808ce7aef90b5f31a535e3190495030e70fae",
+        "source_sha256": "15ec052a96f37ee22f1df91d3981041c15c27fafd1572e0731f36369a4ca2500",
         "site_revision": 2101
       }
     },
@@ -7515,7 +7530,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-digital-safety-securing-your-devices-1-fdd2c461.html.gz",
-        "source_sha256": "e33b86833c0b2d8f9e96f75c57004163be8f8fa37acea377199a0ec8a3bfdc0c",
+        "source_sha256": "e3de61ff5523c40e5998d3f8987a3f4152ca242b465c1535dcec4140421bdc63",
         "site_revision": 2101
       }
     },
@@ -7573,7 +7588,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-excel-capstone-day-9acf929e.html.gz",
-        "source_sha256": "03df1a12961cfeabe3f41069592d5c8943ab37334dc6bc59550180df340e0367",
+        "source_sha256": "0f64137b977cbaa0903e289c315d911c802ed2c3a5c2234b63cca6af9e924551",
         "site_revision": 2101
       }
     },
@@ -7631,7 +7646,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-excel-formatting-data-6b619834.html.gz",
-        "source_sha256": "5222e882add01fdac77f65c09899cd3e60d7e6339db482dc4a535e891200e73e",
+        "source_sha256": "9d814d41332b95021395baf807a42b243359ab8acfab6c80ed18e02356ca3a67",
         "site_revision": 2101
       }
     },
@@ -7689,7 +7704,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-excel-formulas-functions-ef3359ca.html.gz",
-        "source_sha256": "f9060d46abeb484d02f55aa02daa9883a08f0216b7d11340ebc8f63cf5e09e7c",
+        "source_sha256": "5c50126eab0d44e2195174f63e0c1b6417ef0608fdba306736fd009e182e2e13",
         "site_revision": 2101
       }
     },
@@ -7747,7 +7762,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-excel-organizing-data-29daccf5.html.gz",
-        "source_sha256": "e5495fa694b090752eb8a8522a6a6a04726f5ece585db00337eb9ac60d475b68",
+        "source_sha256": "2fd075336bd2a82ea359229de48070764fc69e8f9d25faa30c44f2dad229c0fc",
         "site_revision": 2101
       }
     },
@@ -7805,7 +7820,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-excel-presenting-data-7159ecaf.html.gz",
-        "source_sha256": "2b48f684cdf94d6f8d92d09a1370e9df9445723268b2d62b6ce586236cf8134a",
+        "source_sha256": "4166af7cc45ac8a634d11c28705422791b746f4549441ea878deb43a9c92a9b5",
         "site_revision": 2101
       }
     },
@@ -7863,7 +7878,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-exploring-events-in-sched-7cb159c9.html.gz",
-        "source_sha256": "6ff050e5bcf7a7efcdbd9e0374cf0404bdf60a3377703e49ad09f705dc427a20",
+        "source_sha256": "ea501f045192eb8121176e2915aaff99dc6c0682e5742250f0e42678f5e02f68",
         "site_revision": 2101
       }
     },
@@ -7921,7 +7936,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-google-docs-collaborating-d535386e.html.gz",
-        "source_sha256": "b7e6eede7a3a57c4c1a80ad7fd934f1cbb76d79a0401a822dd37df79555a8817",
+        "source_sha256": "c2a70931f2b461dd6290ba401be303065adc1793c79f77178ec2348c3f97c2d6",
         "site_revision": 2101
       }
     },
@@ -7979,7 +7994,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-google-sheets-collaborating-56ac1209.html.gz",
-        "source_sha256": "7e1ee5eff12d128a09a05cbaeea73adde03721f4a8198e32a760838804ef1ed5",
+        "source_sha256": "ea46c96d2de08f373d9cee67b7c97046f87c5f29fdbed017805672dca5293d48",
         "site_revision": 2101
       }
     },
@@ -8037,7 +8052,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-how-does-ai-think-f591e3b1.html.gz",
-        "source_sha256": "025a3cb4805af2e82a3090cb29f5683e5b5b5d68daf236772dbf58be715455ba",
+        "source_sha256": "5c4fcf09852f98053697eaff8cc12ca571019d2399d68a470022cb629e597e87",
         "site_revision": 2101
       }
     },
@@ -8095,7 +8110,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-ai-art-605fc624.html.gz",
-        "source_sha256": "947cd7f189d2ef8d8bbc98886e891afdff0019b05fa5e1980ed3e4ea6d7a5cfb",
+        "source_sha256": "b765b7183a71ee5b2685848d78cb6e7a7a87f6303d48f5000e0e8dd19a9b8d65",
         "site_revision": 2101
       }
     },
@@ -8153,7 +8168,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-ai-art-pt-2-5b540085.html.gz",
-        "source_sha256": "bafdb37bfe23ee3c7140e39f541af588751c0c2d76e23e9ae940caa9c883b491",
+        "source_sha256": "91e095b4f8fedefdb418e07927eb72b5a0c83e62fe3cc75568a9188ef18b6880",
         "site_revision": 2101
       }
     },
@@ -8211,7 +8226,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-ai-pt-1-0358341b.html.gz",
-        "source_sha256": "62896d0c8562dc8e05d1a300ea06b08cfda270fc6ac119b5cc4458b4e8e88a20",
+        "source_sha256": "2f104e78d14157463dd8f4a268688cf4f05efa591796259715f1947de227aedd",
         "site_revision": 2101
       }
     },
@@ -8269,7 +8284,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-ai-pt-2-3b086c13.html.gz",
-        "source_sha256": "1073e77f8d45f6c5aff22d3300ef18a80d522f14e5856b240da1bb32194dac9a",
+        "source_sha256": "ee4b05926fc66ee7b53db2a322ccd901d32cfe292202d7d2b65f971c30a6636a",
         "site_revision": 2101
       }
     },
@@ -8327,7 +8342,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-coursera-0499eeaf.html.gz",
-        "source_sha256": "e2004db29f3bccd46cf00a9882cee81ab7a88ba27307c382d7eff64c2f3cdfff",
+        "source_sha256": "3e98d3bd3122265cfe8e66a483c38067629564cd8de7888ab9a6572a1a44198f",
         "site_revision": 2101
       }
     },
@@ -8352,8 +8367,8 @@
         "Home",
         "Service list",
         "Intro to Drones",
-        "This course can no longer be booked.",
-        "Ended Ended Main Office (LIC)",
+        "This course has already started and is unavailable to book, contact us for more details",
+        "Ended Mar 20, 2026 - Apr 17, 2026 Main Office (LIC)",
         "Description",
         "DRONES CURRICULUM UNDER DEVELOPMENT",
         "Contact Us",
@@ -8374,14 +8389,14 @@
         "https://www.fortunedigitalequity.org/opportunities"
       ],
       "source_links": [],
-      "content_characters": 278,
-      "content_hash": "ad969bc5a579e465af0cff2f6b6fc4006ee31a940c6fee0fcb78ce75bde884e6",
+      "content_characters": 351,
+      "content_hash": "7c986b18bcb6938e1fd3f5269f623899c791fb81ebf759f6f9b98663d55b0ae5",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-drones-987bdf4d.html.gz",
-        "source_sha256": "da57e453f6d02967471574b8f31f2172da8b2b7c05526e2459af1d80643054d7",
+        "source_sha256": "4e064027002188770a4153fd9c0e892f117d80df69f1786699f92d7e86d01f3e",
         "site_revision": 2101
       }
     },
@@ -8407,16 +8422,13 @@
         "Home",
         "Service list",
         "Intro to Email",
+        "This service is not available, please contact for more information.",
         "Main Office (LIC) | SRP (Bronx) | Fortune Academy (Harlem)",
         "Description",
         "New to email, or ready to feel more comfortable using it? We’ll start by creating or accessing an email account and getting familiar with the inbox, email addresses, and the different parts of a message. Then you’ll practice reading, composing, sending, replying to, and forwarding emails, along with adding and opening attachments. Drafts, search tools, labels, spam, deleted messages, passwords, and safe sign-out practices will help you manage your account without feeling overwhelmed. Email is part of everything from appointments and applications to work and everyday communication, and this class will help you use it with greater ease. *No email address required prior to class.",
         "Upcoming Sessions",
         "Eastern Daylight Time (EDT) Time Zone: Eastern Daylight Time (EDT)",
-        "Wednesday, Oct 14",
-        "2:00 PM",
-        "Main Office (LIC)",
-        "1 hr 30 min",
-        "1 hour 30 minutes",
+        "No sessions in the next 31 days.",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -8434,20 +8446,15 @@
         "https://www.fortunedigitalequity.org/mediakit",
         "https://www.fortunedigitalequity.org/opportunities"
       ],
-      "source_links": [
-        {
-          "label": "REGISTER",
-          "url": "https://www.fortunedigitalequity.org/service-page/intro-to-email"
-        }
-      ],
-      "content_characters": 1072,
-      "content_hash": "3c16ece7faaf6e149e2d38542048687259a000490168c029cec798cc12f142ad",
+      "source_links": [],
+      "content_characters": 1102,
+      "content_hash": "fed1b237c41119dc4d6e3602314237c66b24b78173fc030d7aa0c4704930189f",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-email-19718065.html.gz",
-        "source_sha256": "ba95fd479508888d87d16c9a05105ffeeffee54af7835dd001c9c077ab731b3f",
+        "source_sha256": "2e7031f765c473fcf25aeebe4f67a5d99ad3fac44721947c256c82cdcf291a4c",
         "site_revision": 2101
       }
     },
@@ -8505,7 +8512,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-fortune-digital-equity-081752a0.html.gz",
-        "source_sha256": "928c44e8bb4a223da547327475ad3521a94d1246981894aebd524bff8e4edfd5",
+        "source_sha256": "3b90e6f511a9ca884f3f08527502a5ac7d477e8e9163f7e601b3ba1b458190c9",
         "site_revision": 2101
       }
     },
@@ -8563,7 +8570,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-google-meet-ms-teams-fd4f6295.html.gz",
-        "source_sha256": "b60c3fb7addaec58de4c0b5e8fbebcdb253db062a1f8ea902d93a9adbeca7758",
+        "source_sha256": "1deec70bec30eb628a66f516986d8fe4ed281a36a330e5c5e111c253c62f0e8d",
         "site_revision": 2101
       }
     },
@@ -8621,7 +8628,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-google-sites-c5ebf222.html.gz",
-        "source_sha256": "bb1714c70322d5014ee50cd6f661fe7c85499d896942cdb4fe9b6e5c5c372e54",
+        "source_sha256": "8ee615ad269a7503f67d1e6b65e996ea8316a8eafd2c8b31ae911d1a2f47d3fa",
         "site_revision": 2101
       }
     },
@@ -8679,7 +8686,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-microsoft-excel-6c582b12.html.gz",
-        "source_sha256": "9ccea10bf873a8ec84e6556ea0124b35340976fbba455c25509a3d37f49bb058",
+        "source_sha256": "47d112e58523a16945f3ded8450032004d93debe84ab16cd60f91e5c641e29bf",
         "site_revision": 2101
       }
     },
@@ -8737,7 +8744,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-microsoft-powerpoint-1-791b5354.html.gz",
-        "source_sha256": "6cea20c53be64d12acc2c74c3414f51506e5cbd35f2a164e34c8594fd01a0d76",
+        "source_sha256": "3f34dd35a7cd7f8b314566ec66044a9d539a80ce56a67980da09c48f986c79da",
         "site_revision": 2101
       }
     },
@@ -8795,7 +8802,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-microsoft-word-ec40b478.html.gz",
-        "source_sha256": "1038e3574c4784aba9ddf71c667dfdeb347c768f43b52b043dd4e346855dd5ae",
+        "source_sha256": "8f1c88711c820836f87866aa6ce9e78502c8e5503a7236862d5f147a2623e979",
         "site_revision": 2101
       }
     },
@@ -8820,8 +8827,8 @@
         "Home",
         "Service list",
         "Intro to Robotics",
-        "This course can no longer be booked.",
-        "Ended Ended Main Office (LIC)",
+        "This course has already started and is unavailable to book, contact us for more details",
+        "Ended Dec 2, 2025 - Jan 1, 2026 Main Office (LIC)",
         "Description",
         "Have you ever dreamed of building a robot to help you take over the world?! Come join the Digital Equity team to begin your journey through robotics toward world domination! *Consists of 5 required classes.",
         "Contact Us",
@@ -8842,14 +8849,14 @@
         "https://www.fortunedigitalequity.org/opportunities"
       ],
       "source_links": [],
-      "content_characters": 451,
-      "content_hash": "b02c24bb5179562ecfbba19baf5a6be89b24373fb583fab857b8800b776b07b7",
+      "content_characters": 522,
+      "content_hash": "2f864cc13c556690d2c658a1f10ff5834a89dd967bbf4a03ada9702d6562fc9f",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-robotics-2-1083ec07.html.gz",
-        "source_sha256": "f6d1cd96a0a4f53ba16e34f559024c3988140448764b22887885386cde50b044",
+        "source_sha256": "711b710d72d71f2cf2a44abac0ba518414780ca3ac79ef982f6ecf55cfa3ab4f",
         "site_revision": 2101
       }
     },
@@ -8907,7 +8914,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-the-google-suite-e264ad87.html.gz",
-        "source_sha256": "03c994cd5c5f77ff90c445fc8da57cfad21b28e506e7d25b1dd595007fc171da",
+        "source_sha256": "5afa4331af309da3300b0ea974d37d6c502a66290dd535caf15ea694cd0c2bf1",
         "site_revision": 2101
       }
     },
@@ -8965,7 +8972,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-intro-to-zoom-google-meet-fafeab1d.html.gz",
-        "source_sha256": "2dd87004a99e259ee26bb62251762de794e966cdb6fa1621d83b34e7a230a2c5",
+        "source_sha256": "49bcb9baaef2b94b0ce5964659f07431e659063600050823b76bafa805029aa8",
         "site_revision": 2101
       }
     },
@@ -9023,7 +9030,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-job-searching-online-d936362e.html.gz",
-        "source_sha256": "f23bee15680da76567f4a6d8e09998c29ff23b8096247f017cabae1c419e7f4c",
+        "source_sha256": "0e0c82f0ded511d25793977b380f4ecf24f4c01c0f7991c181dcc7947878c74d",
         "site_revision": 2101
       }
     },
@@ -9081,7 +9088,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-linkedin-networking-strategies-ad6f1852.html.gz",
-        "source_sha256": "31b3e4b6db1740cbaaefcffb99b78f51ea9e6d8c8f91b0cb3fce0bfaf4190d3f",
+        "source_sha256": "a1ad31d52a78ce874a47384d95e75ac01d32da69b1dd5e8aa2d61b7a1a76dbc1",
         "site_revision": 2101
       }
     },
@@ -9139,7 +9146,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-linkedin-profile-foundations-8915a802.html.gz",
-        "source_sha256": "f441f936c9c3adec464f8aded28fe6c072bb52afe4a732e0407afb64136e6723",
+        "source_sha256": "45fb649b91b99b95f2dbed809846576969440a6f17ef05104e6f7aa9b7bb159b",
         "site_revision": 2101
       }
     },
@@ -9197,7 +9204,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-managing-your-smartphone-43d49ac5.html.gz",
-        "source_sha256": "6a15981eeb310784c2af9549aa70c2e460920f77ea4318add8aedb7a7340260f",
+        "source_sha256": "b915474d20d1ef689069467d617ffa885f522fac77c417064adfd913902fa142",
         "site_revision": 2101
       }
     },
@@ -9255,7 +9262,73 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-mobile-computing-capstone-day-f75461b0.html.gz",
-        "source_sha256": "4512f1733eeaecef1f1850ca1bd5c92fbd33ff8d0ce7318116473d27cb0d478a",
+        "source_sha256": "dc7f58fbb196acb972e21cf641f723c73b9f3df53e84bf78183a67511b6c0fa6",
+        "site_revision": 2101
+      }
+    },
+    {
+      "url": "https://www.fortunedigitalequity.org/service-page/movie-viewing-mercy",
+      "sitemap_kind": "booking-services",
+      "lastmod": "",
+      "id": "service-service-page-movie-viewing-mercy-66d32dfb",
+      "authority": "answer",
+      "authority_reason": "current public Digital Equity page; published site is the factual authority",
+      "volatile": true,
+      "status": 200,
+      "title": "Movie Viewing: Mercy | FS Digital Equity",
+      "description": "Movie Screening https://en.wikipedia.org/wiki/Mercy_(2026_film)",
+      "headings": [
+        "Service Details",
+        "Movie Viewing: Mercy",
+        "Description",
+        "Upcoming Sessions"
+      ],
+      "blocks": [
+        "Service Details",
+        "Home",
+        "Service list",
+        "Movie Viewing: Mercy",
+        "Main Office (LIC) | SRP (Bronx) | Fortune Academy (Harlem)",
+        "Description",
+        "Movie Screening https://en.wikipedia.org/wiki/Mercy_(2026_film)",
+        "Upcoming Sessions",
+        "Eastern Daylight Time (EDT) Time Zone: Eastern Daylight Time (EDT)",
+        "Thursday, Oct 29",
+        "2:00 PM",
+        "Main Office (LIC)",
+        "2 hr",
+        "2 hours",
+        "Contact Us",
+        "Volunteer",
+        "Donate",
+        "Media Kit",
+        "(212) 691-7554",
+        "FSTrain@FortuneSociety.org",
+        "©2026 by Fortune Society Digital Equity Program"
+      ],
+      "internal_links": [
+        "https://www.fortunedigitalequity.org/",
+        "https://www.fortunedigitalequity.org/(212) 691-7554",
+        "https://www.fortunedigitalequity.org/catalog",
+        "https://www.fortunedigitalequity.org/contact",
+        "https://www.fortunedigitalequity.org/fstrain@fortunesociety.org",
+        "https://www.fortunedigitalequity.org/mediakit",
+        "https://www.fortunedigitalequity.org/opportunities"
+      ],
+      "source_links": [
+        {
+          "label": "REGISTER",
+          "url": "https://www.fortunedigitalequity.org/service-page/movie-viewing-mercy"
+        }
+      ],
+      "content_characters": 438,
+      "content_hash": "709136e0b733a0013785809c0e5965ee5ef504c862c4d94efe42a0348d11ffab",
+      "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
+      "approval_state": "pending Fortune staff review",
+      "reviewed_on": null,
+      "rendered_snapshot": {
+        "file": "replica-snapshots/service-service-page-movie-viewing-mercy-66d32dfb.html.gz",
+        "source_sha256": "3122592a22ad9d59b32629da248e548506786e8a5cf9de6d6b5dc44e6f8f67b4",
         "site_revision": 2101
       }
     },
@@ -9321,7 +9394,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-navigating-ai-safely-93d4c671.html.gz",
-        "source_sha256": "4c4a8f4e11bdf9e25e42111399c0d3f23f39af237c579597b0cc50621066c0c8",
+        "source_sha256": "476200af8918cd1ad94066e5e39d8eae655d44070fe915068cf654f55c92bd6d",
         "site_revision": 2101
       }
     },
@@ -9379,7 +9452,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-navigating-internet-browsers-85520cbc.html.gz",
-        "source_sha256": "c139e7555fafb6148fd803a66fa2e735c883f752df4e4ff1c36df5e63f39120e",
+        "source_sha256": "bdc12d821b7ed0f4ce653bce950d7b2493530e888261fe9658355af2d48b1592",
         "site_revision": 2101
       }
     },
@@ -9445,7 +9518,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-navigating-the-cloud-74013a7e.html.gz",
-        "source_sha256": "c18cb1aba16f4588df1fef8c10b79fd97a3bc387b6307c86bbb246c0ec8e6f78",
+        "source_sha256": "2c890d3e803b4f7dd5fa6c417897caaa8d8fcd2c24b819e5858a51a57735f679",
         "site_revision": 2101
       }
     },
@@ -9511,7 +9584,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-navigating-windows-desktop-215bb947.html.gz",
-        "source_sha256": "60797ea9c3b64f1bfcc112f41527795b6eb74c51789edd080811eac977845c50",
+        "source_sha256": "e60a93b46f6bdda50518c6a899d15f47240f2b733370fad0151af2c18196288b",
         "site_revision": 2101
       }
     },
@@ -9569,7 +9642,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-navigating-your-smartphone-5b27947f.html.gz",
-        "source_sha256": "ef90d88f64a6d3533b92165dfaa3dc9b9241d9903ef8d7f2a772072f971b25bd",
+        "source_sha256": "62726f03e75332f6cd17b6d7f03bc0febe1750da32e7422909d0f3f240411f60",
         "site_revision": 2101
       }
     },
@@ -9627,7 +9700,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-open-computer-lab-session-198811fd.html.gz",
-        "source_sha256": "4650ba6df33f71f1d8f8595807f14013a115024ae8a4d137d35e4610cfd9c469",
+        "source_sha256": "8f8b9990500ede566f871312e834c7b4e20edaec6b757d3bc96b65b25cb64b62",
         "site_revision": 2101
       }
     },
@@ -9685,7 +9758,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-personalizing-events-in-sched-a707b9f9.html.gz",
-        "source_sha256": "b0426213aced2f79f336fc51bf0cfc430dcfefd9866f3aff0b7142e8783dbdd6",
+        "source_sha256": "353fae3769c7978184eeb260ebde446d8cc09990b955430ace76260f0b756f50",
         "site_revision": 2101
       }
     },
@@ -9743,7 +9816,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-powerpoint-capstone-day-3523a791.html.gz",
-        "source_sha256": "318fdc172115bed1bca0a8e300d4b59fe3ba29157d3cea32bb1ea5a7bd7ab453",
+        "source_sha256": "35533d169219676f8c58a33d35f8130c679731158dbdd0619b80ae86ae7c423f",
         "site_revision": 2101
       }
     },
@@ -9801,7 +9874,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-powerpoint-laying-out-themes-35a9f059.html.gz",
-        "source_sha256": "c675ffc099af4647e0382d0643a0c11af0f52c7b3711afcf194fd19136990916",
+        "source_sha256": "4e3030e594aa5f75581e83a9f1c9c72aef319b48a48e063604481eef52d9d201",
         "site_revision": 2101
       }
     },
@@ -9859,7 +9932,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-powerpoint-objects-images-e51753d6.html.gz",
-        "source_sha256": "733b21f6b66595a9aded778c7539fc09f6d67b62956c92b4de755147592d908c",
+        "source_sha256": "0f6c78c7bac23d31bfd2115efeb1563c65a6f6833b105f0797d5fc2a02cd3610",
         "site_revision": 2101
       }
     },
@@ -9917,7 +9990,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-powerpoint-transitions-animations-c885afc0.html.gz",
-        "source_sha256": "1c4cc9c421a388f239cca2924622742d965613b21414eb780e8f3692d4cef7a4",
+        "source_sha256": "84611be2fdefc454da9907b28671d5e642a88b8fca293aa756cec8c1de1334c9",
         "site_revision": 2101
       }
     },
@@ -9975,7 +10048,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-powerpoint-working-with-words-58fa288a.html.gz",
-        "source_sha256": "3b615c2d5c6ae6f8f8bd857b8bdec3afb2f128b814f00ad3b453e84a769eda1f",
+        "source_sha256": "317ada3ff7587045e3ce5a9b34b10882a5383769c97ff8ea59c340a0def5b35f",
         "site_revision": 2101
       }
     },
@@ -10001,7 +10074,7 @@
         "Service list",
         "Robot Coders 101",
         "This session is fully booked.",
-        "Ended Ended Main Office (LIC)",
+        "Ended May 19, 2025 - Jun 4, 2025 Main Office (LIC)",
         "Description",
         "Taught by Special Guest Instructors: Brooklyn Robotics Foundry",
         "Contact Us",
@@ -10022,14 +10095,14 @@
         "https://www.fortunedigitalequity.org/opportunities"
       ],
       "source_links": [],
-      "content_characters": 299,
-      "content_hash": "f9b5fe0e8e2a32540c54b7d672820a5921cdc806e3016ad4e4bc07a89be1e574",
+      "content_characters": 320,
+      "content_hash": "1cb1cb7b1e09f01f75316fb5e3585fe56d3aa62c75245762b7a7b0fa55f5da9c",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "pending Fortune staff review",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-robot-coders-101-221c33e0.html.gz",
-        "source_sha256": "d4a735241ea834f7310ea8e461ab4a19cee7d032add21c9cdda5c9d06c7efbaf",
+        "source_sha256": "595a28fc9a68495b8a8ed48341a2fec218c3e006da8daa3edb5c71149709e2ee",
         "site_revision": 2101
       }
     },
@@ -10087,7 +10160,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-smartphone-photography-essentials-0d2fab89.html.gz",
-        "source_sha256": "27f3dae272bdae3347bd76454bcbb72418da73f19726309df1b3ee4d66644047",
+        "source_sha256": "bf7f36927c8da9dd84ccadd7e4da6a0b90ad1dc9379f8bff956be45d0c5f07fd",
         "site_revision": 2101
       }
     },
@@ -10145,7 +10218,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-smartphone-photography-techniques-aeb83ab9.html.gz",
-        "source_sha256": "eaaf2e766dc635fda3ee13fa6001d39c635fe9237f5e73dc84217fcfda3abc08",
+        "source_sha256": "a24153bf1efa62a437727f084a6c95e575992047175532e529cb76d2b7b20d4c",
         "site_revision": 2101
       }
     },
@@ -10203,7 +10276,65 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-smartphone-professionalism-4365e1e9.html.gz",
-        "source_sha256": "e8f6000478261efbc9ba8d630384bd58dd6ec9f47b39972f82510038cbd459b4",
+        "source_sha256": "ef10faa7c7537061f14026b77278f456f423d470553d655bbbe961e34ecb2b48",
+        "site_revision": 2101
+      }
+    },
+    {
+      "url": "https://www.fortunedigitalequity.org/service-page/spotting-digital-scams",
+      "sitemap_kind": "booking-services",
+      "lastmod": "",
+      "id": "service-service-page-spotting-digital-scams-0221a974",
+      "authority": "answer",
+      "authority_reason": "current public Digital Equity page; published site is the factual authority",
+      "volatile": true,
+      "status": 200,
+      "title": "Spotting Digital Scams | FS Digital Equity",
+      "description": "A guest presentation taught by the TSS Foundation using their Scam Awareness Training Application https://tssfoundationinc.org/Sata-Training/",
+      "headings": [
+        "Service Details",
+        "Spotting Digital Scams",
+        "Description",
+        "Upcoming Sessions"
+      ],
+      "blocks": [
+        "Service Details",
+        "Home",
+        "Service list",
+        "Spotting Digital Scams",
+        "This service is not available, please contact for more information.",
+        "Main Office (LIC)",
+        "Description",
+        "A guest presentation taught by the TSS Foundation using their Scam Awareness Training Application https://tssfoundationinc.org/Sata-Training/",
+        "Upcoming Sessions",
+        "Eastern Daylight Time (EDT) Time Zone: Eastern Daylight Time (EDT)",
+        "No sessions in the next 31 days.",
+        "Contact Us",
+        "Volunteer",
+        "Donate",
+        "Media Kit",
+        "(212) 691-7554",
+        "FSTrain@FortuneSociety.org",
+        "©2026 by Fortune Society Digital Equity Program"
+      ],
+      "internal_links": [
+        "https://www.fortunedigitalequity.org/",
+        "https://www.fortunedigitalequity.org/(212) 691-7554",
+        "https://www.fortunedigitalequity.org/catalog",
+        "https://www.fortunedigitalequity.org/contact",
+        "https://www.fortunedigitalequity.org/fstrain@fortunesociety.org",
+        "https://www.fortunedigitalequity.org/mediakit",
+        "https://www.fortunedigitalequity.org/opportunities"
+      ],
+      "source_links": [],
+      "content_characters": 525,
+      "content_hash": "75f969b1e3e271b067cae22465a846d72648bcf7a308dc94d45b780b2ef8d9ef",
+      "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
+      "approval_state": "pending Fortune staff review",
+      "reviewed_on": null,
+      "rendered_snapshot": {
+        "file": "replica-snapshots/service-service-page-spotting-digital-scams-0221a974.html.gz",
+        "source_sha256": "0565ce4655508b174c158b7839c94e9c05ac361af436222e3ea4d52d8b8dc33f",
         "site_revision": 2101
       }
     },
@@ -10261,7 +10392,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-tech-fair-capstone-day-9265c0c8.html.gz",
-        "source_sha256": "a249e8f38a0e66cc715277e2b05a62919358a15f03d2ae0c52c39fe9ffd83c4a",
+        "source_sha256": "100162ed00296c9a30362abdd10b0c3bf8c9bcbb810079e9a6c446e5a26575c9",
         "site_revision": 2101
       }
     },
@@ -10319,7 +10450,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-tech-time-focused-d3213819.html.gz",
-        "source_sha256": "e31152fdbe64100f02a1ff11d1acfc37bd3fafd360e840152151b83802d29a90",
+        "source_sha256": "22cefd4c5b22d55754dc916bd795a2d7281eff18a408ac360b82c6c87d9aebd2",
         "site_revision": 2101
       }
     },
@@ -10350,12 +10481,11 @@
         "Essential skills practice sessions, with our digital navigators.",
         "Upcoming Sessions",
         "Eastern Daylight Time (EDT) Time Zone: Eastern Daylight Time (EDT)",
-        "Friday, Oct 16",
+        "Monday, Oct 19",
         "1:00 PM",
         "Main Office (LIC)",
         "1 hr",
         "1 hour",
-        "Monday, Oct 19",
         "Friday, Oct 23",
         "Monday, Oct 26",
         "Friday, Oct 30",
@@ -10385,6 +10515,7 @@
         "Friday, Jan 22",
         "Monday, Jan 25",
         "Friday, Jan 29",
+        "Monday, Feb 1",
         "Contact Us",
         "Volunteer",
         "Donate",
@@ -10408,14 +10539,14 @@
           "url": "https://www.fortunedigitalequity.org/service-page/tech-time-foundations-1"
         }
       ],
-      "content_characters": 859,
-      "content_hash": "f8923a51dd9119c37a9c2d7d60a2860fbb794a34ec2c48115a7883b4ef439160",
+      "content_characters": 858,
+      "content_hash": "1be831d015f94f7e23ff05f4eba20678687eea22e17507a63a29926bd63ee6a0",
       "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
       "approval_state": "public source; no additional staff approval claimed",
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-tech-time-foundations-1-1e1b8286.html.gz",
-        "source_sha256": "3b7f3a8258ae331e69dc67e672b14c54200f42fd137e495302aaf38707dea630",
+        "source_sha256": "89f58ff77f28ee49fa7e5d7aec868881438af365bf43806b3ce651743ae0bd96",
         "site_revision": 2101
       }
     },
@@ -10473,7 +10604,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-the-canva-presentations-alternative-1b8b4a52.html.gz",
-        "source_sha256": "47cc6210c213e37b7b60b79d27bdfc384ecb3d0f4be406b8f1e334737a193569",
+        "source_sha256": "62600f45bfa1e8fc72bc4a8b694c4f3ce14ff081a904e10f0787dfd2aca518d6",
         "site_revision": 2101
       }
     },
@@ -10531,7 +10662,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-the-digital-handshake-a4ca3b01.html.gz",
-        "source_sha256": "571496bee36193677b0da3113c5d34e914e537c522d46aa2a58b16f545f95333",
+        "source_sha256": "98d729e726300a659373c83f3ec80552b6cb2396c388a2aed5c0ba41e96a282e",
         "site_revision": 2101
       }
     },
@@ -10589,7 +10720,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-the-google-docs-alternative-0fdc7b41.html.gz",
-        "source_sha256": "97ff5c1d64ca637a8f8eb300ef3ba79a09e16eedab32b268cca17b0cfda6b89d",
+        "source_sha256": "ced72c9919ac8a3de86dac65aeab7ffb02337669a3caf76ac11695d070dfb8e4",
         "site_revision": 2101
       }
     },
@@ -10647,7 +10778,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-the-google-sheets-alternative-e84032e0.html.gz",
-        "source_sha256": "c2f8ec67732e1dd6498219e6c5086e7d80f33ed39f6090b33c4cdd670de17f44",
+        "source_sha256": "e9d8d5a090b943334718c80396f86b8ef7d73fd5c728dc4b0d92140b9a6a0a5f",
         "site_revision": 2101
       }
     },
@@ -10705,7 +10836,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-the-google-slides-alternative-f42e7e91.html.gz",
-        "source_sha256": "c42cbd8c567057b838d8e61d341d9699124ae5733c6a95f0fe34aa9c4b7a5777",
+        "source_sha256": "8880d4e7884008aba5152ae728fe9f3232925cd5a6125b9e3dfd6a55a3d3332b",
         "site_revision": 2101
       }
     },
@@ -10763,7 +10894,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-the-tech-fair-toolkit-adbc1c12.html.gz",
-        "source_sha256": "b84ea886b3028d75bc034507ff5d7e7a317710f10b2893063eae572fc90b2deb",
+        "source_sha256": "334f958ea6e976e3a4613c326f8ed31c5f8f0b3139d0d9e30a3d33cb6daf5f1f",
         "site_revision": 2101
       }
     },
@@ -10821,7 +10952,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-understanding-computers-7e81e953.html.gz",
-        "source_sha256": "05c828fdf8cb080ca9dc12e2b66322da721ad2d45087afda3e51e9b5de8c1768",
+        "source_sha256": "4891884303cf072f1d2a172bb0dbb5027c0b0d0c8e94b47fc68843f7f5d9e873",
         "site_revision": 2101
       }
     },
@@ -10879,7 +11010,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-understanding-file-management-500ea80c.html.gz",
-        "source_sha256": "23ca91a15f4aa51dce51008b1ee0b0c8b8dca527036084e0234b8b53fe3b096e",
+        "source_sha256": "7a7fae8cd3c50c7fa71bebf1afc1b4d78bc865886a470fb5a1f9816e19ad4da8",
         "site_revision": 2101
       }
     },
@@ -10937,7 +11068,65 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-understanding-keyboarding-mousing-da2371f9.html.gz",
-        "source_sha256": "f695837031273b6ed4ee520d3b7f28e23b667c9738d0fd3efdbad055a190590a",
+        "source_sha256": "754cc64af0ea0361627c7afeb846bbb823f3b4dcb5720420ed5e0555abc6c634",
+        "site_revision": 2101
+      }
+    },
+    {
+      "url": "https://www.fortunedigitalequity.org/service-page/viewing-bridging-the-gap-webinar",
+      "sitemap_kind": "booking-services",
+      "lastmod": "",
+      "id": "service-service-page-viewing-bridging-the-gap-webinar-894f9055",
+      "authority": "answer",
+      "authority_reason": "current public Digital Equity page; published site is the factual authority",
+      "volatile": true,
+      "status": 200,
+      "title": "Viewing: Bridging The Gap Webinar | FS Digital Equity",
+      "description": "Join us as we explore how AI is reshaping reentry and the criminal legal system. We'll examine emerging opportunities, potential risks, and critical questions surrounding AI access and equity for the justice-impacted community.​ Register here: https://fortunesociety.zoom.us/webinar/register/WN_ZWSG8eWLSAmqs6SnDcLuhQ#/registration ​Moderated by Reggie Chatman Director of Public Policy at the Fortune Society Featuring Hon. John Zhuo Wang Acting Supreme Court Judge & Presiding Judge for the Midtown Community Justice Center Javier Irizarry Senior Tech Coordinator & AI Literacy Educator at John Jay College Institute for Justice & Opportunity",
+      "headings": [
+        "Service Details",
+        "Viewing: Bridging The Gap Webinar",
+        "Description",
+        "Upcoming Sessions"
+      ],
+      "blocks": [
+        "Service Details",
+        "Home",
+        "Service list",
+        "Viewing: Bridging The Gap Webinar",
+        "This service is not available, please contact for more information.",
+        "Main Office (LIC) | SRP (Bronx) | Fortune Academy (Harlem)",
+        "Description",
+        "Join us as we explore how AI is reshaping reentry and the criminal legal system. We'll examine emerging opportunities, potential risks, and critical questions surrounding AI access and equity for the justice-impacted community.​ Register here: https://fortunesociety.zoom.us/webinar/register/WN_ZWSG8eWLSAmqs6SnDcLuhQ#/registration ​Moderated by Reggie Chatman Director of Public Policy at the Fortune Society Featuring Hon. John Zhuo Wang Acting Supreme Court Judge & Presiding Judge for the Midtown Community Justice Center Javier Irizarry Senior Tech Coordinator & AI Literacy Educator at John Jay College Institute for Justice & Opportunity",
+        "Upcoming Sessions",
+        "Eastern Daylight Time (EDT) Time Zone: Eastern Daylight Time (EDT)",
+        "No sessions in the next 31 days.",
+        "Contact Us",
+        "Volunteer",
+        "Donate",
+        "Media Kit",
+        "(212) 691-7554",
+        "FSTrain@FortuneSociety.org",
+        "©2026 by Fortune Society Digital Equity Program"
+      ],
+      "internal_links": [
+        "https://www.fortunedigitalequity.org/",
+        "https://www.fortunedigitalequity.org/(212) 691-7554",
+        "https://www.fortunedigitalequity.org/catalog",
+        "https://www.fortunedigitalequity.org/contact",
+        "https://www.fortunedigitalequity.org/fstrain@fortunesociety.org",
+        "https://www.fortunedigitalequity.org/mediakit",
+        "https://www.fortunedigitalequity.org/opportunities"
+      ],
+      "source_links": [],
+      "content_characters": 1080,
+      "content_hash": "a613fd4a6b9e77a16e1a1738f375e8a714a92e153697d203da45588628fa46da",
+      "source_owner": "Fortune Society Digital Equity staff (confirmation pending)",
+      "approval_state": "pending Fortune staff review",
+      "reviewed_on": null,
+      "rendered_snapshot": {
+        "file": "replica-snapshots/service-service-page-viewing-bridging-the-gap-webinar-894f9055.html.gz",
+        "source_sha256": "f2f0699c35985a20427b9e03e815340a7b458d4d520cee10d7320420ded0d00f",
         "site_revision": 2101
       }
     },
@@ -10995,7 +11184,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-what-is-ai-83a82854.html.gz",
-        "source_sha256": "a1f39da723daf8f87a215f94dfb5b4b0e383e6ed95e32cf4ba497c9857043dda",
+        "source_sha256": "d0c3e036a59508901f9a26afe998406047a05fdbb977ead698a88fa185c24935",
         "site_revision": 2101
       }
     },
@@ -11053,7 +11242,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-word-capstone-day-74e48e95.html.gz",
-        "source_sha256": "30be89b024702c28a83310e622a1551db2d0ac2666cec74c9fadf4006d14c20b",
+        "source_sha256": "e8a23c032a4077f2b36949e36062e375c2136d1a20e7471b5b76b37ba204f423",
         "site_revision": 2101
       }
     },
@@ -11111,7 +11300,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-word-finalizing-a-draft-03747d9c.html.gz",
-        "source_sha256": "5e71e5ac63c6b000b9a875c69674b8c1c5278cd53760f6250381adc95560fedd",
+        "source_sha256": "a6d0a15ec74ba8a7a933ca7ffd2a2711db56133b9a8dfa5f7667be3768a165c4",
         "site_revision": 2101
       }
     },
@@ -11169,7 +11358,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-word-objects-images-0fca8c0c.html.gz",
-        "source_sha256": "52bfb168cca621cf4762f6e50c0dc3ee9f29fd7997c3cdb1c3978a2e64d50af8",
+        "source_sha256": "818ac40ed5b55a0412008d3642cfbff4424bec184de2983765eac9f93a948a6b",
         "site_revision": 2101
       }
     },
@@ -11227,7 +11416,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-word-structuring-text-f0adef9e.html.gz",
-        "source_sha256": "bd187743b78c3cbc741fc7df56eae0dbbe1bce22046671d1f5308fa035b70377",
+        "source_sha256": "9d27767c5abf20f2540e120ef78ad9ca07b6a7382518fe6c94f00c7c05bdf156",
         "site_revision": 2101
       }
     },
@@ -11285,7 +11474,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/service-service-page-word-working-with-text-c9d5a239.html.gz",
-        "source_sha256": "5d50b83e3b2f558ce75679f9a05f965fd46b639a4ed49485cd8984df0ab60223",
+        "source_sha256": "39c823af21f2ee6749901862b18c36ebc009e66671add6f165bf6b2e8c9bb452",
         "site_revision": 2101
       }
     },
@@ -11406,7 +11595,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-support-0863dc84.html.gz",
-        "source_sha256": "9a3abbf3b1adda9019375a7df0dfa0bbe74b81be1a7e42447f26d5c3af0d5a16",
+        "source_sha256": "7e6b077b82058f08c512824ebb125c15890e7ba4e76b925c9d5c5a9f551d31b2",
         "site_revision": 2101
       }
     },
@@ -11611,7 +11800,7 @@
           "url": "https://www.youtube.com/embed/j63VRG1t-Fg?autoplay=0&mute=1&controls=1&loop=1&origin=https%3A%2F%2Fwww.fortunedigitalequity.org&playsinline=1&playlist=j63VRG1t-Fg&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fwww.fortunedigitalequity.org%2Ftechfair&aoriginsup=1&vf=6"
         },
         {
-          "label": "The Fortune Society's Third Annual Tech Fair",
+          "label": "YouTube video player",
           "url": "https://www.youtube.com/embed/m60tu1I1M60?autoplay=0&mute=1&controls=1&loop=1&origin=https%3A%2F%2Fwww.fortunedigitalequity.org&playsinline=1&playlist=m60tu1I1M60&enablejsapi=1&widgetid=3&forigin=https%3A%2F%2Fwww.fortunedigitalequity.org%2Ftechfair&aoriginsup=1&vf=6"
         },
         {
@@ -11626,7 +11815,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-techfair-54fef774.html.gz",
-        "source_sha256": "9091c2896aaad7185c096836ec4382d9b60f8bba619287aef732b695d17a48b3",
+        "source_sha256": "5c3685a37cfa62d6ebe0aa597c166a010db1e7fa155bc75c1ceab6f383265f12",
         "site_revision": 2101
       }
     },
@@ -11690,7 +11879,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-techfair-contest-cc4650e9.html.gz",
-        "source_sha256": "7c6c42b1344c4d266c101a0d7c21d64c81512c2aae6379793c0d593c762733c0",
+        "source_sha256": "7c0c2583f114b3c374da5cbada670b76da75600af0980e32c8fc072fd7611fdb",
         "site_revision": 2101
       }
     },
@@ -11745,7 +11934,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-techfair-photos-8d79fffd.html.gz",
-        "source_sha256": "8b7798d7ee495d60a602bb9759d273eb5db6df508fcb9bf79cc4c33254d7e5b4",
+        "source_sha256": "655744b32bebb25d364747371bcff49572bd99a0b9e7008956e627bf1fe846f4",
         "site_revision": 2101
       }
     },
@@ -11788,7 +11977,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-techfair-qa-4d40569c.html.gz",
-        "source_sha256": "2b2e5e5c6ba33f1b65c3042567be162b565b2a8946322e69b2d8b40f0ebeebeb",
+        "source_sha256": "a650b7729776a84b2725f3a609591f5458db10bedffb3f1181bd255a8eec4cba",
         "site_revision": 2101
       }
     },
@@ -11826,7 +12015,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-techfair-raffle-d95a56e5.html.gz",
-        "source_sha256": "f20795242eba6c6cb6efb059d9bf50577cc352772525960f52f904a4f646ebfd",
+        "source_sha256": "63e990bb3f8a891f1a596b1ad631d90d11a5aaa4f7efe7af837d431aac102252",
         "site_revision": 2101
       }
     },
@@ -11933,7 +12122,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-techfair-techfair22-01034e95.html.gz",
-        "source_sha256": "805045ca3ed4e6f5789ab5254d41224a485eb1448cef156e0233dd88c5191c71",
+        "source_sha256": "2f9be117fd0352f7d4aa994f50bead95725dacb4cade49f0e339d20f623fd44a",
         "site_revision": 2101
       }
     },
@@ -12051,7 +12240,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-techfair-techfair23-6d746157.html.gz",
-        "source_sha256": "1fcad3c1769c816ff9354893f5b3c5500059c3c4c2b39b397055c8c24430e523",
+        "source_sha256": "1ea187f9b08d2094cc0a9655749ceb74f494143308396c0947454d90913b7315",
         "site_revision": 2101
       }
     },
@@ -12167,7 +12356,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-techfair-techfair24-9df03a5a.html.gz",
-        "source_sha256": "e2c2405190c7b2ffc06e15a941c062e2fb74696c12d0652b908c2b163dd06c12",
+        "source_sha256": "af48eec94c8c0d9e55ffa0d73c9bb16fb1201a465b2e950b0a6b2b4e2b6f2f59",
         "site_revision": 2101
       }
     },
@@ -12273,7 +12462,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-techfair-techfair25-e7232199.html.gz",
-        "source_sha256": "dcf915290d152782d1f39022cc820628da44349d3c55993918fcbff0873c75c1",
+        "source_sha256": "0c2154b87b05bab275acdc0d72af4abd4ced6e4ac8dd893b873b0991d0c5cb45",
         "site_revision": 2101
       }
     },
@@ -12377,7 +12566,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-techfair-techfair26-ca3aab5d.html.gz",
-        "source_sha256": "263d0a32000bc12d720b54fc88004abf2695f602d8b618a2835b4ffd75337971",
+        "source_sha256": "76c7d2268ad82846da4994368d6103daef58230e8da393e642d6c8a408eaf536",
         "site_revision": 2101
       }
     },
@@ -12965,7 +13154,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-workshops-e0a7ad05.html.gz",
-        "source_sha256": "b537dc5a3a4e1fb4c1aa0b502e3d4abc1b9ed2902a910e78a940fbe9ae6cf80e",
+        "source_sha256": "ecd879cbdfd5c4ac1769d40f0ebb8c803b5e696d72fdbacb477f8260a2faf834",
         "site_revision": 2101
       }
     },
@@ -13023,7 +13212,7 @@
       "reviewed_on": null,
       "rendered_snapshot": {
         "file": "replica-snapshots/page-workshops-staff-bbad03d7.html.gz",
-        "source_sha256": "d2d6820010e49be4c458d451be29aa6e5600f4582d5cc63ac2c86c9bda7702f4",
+        "source_sha256": "a6a072a45d507f2d33a58e6e25a651ce44d1d953a33a14810624c841364b34b1",
         "site_revision": 2101
       }
     }

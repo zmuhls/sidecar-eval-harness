@@ -34,14 +34,14 @@ def model_response(source, question="", answer=""):
 class SiteIndexTests(unittest.TestCase):
     def test_current_public_sitemap_inventory_is_present(self):
         self.assertTrue(server.SITE_INDEX_PATH.exists())
-        self.assertEqual(server.SITE_INDEX["unique_urls"], 154)
+        self.assertEqual(server.SITE_INDEX["unique_urls"], 157)
         self.assertEqual(server.SITE_INDEX["sitemap_entries"], 167)
-        self.assertEqual(len(server.SITE_INDEX["pages"]), 154)
+        self.assertEqual(len(server.SITE_INDEX["pages"]), 157)
 
     def test_authority_boundary_is_explicit(self):
         self.assertEqual(
             server.SITE_INDEX["authority_counts"],
-            {"answer": 117, "excluded": 7, "archive": 21, "navigation": 9},
+            {"answer": 120, "excluded": 7, "archive": 21, "navigation": 9},
         )
         self.assertGreaterEqual(len(server.ANSWER_SOURCES), 90)
         self.assertTrue(all(source["authority"] == "answer" for source in server.ANSWER_SOURCES))
@@ -835,7 +835,7 @@ class StagedRetrievalTests(unittest.TestCase):
                 server.SOURCE_BY_ID[server.SOURCE_ID_BY_URL[page["url"]]]
             )
         ]
-        self.assertEqual(len(complete_pages), 117)
+        self.assertEqual(len(complete_pages), 120)
         for page in complete_pages:
             question = f"What does this page say about {page.get('title') or page['id']}?"
             with self.subTest(url=page["url"]):
@@ -2105,16 +2105,27 @@ class ResponseContractTests(unittest.TestCase):
         )
 
     def test_grounded_limitation_may_repeat_a_user_named_item_without_licensing_it(self):
-        calendar = server.SOURCE_BY_ID["calendar"]
+        # The current agenda rotates weekly; entity grounding must not depend
+        # on whether this particular class happens to appear in that capture.
+        calendar = {
+            "id": "calendar-fixture",
+            "url": "https://www.fortunedigitalequity.org/calendar",
+            "title": "Calendar",
+            "blocks": ["Click a date to see available classes."],
+        }
         question = "Is there an Intro to Email class tomorrow?"
         limitation = (
             "I can't confirm whether an Intro to Email class is scheduled tomorrow. "
             "The calendar lets you click a date to see available classes."
         )
-        self.assertTrue(server.model_answer_is_grounded(limitation, calendar))
+        self.assertFalse(server.model_answer_is_grounded(limitation, calendar))
         self.assertTrue(
             server.model_answer_is_grounded(limitation, calendar, question)
         )
+        named_calendar = dict(calendar, blocks=[
+            *calendar["blocks"], "Intro to Email classes are listed on the calendar.",
+        ])
+        self.assertTrue(server.model_answer_is_grounded(limitation, named_calendar))
 
         devices = server.SOURCE_BY_ID["devices"]
         unsupported_question = "Does Acme Computers provide free laptops?"

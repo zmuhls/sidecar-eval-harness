@@ -110,13 +110,19 @@ def calendar_source_fixture(source_url="https://www.fortunedigitalequity.org/cal
 
 
 class IndexRouteTests(unittest.TestCase):
-    def test_real_index_loads_all_154_current_public_html_routes(self):
+    def test_real_index_loads_all_157_current_public_html_routes(self):
         routes = build_pages.load_routes()
 
-        self.assertEqual(len(routes), 154)
-        self.assertEqual(len({route["path"] for route in routes}), 154)
-        self.assertEqual(len({route["pageId"] for route in routes}), 154)
+        self.assertEqual(len(routes), 157)
+        self.assertEqual(len({route["path"] for route in routes}), 157)
+        self.assertEqual(len({route["pageId"] for route in routes}), 157)
         self.assertIn("/", {route["path"] for route in routes})
+        for path in (
+            "/service-page/movie-viewing-mercy",
+            "/service-page/spotting-digital-scams",
+            "/service-page/viewing-bridging-the-gap-webinar",
+        ):
+            self.assertIn(path, {route["path"] for route in routes})
 
     def test_route_path_canonicalizes_trailing_slash(self):
         self.assertEqual(
@@ -685,7 +691,7 @@ class SnapshotRenderingTests(unittest.TestCase):
         self.assertIn('<ul class="source-list">', content)
         self.assertIn("All Services", content)
         self.assertIn("Digital Knowledge Base", content)
-        self.assertEqual(content.count('<li><a href="service-page/'), 68)
+        self.assertEqual(content.count('<li><a href="service-page/'), 71)
         self.assertIn(
             '<li><a href="service-page/intro-to-email/">Intro to Email</a></li>',
             content,
@@ -700,15 +706,10 @@ class SnapshotRenderingTests(unittest.TestCase):
             for href in re.findall(r'href="(https://www\.fortunedigitalequity\.org/service-page/[^"?#]+)"', content)
             if build_pages.route_path(href) not in current_route_paths
         }
-        self.assertEqual(
-            external_service_destinations,
-            {
-                "https://www.fortunedigitalequity.org/service-page/movie-viewing-mercy",
-                "https://www.fortunedigitalequity.org/service-page/spotting-digital-scams",
-                "https://www.fortunedigitalequity.org/service-page/viewing-bridging-the-gap-webinar",
-            },
-        )
-        self.assertEqual(len(re.findall(r'<li><a href="service-page/', content)), 68)
+        self.assertEqual(external_service_destinations, set())
+        for path in ("movie-viewing-mercy", "spotting-digital-scams", "viewing-bridging-the-gap-webinar"):
+            self.assertIn(f'href="service-page/{path}/"', content)
+        self.assertEqual(len(re.findall(r'<li><a href="service-page/', content)), 71)
 
     def test_current_service_snapshot_keeps_breadcrumb_and_visible_source_order(self):
         routes, route, snapshot_html = self._current_snapshot_route("/service-page/intro-to-email")
@@ -721,12 +722,11 @@ class SnapshotRenderingTests(unittest.TestCase):
         expected_order = (
             "Service Details",
             'class="source-breadcrumb"',
+            "This service is not available, please contact for more information.",
             "Intro to Email",
             "Main Office (LIC) | SRP (Bronx) | Fortune Academy (Harlem)",
             "Description",
             "Upcoming Sessions",
-            "Wednesday, Oct 14",
-            "2:00 PM",
         )
         position = -1
         for value in expected_order:
@@ -735,6 +735,7 @@ class SnapshotRenderingTests(unittest.TestCase):
         self.assertIn('href="../../index.html">Home</a>', content)
         self.assertIn('href="../../catalog/">Service list</a>', content)
         self.assertNotIn("No sessions in the next", content)
+        self.assertNotIn("Wednesday, Oct 14", content)
         self.assertNotIn("Time Zone:", content)
         self.assertIn("No email address required prior to class.", content)
 

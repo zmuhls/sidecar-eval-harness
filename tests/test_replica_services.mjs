@@ -132,7 +132,7 @@ test("current AI Safety class markup keeps the October session linked to its sou
 test("every captured service page initializes without changing its description or inventing a booking route", async () => {
   const manifest = JSON.parse(await readFile(new URL("../replica-manifest.json", import.meta.url), "utf8"));
   const services = manifest.pages.filter(page => page.path.startsWith("/service-page/"));
-  assert.equal(services.length, 92);
+  assert.equal(services.length, 95);
   const page = await browser.newPage();
   await page.route("**/*", route => route.abort());
   await page.clock.install({ time: new Date("2026-09-24T04:30:00Z") });
